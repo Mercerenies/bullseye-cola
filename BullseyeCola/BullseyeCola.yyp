@@ -12,6 +12,8 @@
   "defaultScriptType": 1,
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Rooms","folderPath":"folders/Rooms.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Background Tiles","folderPath":"folders/Background Tiles.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sprites","folderPath":"folders/Background Tiles/Sprites.yy",},
   ],
   "IncludedFiles": [],
   "isEcma": false,
@@ -20,6 +22,9 @@
     "IDEVersion": "2023.6.0.92",
   },
   "resources": [
+    {"id":{"name":"obj_BasicFloorTile","path":"objects/obj_BasicFloorTile/obj_BasicFloorTile.yy",},},
+    {"id":{"name":"spr_BasicFloorTile","path":"sprites/spr_BasicFloorTile/spr_BasicFloorTile.yy",},},
+    {"id":{"name":"par_FloorTile","path":"objects/par_FloorTile/par_FloorTile.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [

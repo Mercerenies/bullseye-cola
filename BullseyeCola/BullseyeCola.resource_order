@@ -1,6 +1,11 @@
 {
   "FolderOrderSettings": [
     {"name":"Rooms","order":10,"path":"folders/Rooms.yy",},
+    {"name":"Background Tiles","order":11,"path":"folders/Background Tiles.yy",},
+    {"name":"Sprites","order":1,"path":"folders/Background Tiles/Sprites.yy",},
   ],
-  "ResourceOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"obj_BasicFloorTile","order":3,"path":"objects/obj_BasicFloorTile/obj_BasicFloorTile.yy",},
+    {"name":"par_FloorTile","order":2,"path":"objects/par_FloorTile/par_FloorTile.yy",},
+  ],
 }
