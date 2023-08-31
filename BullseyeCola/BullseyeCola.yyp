@@ -44,6 +44,7 @@
     {"id":{"name":"spr_PlayerUp","path":"sprites/spr_PlayerUp/spr_PlayerUp.yy",},},
     {"id":{"name":"scr_Input","path":"scripts/scr_Input/scr_Input.yy",},},
     {"id":{"name":"ctrl_PlayerMovementManager","path":"objects/ctrl_PlayerMovementManager/ctrl_PlayerMovementManager.yy",},},
+    {"id":{"name":"struct_PlayerRotateAction","path":"scripts/struct_PlayerRotateAction/struct_PlayerRotateAction.yy",},},
     {"id":{"name":"spr_PlayerDown","path":"sprites/spr_PlayerDown/spr_PlayerDown.yy",},},
     {"id":{"name":"ctrl_ActionQueue","path":"objects/ctrl_ActionQueue/ctrl_ActionQueue.yy",},},
     {"id":{"name":"scr_Constants","path":"scripts/scr_Constants/scr_Constants.yy",},},
