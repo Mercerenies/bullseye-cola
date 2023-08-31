@@ -32,6 +32,9 @@
     "name": "spr_Barrel",
     "path": "sprites/spr_Barrel/spr_Barrel.yy",
   },
-  "spriteMaskId": null,
+  "spriteMaskId": {
+    "name": "spr_SolidObjectMask",
+    "path": "sprites/spr_SolidObjectMask/spr_SolidObjectMask.yy",
+  },
   "visible": true,
 }
