@@ -7,9 +7,7 @@ function PlayerRotateChange(src_facing_, dest_facing_) : UndoableChange() constr
     return src_facing != dest_facing;
   }
 
-  static apply = function() {
-    push_action(new PlayerRotateAction(dest_facing));
-  }
+  static apply = function() {}
 
   static undo = function() {
     obj_Player.facing_direction = src_facing;

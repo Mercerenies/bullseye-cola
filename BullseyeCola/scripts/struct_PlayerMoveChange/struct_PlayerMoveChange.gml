@@ -7,9 +7,7 @@ function PlayerMoveChange(src_x_, src_y_, src_facing_, dest_x_, dest_y_, dest_fa
   dest_y = dest_y_;
   dest_facing = dest_facing_;
 
-  static apply = function() {
-    push_action(new PlayerMoveAction(src_x, src_y, dest_x, dest_y, dest_facing));
-  }
+  static apply = function() {}
 
   static undo = function() {
     obj_Player.x = src_x;

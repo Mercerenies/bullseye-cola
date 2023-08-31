@@ -15,7 +15,7 @@ if (is_player_idle()) {
     var dir = input_get_direction();
     if (!is_undefined(dir)) {
       if (input_shift_modifier()) {
-        undo_stack_apply_change(new PlayerRotateChange(obj_Player.facing_direction, dir));
+        push_action(new PlayerRotateAction(obj_Player.facing_direction, dir));
       } else {
         try_move_player(dir);
       }
