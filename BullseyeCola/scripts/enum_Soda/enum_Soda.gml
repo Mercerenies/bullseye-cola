@@ -6,7 +6,7 @@ enum Soda {
   KICK = 1,
   HOP = 2,
   BOOM = 4,
-  SPIN_LEFT = 8,
+  LEFT = 8,
   RUSH = 16,
-  SPIN_RIGHT = 32,
+  RIGHT = 32,
 }

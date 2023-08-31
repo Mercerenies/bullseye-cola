@@ -4,10 +4,10 @@ function soda_get_name(soda) {
     return "Water";
   }
   var prefix = "";
-  if (soda & Soda.SPIN_LEFT) {
+  if (soda & Soda.LEFT) {
     prefix += "Left ";
   }
-  if (soda & Soda.SPIN_RIGHT) {
+  if (soda & Soda.RIGHT) {
     prefix += "Right ";
   }
   if (soda & Soda.BOOM) {

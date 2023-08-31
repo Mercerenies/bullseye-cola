@@ -28,6 +28,8 @@
     - Like a block but explosive by default
     - Explodes if another explosion hits it, causing a chain reaction
 * RECIPES
+** ALL RECIPES
+  Omitting Right recipes by symmetry
   + ∅ :: Water; no effect
   + Kick :: Kick block or object in front, propelling it as far as possible.
   + Hop :: Hop over a one-block gap; cannot hop over blocks or other walls
@@ -36,14 +38,14 @@
   + Boom + Kick :: Kick block; block explodes when it hits a wall
   + Boom + Hop :: (Sequential) Hop, then Boom
   + Boom + Hop + Kick :: (Sequential) Hop, then [Boom + Kick]
-  + Spin Left :: Spin in place; cosmetic effect
-  + Spin Left + Kick :: Diagonal left kick
-  + Spin Left + Hop :: Diagonal left hop
-  + Spin Left + Hop + Kick :: (Sequential) Diagonal left hop + Diagonal left kick
-  + Spin Left + Boom :: Boom w/ cosmetic animation
-  + Spin Left + Boom + Kick :: Boom + Kick effect, but diagonally left
-  + Spin Left + Boom + Hop :: (Sequential) [Spin Left + Hop], then [Spin Left + Boom]
-  + Spin Left + Boom + Hop + Kick :: (Sequential) [Spin Left + Hop], then [Spin Left + Boom + Kick]
+  + Left :: Move diagonal-left once
+  + Left + Kick :: Diagonal left kick
+  + Left + Hop :: Diagonal left hop
+  + Left + Hop + Kick :: (Sequential) Diagonal left hop + Diagonal left kick
+  + Left + Boom :: (Sequential) Left, then Boom
+  + Left + Boom + Kick :: Boom + Kick effect, but diagonally left
+  + Left + Boom + Hop :: (Sequential) [Left + Hop], then [Left + Boom]
+  + Left + Boom + Hop + Kick :: (Sequential) [Left + Hop], then [Left + Boom + Kick]
   + Rush :: Dash forward until stopped; can run over tightropes
   + Rush + Kick :: (Sequential) Rush, then Kick
   + Rush + Hop :: Hop forward until forced to stop
@@ -52,14 +54,14 @@
   + Rush + Boom + Kick :: (Sequential) Rush, then [Boom + Kick]
   + Rush + Boom + Hop :: [Hop + Boom] repeatedly until forced to stop
   + Rush + Boom + Hop + Kick :: [Hop + Boom + Kick] repeatedly until forced to stop
-  + Rush + Spin Left :: Diagonal-left run until stopped
-  + Rush + Spin Left + Kick :: Diagonal-left run until stopped, then kick diagonal left
-  + Rush + Spin Left + Hop :: Diagonal-left hop until stopped
-  + Rush + Spin Left + Hop + Kick :: Diagonal-left hop, then diagonal-left kick, until stopped
-  + Rush + Spin Left + Boom :: (Sequential) [Rush + Spin Left], then Boom
-  + Rush + Spin Left + Boom + Kick :: (Sequential) [Rush + Spin Left], then [Boom + Kick + Spin Left]
-  + Rush + Spin Left + Boom + Hop :: Hop diagonal-left repeatedly until stopped, exploding each time
-  + Rush + Spin Left + Boom + Hop + Kick :: Hop diagonal-left repeatedly until stopped, exploding and kicking each time
+  + Rush + Left :: Diagonal-left run until stopped
+  + Rush + Left + Kick :: Diagonal-left run until stopped, then kick diagonal left
+  + Rush + Left + Hop :: Diagonal-left hop until stopped
+  + Rush + Left + Hop + Kick :: Diagonal-left hop, then diagonal-left kick, until stopped
+  + Rush + Left + Boom :: (Sequential) [Rush + Left], then Boom
+  + Rush + Left + Boom + Kick :: (Sequential) [Rush + Left], then [Boom + Kick + Left]
+  + Rush + Left + Boom + Hop :: Hop diagonal-left repeatedly until stopped, exploding each time
+  + Rush + Left + Boom + Hop + Kick :: Hop diagonal-left repeatedly until stopped, exploding and kicking each time
 * STORY
   + Jerry from Tech Support has won a golden ticket in his favorite
     soda can: Bullseye Cola. He gets invited to the factory that
