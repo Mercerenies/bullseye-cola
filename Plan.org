@@ -73,3 +73,8 @@
 * CONTROLS
   + WASD or Arrow Keys :: Move
   + Shift + [WASD or Arrow Keys] :: Turn in place
+  + Backspace :: Undo
+  + Escape :: Restart room (always works; even when not idle)
+* CREDITS
+  + Undo Stack
+  + Community Toolbox

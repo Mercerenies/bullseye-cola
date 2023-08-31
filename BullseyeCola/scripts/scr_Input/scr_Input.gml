@@ -19,6 +19,14 @@ function input_shift_modifier() {
   return keyboard_check(vk_shift);
 }
 
+function input_undo() {
+  return keyboard_check_pressed(vk_backspace);
+}
+
+function input_restart() {
+  return keyboard_check_pressed(vk_escape);
+}
+
 function input_get_direction() {
   if (input_down()) {
     return Direction.DOWN;

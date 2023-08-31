@@ -9,3 +9,5 @@ if (animating) {
 } else {
   image_index = 0;
 }
+
+draw_self();

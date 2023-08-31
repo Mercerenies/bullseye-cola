@@ -5,9 +5,10 @@ function try_move_player(dir) {
   var dest_x = src_x + lengthdir_x(GRID_SIZE, dir * 90);
   var dest_y = src_y + lengthdir_y(GRID_SIZE, dir * 90);
   if (can_move_to(dest_x, dest_y)) {
-    push_action(new PlayerMoveAction(src_x, src_y, dest_x, dest_y, dir));
+    undo_stack_begin_move();
+    undo_stack_apply_change(new PlayerMoveChange(src_x, src_y, obj_Player.facing_direction, dest_x, dest_y, dir));
   } else {
-    push_action(new PlayerRotateAction(dir));
+    undo_stack_apply_change(new PlayerRotateChange(obj_Player.facing_direction, dir));
   }
 }
 

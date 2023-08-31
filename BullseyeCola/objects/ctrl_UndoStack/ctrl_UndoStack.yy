@@ -1,17 +1,16 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_Player",
+  "name": "ctrl_UndoStack",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":12,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Player",
-    "path": "folders/Player.yy",
+    "name": "Undo Stack",
+    "path": "folders/_Packages/Alphish/Undo Stack.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -29,10 +28,7 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": {
-    "name": "spr_PlayerMask",
-    "path": "sprites/spr_PlayerMask/spr_PlayerMask.yy",
-  },
+  "spriteId": null,
   "spriteMaskId": null,
   "visible": true,
 }
