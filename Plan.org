@@ -70,3 +70,6 @@
     Maximilian, who died twenty years ago. The robot has been looking
     for a replacement CEO and offers control over the factory to
     Jerry.
+* CONTROLS
+  + WASD or Arrow Keys :: Move
+  + Shift + [WASD or Arrow Keys] :: Turn in place

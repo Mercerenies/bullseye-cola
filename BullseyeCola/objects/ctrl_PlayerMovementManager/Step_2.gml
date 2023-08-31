@@ -1,13 +1,12 @@
 /// @description Check for directional inputs
 
 if (is_player_idle()) {
-  if (input_down()) {
-    try_move_player(Direction.DOWN);
-  } else if (input_left()) {
-    try_move_player(Direction.LEFT);
-  } else if (input_up()) {
-    try_move_player(Direction.UP);
-  } else if (input_right()) {
-    try_move_player(Direction.RIGHT);
+  var dir = input_get_direction();
+  if (!is_undefined(dir)) {
+    if (input_shift_modifier()) {
+      push_action(new PlayerRotateAction(dir));
+    } else {
+      try_move_player(dir);
+    }
   }
 }

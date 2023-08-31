@@ -14,3 +14,20 @@ function input_down() {
 function input_right() {
   return keyboard_check(vk_right) || keyboard_check(ord("D"));
 }
+
+function input_shift_modifier() {
+  return keyboard_check(vk_shift);
+}
+
+function input_get_direction() {
+  if (input_down()) {
+    return Direction.DOWN;
+  } else if (input_left()) {
+    return Direction.LEFT;
+  } else if (input_up()) {
+    return Direction.UP;
+  } else if (input_right()) {
+    return Direction.RIGHT;
+  }
+  return undefined;
+}
