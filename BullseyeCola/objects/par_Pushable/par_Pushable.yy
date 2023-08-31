@@ -1,21 +1,19 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_Player",
+  "name": "par_Pushable",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Player",
-    "path": "folders/Player.yy",
+    "name": "Solid Objects",
+    "path": "folders/Solid Objects.yy",
   },
   "parentObjectId": {
-    "name": "par_PhysicalObject",
-    "path": "objects/par_PhysicalObject/par_PhysicalObject.yy",
+    "name": "par_Solid",
+    "path": "objects/par_Solid/par_Solid.yy",
   },
   "persistent": false,
   "physicsAngularDamping": 0.1,
@@ -32,10 +30,7 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": {
-    "name": "spr_PlayerMask",
-    "path": "sprites/spr_PlayerMask/spr_PlayerMask.yy",
-  },
+  "spriteId": null,
   "spriteMaskId": null,
   "visible": true,
 }

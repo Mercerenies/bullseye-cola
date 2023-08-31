@@ -1,4 +1,6 @@
 
+event_inherited();
+
 // Sprite Animations
 sprite_index = directionToPlayerSprite(facing_direction);
 if (is_player_idle()) {
