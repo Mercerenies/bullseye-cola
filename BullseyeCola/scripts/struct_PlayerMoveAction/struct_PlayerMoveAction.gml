@@ -12,6 +12,7 @@ function PlayerMoveAction(src_x_, src_y_, dest_x_, dest_y_, dir_) : Action() con
     obj_Player.x = lerp(src_x, dest_x, animation_time);
     obj_Player.y = lerp(src_y, dest_y, animation_time);
     obj_Player.facing_direction = dir;
+    obj_Player.animating = true;
   }
 
   static is_finished = function() {

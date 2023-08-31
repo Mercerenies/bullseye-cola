@@ -7,7 +7,7 @@ function try_move_player(dir) {
   if (can_move_to(dest_x, dest_y)) {
     push_action(new PlayerMoveAction(src_x, src_y, dest_x, dest_y, dir));
   } else {
-    
+    push_action(new PlayerRotateAction(dir));
   }
 }
 
