@@ -2,6 +2,10 @@
 function Action() constructor {
   // Abstract base class.
 
+  static on_start = function() {
+    // Default implementation is empty.
+  }
+
   static run_step = function() {
     // Abstract method.
   }

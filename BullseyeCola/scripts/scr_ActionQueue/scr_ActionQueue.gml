@@ -4,5 +4,5 @@ function push_action(action) {
 }
 
 function is_player_idle() {
-  return ds_queue_empty(ctrl_ActionQueue.action_queue);
+  return (ds_queue_empty(ctrl_ActionQueue.action_queue) && is_undefined(ctrl_ActionQueue.current_action));
 }
