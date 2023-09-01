@@ -67,7 +67,6 @@
     {"id":{"name":"obj_BasicFloorTile","path":"objects/obj_BasicFloorTile/obj_BasicFloorTile.yy",},},
     {"id":{"name":"spr_BasicFloorTile","path":"sprites/spr_BasicFloorTile/spr_BasicFloorTile.yy",},},
     {"id":{"name":"spr_UISodaCan","path":"sprites/spr_UISodaCan/spr_UISodaCan.yy",},},
-    {"id":{"name":"scr_UISodaCan","path":"scripts/scr_UISodaCan/scr_UISodaCan.yy",},},
     {"id":{"name":"spr_SodaIcons","path":"sprites/spr_SodaIcons/spr_SodaIcons.yy",},},
     {"id":{"name":"utils_CommunityToolboxJson","path":"scripts/utils_CommunityToolboxJson/utils_CommunityToolboxJson.yy",},},
     {"id":{"name":"par_Solid","path":"objects/par_Solid/par_Solid.yy",},},
