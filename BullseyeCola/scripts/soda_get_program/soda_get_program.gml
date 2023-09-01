@@ -17,8 +17,10 @@ function soda_get_program(soda_number) {
     break;
   case 7:
     break;
-  case 8:
-    break;
+  case 8: // Left Cola
+    return new Program([
+      new MoveInDirectionCode(1),
+    ]);
   case 9:
     break;
   case 10:
@@ -65,8 +67,10 @@ function soda_get_program(soda_number) {
     break;
   case 31:
     break;
-  case 32:
-    break;
+  case 32: // Right Cola
+    return new Program([
+      new MoveInDirectionCode(-1),
+    ]);
   case 33:
     break;
   case 34:

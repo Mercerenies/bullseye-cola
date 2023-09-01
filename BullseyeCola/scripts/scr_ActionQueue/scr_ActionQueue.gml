@@ -17,11 +17,34 @@ function Program(code_array_) constructor {
   index = 0;
 
   static execute_step = function() {
-    // TODO
+    if (is_finished()) {
+      return;
+    }
+    var code = code_array[index];
+    index++;
+    code.execute(self);
   }
 
   static is_finished = function() {
     return index >= array_length(code_array);
+  }
+
+}
+
+// Abstract base class.
+function Code() constructor {
+
+  static execute = function(program) {
+    // Abstract method.
+  }
+
+}
+
+function MoveInDirectionCode(relative_dir_) : Code() constructor {
+  relative_dir = relative_dir_;
+
+  static execute = function(program) {
+    shove_player_in(relative_dir + obj_Player.facing_direction);
   }
 
 }

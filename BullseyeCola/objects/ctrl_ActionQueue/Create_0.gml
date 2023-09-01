@@ -34,5 +34,8 @@ do_step = function() {
     while ((!current_program.is_finished()) && (ds_queue_empty(action_queue))) {
       current_program.execute_step();
     }
+    if (current_program.is_finished()) {
+      current_program = undefined;
+    }
   }
 }

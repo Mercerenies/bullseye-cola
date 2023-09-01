@@ -2,7 +2,11 @@
 
 if (dragging) {
   if ((x < UI_LEFT_THRESHOLD) && (is_player_idle())) {
-    // Apply soda effect (TODO)
+    // Apply soda effect
+    undo_stack_begin_move();
+    undo_stack_apply_change(new SodaCanDestroyChange(soda_number, last_anchor_x, last_anchor_y));
+    set_executing_program(soda_get_program(soda_number));
+    instance_destroy();
   } else {
     var overlapping_soda = instance_place(x, y, ui_UISodaCan);
     if (instance_exists(overlapping_soda) && is_player_idle()) {

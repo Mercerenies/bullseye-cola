@@ -11,7 +11,7 @@ enum Direction {
 }
 
 function direction_to_player_sprite(dir) {
-  switch (dir) {
+  switch (eucmod(dir, 8)) {
   case Direction.RIGHT:
     return spr_PlayerRight;
   case Direction.UP_RIGHT:
@@ -29,7 +29,7 @@ function direction_to_player_sprite(dir) {
 }
 
 function direction_x(dir) {
-  switch (dir) {
+  switch (eucmod(dir, 8)) {
   case Direction.RIGHT:
   case Direction.UP_RIGHT:
   case Direction.DOWN_RIGHT:
@@ -43,7 +43,7 @@ function direction_x(dir) {
 }
 
 function direction_y(dir) {
-  switch (dir) {
+  switch (eucmod(dir, 8)) {
   case Direction.UP:
   case Direction.UP_RIGHT:
   case Direction.UP_LEFT:

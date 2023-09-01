@@ -17,16 +17,37 @@ function try_move_player(dir) {
   }
 }
 
+function shove_player_in(dir) {
+  var player_dir = obj_Player.facing_direction;
+  var src_x = obj_Player.x;
+  var src_y = obj_Player.y;
+  var dest_x = src_x + direction_x(dir);
+  var dest_y = src_y + direction_y(dir);
+  if (can_be_moved_to(dest_x, dest_y, dir)) {
+    var action = new PlayerMoveAction(src_x, src_y, player_dir, dest_x, dest_y, player_dir);
+    var overlapping_object = instance_position(dest_x, dest_y, par_Solid);
+    if (instance_exists(overlapping_object)) {
+      action = new ParallelAction([action, overlapping_object.on_move_onto(dir)]);
+    }
+    push_action(action);
+  }
+}
+
 function can_move_to(dest_x, dest_y, dir) {
   if (!position_meeting(dest_x, dest_y, par_FloorTile)) {
     return false;
   }
+  if (!can_be_moved_to(dest_x, dest_y, dir)) {
+    return false;
+  }
+  return true;
+}
 
+function can_be_moved_to(dest_x, dest_y, dir) {
   var solid_object = instance_position(dest_x, dest_y, par_Solid);
   if ((instance_exists(solid_object)) && (!solid_object.can_move_onto(dir))) {
     return false;
   }
-
   return true;
 }
 
