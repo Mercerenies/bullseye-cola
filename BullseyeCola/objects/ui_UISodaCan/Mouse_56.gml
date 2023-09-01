@@ -15,9 +15,7 @@ if (dragging) {
       undo_stack_apply_change(new SodaCanTransmuteChange(overlapping_soda.x, overlapping_soda.y, old_soda_number, new_soda_number));
       instance_destroy();
     } else {
-      // Clamp position and drop
-      x = clamp(x, UI_LEFT_THRESHOLD, UI_RIGHT_THRESHOLD);
-      y = clamp(y, UI_TOP_THRESHOLD, UI_BOTTOM_THRESHOLD);
+      // Drop
       undo_stack_apply_change(new SodaCanMoveChange(last_anchor_x, last_anchor_y, x, y));
     }
   }

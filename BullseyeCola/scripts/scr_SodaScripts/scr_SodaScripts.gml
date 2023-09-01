@@ -1,4 +1,8 @@
 
+function soda_get_tagline(soda) {
+  return soda_get_name(soda) + " - " + soda_get_description(soda);
+}
+
 function soda_get_name(soda) {
   if (soda == 0) {
     return "Water";
