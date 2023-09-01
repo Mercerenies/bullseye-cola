@@ -98,5 +98,5 @@ function soda_get_program(soda_number) {
   case 55:
     break;
   }
-  return undefined;
+  return new Program([]);
 }
