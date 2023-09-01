@@ -11,7 +11,7 @@ if (input_restart()) {
 if (is_player_idle()) {
   if (input_undo()) {
     undo_stack_undo();
-  } else {
+  } else if (is_player_alive()) {
     var dir = input_get_direction();
     if (!is_undefined(dir)) {
       if (input_shift_modifier()) {

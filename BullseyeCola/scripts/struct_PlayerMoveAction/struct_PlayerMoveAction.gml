@@ -24,4 +24,8 @@ function PlayerMoveAction(src_x_, src_y_, src_dir_, dest_x_, dest_y_, dest_dir_)
     return (animation_time >= 1.0);
   }
 
+  static on_finish = function() {
+    check_if_should_fall(obj_Player.id);
+  }
+
 }

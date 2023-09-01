@@ -7,6 +7,10 @@ function is_player_idle() {
   return (ds_queue_empty(ctrl_ActionQueue.action_queue) && is_undefined(ctrl_ActionQueue.current_action) && is_undefined(ctrl_ActionQueue.current_program));
 }
 
+function is_player_alive() {
+  return !obj_Player.destroyed;
+}
+
 // Clobbers any existing program, if there is one.
 function set_executing_program(program) {
   ctrl_ActionQueue.current_program = program;

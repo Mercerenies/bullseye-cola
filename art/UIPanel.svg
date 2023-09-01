@@ -86,9 +86,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="-548.83225"
-     inkscape:cy="723.53085"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="-633.65609"
+     inkscape:cy="620.35967"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -499,5 +499,85 @@
          x="-194.17508"
          y="217.42526"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583">Drag Soda</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:900;font-size:4.9389px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Heavy';stroke-width:0.264583"
+       x="-108.54247"
+       y="208.15045"
+       id="text3361"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan3359"
+         x="-108.54247"
+         y="208.15045"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583">Undo</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:900;font-size:4.9389px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Heavy';stroke-width:0.264583"
+       x="-114.27465"
+       y="215.07901"
+       id="text3365"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan3363"
+         x="-114.27465"
+         y="215.07901"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583">Restart</tspan></text>
+    <g
+       id="g3403"
+       transform="translate(16.439043,6.0128933)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.216651;stroke-opacity:1;stop-color:#000000"
+         id="rect3395"
+         width="13.449641"
+         height="4.0283909"
+         x="-139.9921"
+         y="198.17068" />
+      <path
+         id="path3397"
+         style="fill:none;stroke:#000000;stroke-width:0.0705031;stroke-opacity:1;stop-color:#000000"
+         d="m -139.39516,200.0633 0.99506,1.24055 0.002,-0.67045 h 1.50129 v -1.07367 h -1.49594 l 0.003,-0.70006 z"
+         sodipodi:nodetypes="cccccccc" />
+      <text
+         xml:space="preserve"
+         style="font-weight:900;font-size:2.37885px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Heavy';stroke-width:0.178413"
+         x="-161.21739"
+         y="170.50414"
+         id="text3401"
+         transform="scale(0.84787541,1.1794186)"><tspan
+           sodipodi:role="line"
+           id="tspan3399"
+           x="-161.21739"
+           y="170.50414"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.37885px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.178413">Backspace</tspan></text>
+    </g>
+    <g
+       id="g3447"
+       transform="translate(-11.103051,0.37797619)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.204161;stroke-opacity:1;stop-color:#000000"
+         id="rect3373"
+         width="4.8554592"
+         height="4.8554592"
+         x="-110.4296"
+         y="210.57329" />
+      <text
+         xml:space="preserve"
+         style="font-weight:900;font-size:2.57014px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Heavy';stroke-width:0.137686"
+         x="-110.25058"
+         y="214.06075"
+         id="text3379"><tspan
+           sodipodi:role="line"
+           id="tspan3377"
+           x="-110.25058"
+           y="214.06075"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.137686">Esc</tspan></text>
+    </g>
   </g>
 </svg>
