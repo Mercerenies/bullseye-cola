@@ -3,6 +3,9 @@ event_inherited();
 
 // Sprite Animations
 sprite_index = direction_to_player_sprite(facing_direction);
+if (hopping) {
+  sprite_index = direction_to_player_jump_sprite(facing_direction);
+}
 if (is_player_idle()) {
   animating = false;
 }

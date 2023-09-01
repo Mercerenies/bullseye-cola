@@ -10,6 +10,7 @@ function PlayerHopAction(src_x_, src_y_, facing_dir_, dest_x_, dest_y_) : Action
 
   static on_start = function() {
     undo_stack_apply_change(new PlayerMoveChange(src_x, src_y, facing_dir, dest_x, dest_y, facing_dir));
+    obj_Player.hopping = true;
   }
 
   static run_step = function() {
@@ -20,7 +21,6 @@ function PlayerHopAction(src_x_, src_y_, facing_dir_, dest_x_, dest_y_) : Action
     var zz = jump_height * (4 * (1 - animation_time) * animation_time);
     obj_Player.x = xx;
     obj_Player.y = yy - zz;
-    obj_Player.animating = true;
   }
 
   static is_finished = function() {
@@ -29,6 +29,7 @@ function PlayerHopAction(src_x_, src_y_, facing_dir_, dest_x_, dest_y_) : Action
 
   static on_finish = function() {
     check_if_should_fall(obj_Player.id);
+    obj_Player.hopping = false;
   }
 
 }

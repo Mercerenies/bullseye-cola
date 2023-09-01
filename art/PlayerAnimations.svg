@@ -23,9 +23,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.959798"
-     inkscape:cx="172.3741"
-     inkscape:cy="195.99109"
+     inkscape:zoom="1.979899"
+     inkscape:cx="349.15589"
+     inkscape:cy="199.40972"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -52,6 +52,52 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <rect
+       style="font-variation-settings:normal;vector-effect:none;fill:#f0a51c;fill-opacity:1;stroke:#593e0b;stroke-width:0.023486;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="rect5230"
+       width="1.7176197"
+       height="4.6577759"
+       x="-114.39665"
+       y="100.83569"
+       ry="0.92352456"
+       rx="0.85880983"
+       transform="matrix(-0.99106133,-0.13340708,-0.10477795,0.99449564,0,0)"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\UpJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <g
+       id="g5242"
+       transform="matrix(-1,0,0,1,120.8096,2.3788664)"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\UpJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099">
+      <g
+         id="g5240"
+         transform="matrix(0.69904062,0.66682887,-0.70029951,0.73412809,87.493309,18.510552)">
+        <rect
+           style="font-variation-settings:normal;vector-effect:none;fill:#f0a51c;fill-opacity:1;stroke:#593e0b;stroke-width:0.0234981;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+           id="rect5232"
+           width="1.7322457"
+           height="4.6232023"
+           x="49.516113"
+           y="104.18246"
+           ry="0.91666955"
+           rx="0.86612284"
+           transform="matrix(0.94838536,0.31712017,-0.26571956,0.96405037,0,0)" />
+        <g
+           id="g5238"
+           transform="matrix(0.73566714,0.32651519,0.41065626,-0.87627963,7.9173137,136.77428)">
+          <path
+             id="path5234"
+             style="font-variation-settings:normal;vector-effect:none;fill:#f0a51c;fill-opacity:1;stroke:#593e0b;stroke-width:0.0347143;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+             d="m 4.0362258,19.77711 a 1.0213489,0.74906713 17.014881 0 1 0.751506,1.0134 1.0213489,0.74906713 17.014881 0 1 -0.0538,0.12153 1.0213489,0.74906713 17.014881 0 0 -0.780736,-0.88461 1.0213489,0.74906713 17.014881 0 0 -1.142046,0.29608 1.0213489,0.74906713 17.014881 0 1 0.02332,-0.13074 1.0213489,0.74906713 17.014881 0 1 1.195882,-0.41746 1.0213489,0.74906713 17.014881 0 1 0.0059,0.002 z" />
+          <path
+             id="path5236"
+             style="font-variation-settings:normal;vector-effect:none;fill:#f0a51c;fill-opacity:1;stroke:#593e0b;stroke-width:0.0347143;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+             d="m 4.0367388,19.55148 a 1.0213489,0.74906713 11.804793 0 1 0.840427,0.94097 1.0213489,0.74906713 11.804793 0 1 -0.04254,0.12592 1.0213489,0.74906713 11.804793 0 0 -0.857841,-0.81006 1.0213489,0.74906713 11.804793 0 0 -1.110441,0.39856 1.0213489,0.74906713 11.804793 0 1 0.01135,-0.13231 1.0213489,0.74906713 11.804793 0 1 1.153031,-0.52434 1.0213489,0.74906713 11.804793 0 1 0.006,0.001 z" />
+        </g>
+      </g>
+    </g>
     <rect
        style="font-variation-settings:normal;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.0392017;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
        id="rect4409-1-9-4-2"
@@ -11066,6 +11112,2155 @@
        ry="0.86795318"
        transform="matrix(-0.16418657,-0.9864293,0.99903068,-0.04401934,0,0)"
        inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\Up3.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <rect
+       style="font-variation-settings:normal;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.0392017;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="rect4409-1-9-4-2-7"
+       width="4.229692"
+       height="1.4759804"
+       x="106.70883"
+       y="-15.779782"
+       rx="0.75917584"
+       ry="0.50183511"
+       transform="matrix(0.88430355,0.46691244,-0.30071214,0.95371495,0,0)"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\LeftJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <rect
+       style="font-variation-settings:normal;vector-effect:none;fill:#26284f;fill-opacity:1;stroke:#000000;stroke-width:0.0470453;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="rect2224-0-7-0-6-3"
+       width="2.0018711"
+       height="4.188849"
+       x="101.18179"
+       y="-44.625732"
+       ry="0.77696532"
+       rx="1.0009356"
+       transform="matrix(0.76097442,0.64878189,-0.60881632,0.79331122,0,0)"
+       inkscape:transform-center-x="0.85443132"
+       inkscape:transform-center-y="1.0956413"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\LeftJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <rect
+       style="font-variation-settings:normal;vector-effect:none;fill:#26284f;fill-opacity:1;stroke:#000000;stroke-width:0.0471136;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="rect4407-8-0-4-0-9"
+       width="1.9559008"
+       height="4.2997561"
+       x="106.8313"
+       y="-22.384182"
+       ry="0.79753685"
+       rx="0.97795039"
+       transform="matrix(0.86850274,0.49568436,-0.41394533,0.91030174,0,0)"
+       inkscape:transform-center-x="0.59975746"
+       inkscape:transform-center-y="1.2935187"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\LeftJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <rect
+       style="font-variation-settings:normal;vector-effect:none;fill:#26284f;fill-opacity:1;stroke:#000000;stroke-width:0.0475294;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="rect4403-6-8-8-7-5"
+       width="1.9138207"
+       height="4.4722037"
+       x="64.219124"
+       y="103.494"
+       ry="0.82952315"
+       rx="0.95691037"
+       transform="matrix(0.63719789,-0.77070023,0.62247876,0.78263669,0,0)"
+       inkscape:transform-center-x="-0.91715639"
+       inkscape:transform-center-y="1.1693607"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\LeftJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <path
+       style="font-variation-settings:normal;vector-effect:none;fill:#26284f;fill-opacity:1;stroke:#000000;stroke-width:0.0433299;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="m 103.16007,29.845971 0.31119,1.899448 h 3.88771 l 0.41003,-1.899448 z"
+       id="path2226-5-9-6-6-4-2"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\LeftJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <rect
+       style="font-variation-settings:normal;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.0468282;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="rect4411-3-5-7-1-6"
+       width="4.9009762"
+       height="1.8176563"
+       x="51.89138"
+       y="94.884743"
+       rx="0.87966287"
+       ry="0.61800534"
+       transform="matrix(0.80217973,-0.59708264,0.69688093,0.71718684,0,0)"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\LeftJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <rect
+       style="font-variation-settings:normal;vector-effect:none;fill:#26284f;fill-opacity:1;stroke:#000000;stroke-width:0.0470143;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="rect4405-0-4-2-2-9"
+       width="2.0286734"
+       height="4.1280456"
+       x="27.384214"
+       y="109.49085"
+       ry="0.76568723"
+       rx="1.0143367"
+       transform="matrix(0.52688519,-0.84993646,0.85011041,0.5266045,0,0)"
+       inkscape:transform-center-x="-1.1586776"
+       inkscape:transform-center-y="0.73062587"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\LeftJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <rect
+       style="font-variation-settings:normal;vector-effect:none;fill:#f0a51c;fill-opacity:1;stroke:#593e0b;stroke-width:0.0265148;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="rect4353-1-1-9"
+       width="2.1415515"
+       height="4.7613673"
+       x="-105.50428"
+       y="29.805302"
+       ry="0.94406432"
+       rx="1.0707757"
+       transform="matrix(-0.99710929,0.07598063,-0.02286102,0.99973865,0,0)"
+       inkscape:transform-center-x="-0.052222312"
+       inkscape:transform-center-y="1.774535"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\LeftJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <ellipse
+       style="font-variation-settings:normal;vector-effect:none;fill:#542907;fill-opacity:1;stroke:none;stroke-width:0.0334631;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="path2286-9-5-1"
+       cx="82.890747"
+       cy="77.009964"
+       rx="1.2815746"
+       ry="0.76374602"
+       transform="matrix(0.7841281,-0.62059901,0.48887812,0.8723521,0,0)"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\LeftJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <ellipse
+       style="font-variation-settings:normal;vector-effect:none;fill:#542907;fill-opacity:1;stroke:none;stroke-width:0.0438077;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="ellipse2292-94-2-1"
+       cx="107.61981"
+       cy="14.261768"
+       rx="1.8119856"
+       ry="0.92578059"
+       transform="matrix(0.99991209,0.01325962,-0.20429186,0.97891002,0,0)"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\LeftJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <ellipse
+       style="fill:#ffe778;fill-opacity:1;stroke:none;stroke-width:0.0484426;stroke-opacity:1;stop-color:#000000"
+       id="path833-2-1-53"
+       cx="105.52948"
+       cy="18.059885"
+       rx="3.6132805"
+       ry="3.1961584"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\LeftJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <path
+       sodipodi:type="spiral"
+       style="fill:none;fill-rule:evenodd;stroke:#542907;stroke-width:0.465;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path2688-6-1-6"
+       sodipodi:cx="28.531021"
+       sodipodi:cy="91.807083"
+       sodipodi:expansion="4.2149301"
+       sodipodi:revolution="4.4274802"
+       sodipodi:radius="3.8179569"
+       sodipodi:argument="-28.392118"
+       sodipodi:t0="0.91447198"
+       transform="matrix(0.16519701,0.01883716,-0.01447986,0.21490843,99.304344,-2.8481687)"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\LeftJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099"
+       d="m 25.958411,91.315316 c 0.04133,-1.673907 1.595211,-2.874824 3.205657,-2.819926 0.987026,0.03365 1.923095,0.503686 2.574189,1.240357" />
+    <g
+       id="g7630-6-9-8"
+       transform="matrix(0.86851931,0.46896188,-0.48147695,0.72084046,98.942213,4.0154372)"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\LeftJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099">
+      <rect
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#f0a51c;fill-opacity:1;stroke:#593e0b;stroke-width:0.0286576;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+         id="rect4359-3-5-1"
+         width="2.1733632"
+         height="5.4806542"
+         x="-20.951344"
+         y="16.067087"
+         ry="1.0866816"
+         rx="1.0866816"
+         transform="matrix(-0.97930365,-0.20239655,-0.20239655,0.97930365,0,0)"
+         inkscape:transform-center-x="0.32251548"
+         inkscape:transform-center-y="2.0279946" />
+      <g
+         id="g7318-0-9-3"
+         transform="matrix(1.003702,-0.18346865,0.2077311,1.117675,7.2052273,2.3713782)">
+        <path
+           id="path7314-6-9-21"
+           style="font-variation-settings:normal;vector-effect:none;fill:#f0a51c;fill-opacity:1;stroke:#593e0b;stroke-width:0.0347143;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+           d="m 4.0362258,19.77711 a 1.0213489,0.74906713 17.014881 0 1 0.751506,1.0134 1.0213489,0.74906713 17.014881 0 1 -0.0538,0.12153 1.0213489,0.74906713 17.014881 0 0 -0.780736,-0.88461 1.0213489,0.74906713 17.014881 0 0 -1.142046,0.29608 1.0213489,0.74906713 17.014881 0 1 0.02332,-0.13074 1.0213489,0.74906713 17.014881 0 1 1.195882,-0.41746 1.0213489,0.74906713 17.014881 0 1 0.0059,0.002 z" />
+        <path
+           id="path7316-2-7-7"
+           style="font-variation-settings:normal;vector-effect:none;fill:#f0a51c;fill-opacity:1;stroke:#593e0b;stroke-width:0.0347143;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+           d="m 4.0367388,19.55148 a 1.0213489,0.74906713 11.804793 0 1 0.840427,0.94097 1.0213489,0.74906713 11.804793 0 1 -0.04254,0.12592 1.0213489,0.74906713 11.804793 0 0 -0.857841,-0.81006 1.0213489,0.74906713 11.804793 0 0 -1.110441,0.39856 1.0213489,0.74906713 11.804793 0 1 0.01135,-0.13231 1.0213489,0.74906713 11.804793 0 1 1.153031,-0.52434 1.0213489,0.74906713 11.804793 0 1 0.006,0.001 z" />
+      </g>
+    </g>
+    <path
+       id="path4415-4-6-7"
+       style="font-variation-settings:normal;vector-effect:none;fill:#ffe778;fill-opacity:1;stroke:none;stroke-width:0.0547294;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="m 100.35691,28.319255 a 1.1154682,0.95015259 0 0 1 0.85494,1.126835 1.1154682,0.95015259 0 0 1 -0.29526,0.467679 l 0.0987,0.409821 c 0.0394,0.163309 -0.0747,0.320182 -0.25581,0.351836 -0.18107,0.0317 -0.35857,-0.07428 -0.39792,-0.237591 l -0.0607,-0.252214 a 1.1154682,0.95015259 0 0 1 -0.0534,0.006 l -0.0614,0.274989 c -0.0365,0.163772 -0.21214,0.271951 -0.393726,0.24254 -0.181588,-0.02941 -0.298322,-0.1849 -0.261768,-0.348671 l 0.06159,-0.276166 a 1.1154682,0.95015259 0 0 1 -0.02462,-0.01168 l -0.182776,0.220588 c -0.112827,0.136211 -0.325195,0.172864 -0.476229,0.08206 -0.151032,-0.09076 -0.18184,-0.273522 -0.06901,-0.409733 l 0.2671,-0.322393 a 1.1154682,0.95015259 0 0 1 -0.07673,-0.593628 l -0.435825,-0.0792 C 98.4296,28.940397 98.33283,28.774153 98.377088,28.59745 c 0.04426,-0.176704 0.212303,-0.294966 0.376756,-0.265071 l 0.692683,0.125878 c 0.0128,0.0023 0.02498,0.0053 0.03697,0.0097 a 1.1154682,0.95015259 0 0 1 0.870093,-0.14952 1.1154682,0.95015259 0 0 1 0.003,4.67e-4 z"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\LeftJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <rect
+       style="font-variation-settings:normal;vector-effect:none;fill:#f0a51c;fill-opacity:1;stroke:#593e0b;stroke-width:0.0264499;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="rect2212-36-1-3"
+       width="4.4259977"
+       height="7.6821008"
+       x="103.26455"
+       y="22.10853"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\LeftJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <ellipse
+       style="font-variation-settings:normal;vector-effect:none;fill:#542907;fill-opacity:1;stroke:none;stroke-width:0.055345;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="ellipse2288-5-1-1"
+       cx="105.53934"
+       cy="1.5277771"
+       rx="2.2011817"
+       ry="1.2163757"
+       transform="matrix(0.99118916,0.13245396,0.02871652,0.9995876,0,0)"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\LeftJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <path
+       sodipodi:type="spiral"
+       style="fill:none;fill-rule:evenodd;stroke:#542907;stroke-width:0.465;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path2701-46-9-6"
+       sodipodi:cx="28.531021"
+       sodipodi:cy="91.807083"
+       sodipodi:expansion="4.2149301"
+       sodipodi:revolution="4.4274802"
+       sodipodi:radius="3.8179569"
+       sodipodi:argument="-28.392118"
+       sodipodi:t0="0.91447198"
+       transform="matrix(-0.16519701,0.01883716,0.01447986,0.21490843,107.89828,-2.8481687)"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\LeftJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099"
+       d="m 25.958411,91.315316 c 0.04133,-1.673907 1.595211,-2.874824 3.205657,-2.819926 0.987026,0.03365 1.923095,0.503686 2.574189,1.240357" />
+    <path
+       sodipodi:type="spiral"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583"
+       id="path2334-8-1-3"
+       sodipodi:cx="26.994225"
+       sodipodi:cy="100.89424"
+       sodipodi:expansion="4.2149301"
+       sodipodi:revolution="4.4274802"
+       sodipodi:radius="8.4232311"
+       sodipodi:argument="-27.786943"
+       sodipodi:t0="0.91447192"
+       transform="matrix(-0.14495643,0.04808646,-0.04698852,-0.14834353,112.78338,33.034069)"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\LeftJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099"
+       d="m 22.943716,96.773032 c 2.175944,-2.985264 6.502612,-3.213884 9.355697,-1.092967 1.748632,1.299893 2.857076,3.327622 3.113801,5.481445" />
+    <path
+       id="path2336-6-7-11"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.0305678"
+       d="m 103.6156,18.388656 c -0.24428,0.243316 -0.30057,0.593545 -0.32991,0.841682 0.0604,0.132297 0.33898,0.22363 0.63249,0.192999"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\LeftJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <g
+       id="g2399-3-2-9"
+       transform="matrix(0.10645909,0,0,0.12230168,104.19192,4.4329639)"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\LeftJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099">
+      <path
+         id="path2342-7-1-9"
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffe778;fill-opacity:1;stroke:#86793f;stroke-width:0.156677;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+         d="m -13.951821,105.35092 a 5.2534147,4.7758318 0 0 0 -4.904058,3.21554 5.2534147,4.7758318 0 0 0 4.965435,3.21554 5.2534147,4.7758318 0 0 0 4.9649993,-3.21554 5.2534147,4.7758318 0 0 0 -4.9649993,-3.21554 5.2534147,4.7758318 0 0 0 -0.06138,0 z" />
+      <path
+         id="path2377-76-9-0"
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.137936;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+         d="m -13.948452,105.9288 a 4.9640065,3.9175273 0 0 0 -4.633896,2.63765 4.9640065,3.9175273 0 0 0 4.691892,2.63766 4.9640065,3.9175273 0 0 0 4.6914799,-2.63766 4.9640065,3.9175273 0 0 0 -4.6914799,-2.63765 4.9640065,3.9175273 0 0 0 -0.058,0 z" />
+      <path
+         id="path2379-8-8-7"
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#665424;fill-opacity:1;stroke:none;stroke-width:0.702992;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+         d="m -52.71875,400.36133 a 18.761599,14.806402 0 0 0 -10.990234,2.93359 11.696428,18.925219 0 0 0 -0.84375,7.0625 11.696428,18.925219 0 0 0 0.830078,7 18.761599,14.806402 0 0 0 11.222656,2.94141 18.761599,14.806402 0 0 0 10.390625,-2.47852 11.696428,18.925219 0 0 0 0.949219,-7.46289 11.696428,18.925219 0 0 0 -0.964844,-7.52734 18.761599,14.806402 0 0 0 -10.375,-2.46875 18.761599,14.806402 0 0 0 -0.21875,0 z"
+         transform="scale(0.26458333)" />
+      <path
+         id="ellipse2381-2-5-0"
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.621044;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+         d="m -52.71875,400.36133 a 18.761599,14.806402 0 0 0 -9.214844,2.00781 10.332989,16.71913 0 0 0 -1.255859,7.98828 10.332989,16.71913 0 0 0 1.232422,7.92188 18.761599,14.806402 0 0 0 9.457031,2.01953 18.761599,14.806402 0 0 0 8.615234,-1.6543 10.332989,16.71913 0 0 0 1.361328,-8.28711 10.332989,16.71913 0 0 0 -1.382812,-8.35156 18.761599,14.806402 0 0 0 -8.59375,-1.64453 18.761599,14.806402 0 0 0 -0.21875,0 z"
+         transform="scale(0.26458333)" />
+    </g>
+    <g
+       id="g2409-5-0-3"
+       transform="matrix(0.12149382,0,0,0.12212303,106.09948,4.4681068)"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\LeftJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099">
+      <path
+         id="path2401-8-1-9"
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffe778;fill-opacity:1;stroke:#86793f;stroke-width:0.156677;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+         d="m -13.951821,105.35092 a 5.2534147,4.7758318 0 0 0 -4.904058,3.21554 5.2534147,4.7758318 0 0 0 4.965435,3.21554 5.2534147,4.7758318 0 0 0 4.9649993,-3.21554 5.2534147,4.7758318 0 0 0 -4.9649993,-3.21554 5.2534147,4.7758318 0 0 0 -0.06138,0 z" />
+      <path
+         id="path2403-69-5-5"
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.137936;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+         d="m -13.948452,105.9288 a 4.9640065,3.9175273 0 0 0 -4.633896,2.63765 4.9640065,3.9175273 0 0 0 4.691892,2.63766 4.9640065,3.9175273 0 0 0 4.6914799,-2.63766 4.9640065,3.9175273 0 0 0 -4.6914799,-2.63765 4.9640065,3.9175273 0 0 0 -0.058,0 z" />
+      <path
+         id="path2405-6-3-4"
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#665424;fill-opacity:1;stroke:none;stroke-width:0.702992;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+         d="m -52.71875,400.36133 a 18.761599,14.806402 0 0 0 -10.990234,2.93359 11.696428,18.925219 0 0 0 -0.84375,7.0625 11.696428,18.925219 0 0 0 0.830078,7 18.761599,14.806402 0 0 0 11.222656,2.94141 18.761599,14.806402 0 0 0 10.390625,-2.47852 11.696428,18.925219 0 0 0 0.949219,-7.46289 11.696428,18.925219 0 0 0 -0.964844,-7.52734 18.761599,14.806402 0 0 0 -10.375,-2.46875 18.761599,14.806402 0 0 0 -0.21875,0 z"
+         transform="scale(0.26458333)" />
+      <path
+         id="path2407-3-1-01"
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.621044;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+         d="m -52.71875,400.36133 a 18.761599,14.806402 0 0 0 -9.214844,2.00781 10.332989,16.71913 0 0 0 -1.255859,7.98828 10.332989,16.71913 0 0 0 1.232422,7.92188 18.761599,14.806402 0 0 0 9.457031,2.01953 18.761599,14.806402 0 0 0 8.615234,-1.6543 10.332989,16.71913 0 0 0 1.361328,-8.28711 10.332989,16.71913 0 0 0 -1.382812,-8.35156 18.761599,14.806402 0 0 0 -8.59375,-1.64453 18.761599,14.806402 0 0 0 -0.21875,0 z"
+         transform="scale(0.26458333)" />
+    </g>
+    <rect
+       style="font-variation-settings:normal;vector-effect:none;fill:#cdcdcd;fill-opacity:0.435484;stroke:#8e705b;stroke-width:0.0505207;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="rect2413-6-8-6"
+       width="1.3551325"
+       height="1.3059595"
+       x="102.02686"
+       y="17.046778"
+       rx="0.18324597"
+       ry="0.19465059"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\LeftJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099"
+       inkscape:transform-center-x="3.946807"
+       inkscape:transform-center-y="0.27351283" />
+    <rect
+       style="font-variation-settings:normal;vector-effect:none;fill:#cdcdcd;fill-opacity:0.435484;stroke:#8e705b;stroke-width:0.0504747;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="rect2415-0-0-0"
+       width="1.3551325"
+       height="1.3059595"
+       x="103.72504"
+       y="17.04307"
+       rx="0.18324597"
+       ry="0.19465059"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\LeftJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099"
+       inkscape:transform-center-x="2.2486335"
+       inkscape:transform-center-y="0.26980494" />
+    <path
+       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#8e705b;stroke-width:0.0472302;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="m 103.40093,17.23541 0.28771,-0.0098"
+       id="path2417-9-5-8"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\LeftJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099"
+       inkscape:transform-center-x="3.1064514"
+       inkscape:transform-center-y="-0.19573463" />
+    <ellipse
+       style="font-variation-settings:normal;vector-effect:none;fill:#542907;fill-opacity:1;stroke:none;stroke-width:0.048216;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="ellipse4296-6-8-7"
+       cx="-108.38781"
+       cy="1.043084"
+       rx="1.7610252"
+       ry="1.1539435"
+       transform="matrix(-0.98758565,-0.15708143,-0.02412919,-0.99970885,0,0)"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\LeftJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <ellipse
+       style="font-variation-settings:normal;vector-effect:none;fill:#542907;fill-opacity:1;stroke:none;stroke-width:0.0316603;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="ellipse4298-2-5-83"
+       cx="-89.87011"
+       cy="107.38507"
+       rx="1.1422864"
+       ry="0.76704282"
+       transform="matrix(-0.29297373,-0.95612049,0.76919637,-0.63901248,0,0)"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\LeftJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <ellipse
+       style="font-variation-settings:normal;vector-effect:none;fill:#542907;fill-opacity:1;stroke:none;stroke-width:0.0308631;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="ellipse4300-7-2-4"
+       cx="-3.4340117"
+       cy="-106.90246"
+       rx="0.99789453"
+       ry="0.83437419"
+       transform="matrix(-0.66354697,-0.74813463,-0.9907737,-0.13552669,0,0)"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\LeftJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <path
+       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#8e705b;stroke-width:0.0472302;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="m 105.09747,17.382095 2.11317,0.01422 0.3341,0.291699"
+       id="path4302-09-5-95"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\LeftJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099"
+       inkscape:transform-center-x="0.33013135"
+       inkscape:transform-center-y="0.10880987" />
+    <path
+       style="font-variation-settings:normal;vector-effect:none;fill:#ffe778;fill-opacity:1;stroke:#ba8e18;stroke-width:0.0465715;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="path835-6-5-6"
+       sodipodi:type="arc"
+       sodipodi:cx="104.3303"
+       sodipodi:cy="25.751699"
+       sodipodi:rx="0.68948257"
+       sodipodi:ry="0.68534893"
+       sodipodi:start="4.2197252"
+       sodipodi:end="2.2020403"
+       sodipodi:arc-type="arc"
+       sodipodi:open="true"
+       transform="matrix(0.99733596,-0.07294513,0.10029679,0.99495756,0,0)"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\LeftJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099"
+       d="m 104.00419,25.147855 a 0.68948257,0.68534893 0 0 1 0.87847,0.193664 0.68948257,0.68534893 0 0 1 -0.0623,0.892273 0.68948257,0.68534893 0 0 1 -0.89696,0.07119" />
+    <g
+       id="g7304-5-1-9"
+       transform="matrix(1.0000358,0,0,0.85182766,87.373523,8.2611637)"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\LeftJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099">
+      <g
+         id="g7293-9-0-8">
+        <path
+           id="path2631-6-0-2-7"
+           style="font-variation-settings:normal;vector-effect:none;fill:#f0a51c;fill-opacity:1;stroke:#593e0b;stroke-width:0.0484735;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+           d="m 18.054046,15.444449 a 1.1011509,0.97218172 0 0 0 -1.094143,0.972165 1.1011509,0.97218172 0 0 0 0.02088,0.188143 1.1011509,0.97218172 0 0 1 1.080318,-0.783945 1.1011509,0.97218172 0 0 1 1.08032,0.784029 1.1011509,0.97218172 0 0 0 0.0208,-0.188227 1.1011509,0.97218172 0 0 0 -1.101122,-0.972165 1.1011509,0.97218172 0 0 0 -0.0071,0 z" />
+        <path
+           id="path2629-5-5-6-1"
+           style="font-variation-settings:normal;vector-effect:none;fill:#f0a51c;fill-opacity:1;stroke:#593e0b;stroke-width:0.0484735;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+           d="m 18.054046,15.172238 a 1.1011509,0.97218172 0 0 0 -1.094143,0.972176 1.1011509,0.97218172 0 0 0 0.02088,0.188132 1.1011509,0.97218172 0 0 1 1.080318,-0.783945 1.1011509,0.97218172 0 0 1 1.08032,0.784034 1.1011509,0.97218172 0 0 0 0.0208,-0.188221 1.1011509,0.97218172 0 0 0 -1.101122,-0.972176 1.1011509,0.97218172 0 0 0 -0.0071,0 z" />
+      </g>
+      <ellipse
+         style="font-variation-settings:normal;vector-effect:none;fill:#ffe778;fill-opacity:1;stroke:none;stroke-width:0.0392119;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+         id="path2633-7-8-0-3"
+         cx="18.051495"
+         cy="16.0506"
+         rx="0.98127455"
+         ry="0.42835826" />
+      <rect
+         style="font-variation-settings:normal;vector-effect:none;fill:#ffe778;fill-opacity:1;stroke:none;stroke-width:0.0701816;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+         id="rect2210-2-0-8"
+         width="1.4865679"
+         height="2.322763"
+         x="17.360041"
+         y="14.763518" />
+      <path
+         id="path2583-1-1-1-7"
+         style="font-variation-settings:normal;vector-effect:none;fill:#ffe778;fill-opacity:1;stroke:none;stroke-width:0.0360543;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+         d="m 16.961125,16.012486 c -0.05231,0.08619 0.06657,0.165599 0.06653,0.258865 8e-6,0.393173 0.467922,0.711894 1.045108,0.711883 0.577162,-10e-6 1.045039,-0.318726 1.045047,-0.711883 2e-6,-0.09326 -0.0269,-0.185616 -0.07917,-0.271813 z"
+         sodipodi:nodetypes="ccsscc" />
+      <g
+         id="g7289-5-7-5">
+        <path
+           id="path2627-6-2-4-9"
+           style="font-variation-settings:normal;vector-effect:none;fill:#f0a51c;fill-opacity:1;stroke:#593e0b;stroke-width:0.0484735;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+           d="m 18.023927,17.297125 c -0.290242,0 -0.591317,-0.03704 -0.786931,-0.200306 -0.21241,-0.177276 -0.307213,-0.493605 -0.307211,-0.771864 1.8e-5,-0.06317 0.007,-0.126173 0.02088,-0.188143 0.101836,0.455567 0.554366,0.78395 1.080318,0.78395 0.525983,-10e-6 0.978523,-0.328436 1.080319,-0.784028 0.01385,0.06198 0.02081,0.125027 0.0208,0.188221 -4e-6,0.287529 -0.06609,0.376264 -0.353574,0.645598 -0.182031,0.170537 -0.465086,0.326562 -0.747548,0.326572 -0.0024,6e-6 -0.0047,6e-6 -0.007,0 z"
+           sodipodi:nodetypes="ssccsccscss" />
+        <path
+           id="path2605-9-9-1-0"
+           style="font-variation-settings:normal;vector-effect:none;fill:#f0a51c;fill-opacity:1;stroke:#593e0b;stroke-width:0.0484735;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+           d="m 18.054046,17.062249 a 1.1011509,0.97218172 0 0 1 -1.094143,-0.972171 1.1011509,0.97218172 0 0 1 0.02088,-0.188138 1.1011509,0.97218172 0 0 0 1.080318,0.78394 1.1011509,0.97218172 0 0 0 1.08032,-0.784029 1.1011509,0.97218172 0 0 1 0.0208,0.188227 1.1011509,0.97218172 0 0 1 -1.101122,0.972171 1.1011509,0.97218172 0 0 1 -0.0071,0 z" />
+      </g>
+    </g>
+    <rect
+       style="font-variation-settings:normal;vector-effect:none;fill:#f0a51c;fill-opacity:1;stroke:#593e0b;stroke-width:0.0265679;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="rect4334-7-9-1"
+       width="2.1059422"
+       height="4.861321"
+       x="61.182209"
+       y="81.271255"
+       ry="0.96388268"
+       rx="1.0529711"
+       transform="matrix(0.80830767,-0.58876032,0.69095063,0.72290195,0,0)"
+       inkscape:transform-center-x="-1.0563996"
+       inkscape:transform-center-y="1.1478053"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\LeftJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <g
+       id="g7624-1-7-1"
+       transform="matrix(1.0000322,0.00231141,-0.00271357,0.85182452,89.601813,7.3583378)"
+       inkscape:transform-center-x="0.70491187"
+       inkscape:transform-center-y="1.4517374"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\LeftJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099">
+      <rect
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#f0a51c;fill-opacity:1;stroke:#593e0b;stroke-width:0.0286576;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+         id="rect4361-1-0-1"
+         width="2.1733632"
+         height="5.4806542"
+         x="25.55978"
+         y="10.728729"
+         ry="1.0866816"
+         rx="1.0866816"
+         transform="rotate(21.712993)" />
+      <g
+         id="g7312-9-9-7"
+         transform="matrix(1.013639,0.11668106,-0.12664991,1.1297386,17.69476,0.9036441)">
+        <path
+           id="path7306-2-2-8"
+           style="font-variation-settings:normal;vector-effect:none;fill:#f0a51c;fill-opacity:1;stroke:#593e0b;stroke-width:0.0347143;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+           d="m 4.0362258,19.77711 a 1.0213489,0.74906713 17.014881 0 1 0.751506,1.0134 1.0213489,0.74906713 17.014881 0 1 -0.0538,0.12153 1.0213489,0.74906713 17.014881 0 0 -0.780736,-0.88461 1.0213489,0.74906713 17.014881 0 0 -1.142046,0.29608 1.0213489,0.74906713 17.014881 0 1 0.02332,-0.13074 1.0213489,0.74906713 17.014881 0 1 1.195882,-0.41746 1.0213489,0.74906713 17.014881 0 1 0.0059,0.002 z" />
+        <path
+           id="path7308-2-2-3"
+           style="font-variation-settings:normal;vector-effect:none;fill:#f0a51c;fill-opacity:1;stroke:#593e0b;stroke-width:0.0347143;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+           d="m 4.0367388,19.55148 a 1.0213489,0.74906713 11.804793 0 1 0.840427,0.94097 1.0213489,0.74906713 11.804793 0 1 -0.04254,0.12592 1.0213489,0.74906713 11.804793 0 0 -0.857841,-0.81006 1.0213489,0.74906713 11.804793 0 0 -1.110441,0.39856 1.0213489,0.74906713 11.804793 0 1 0.01135,-0.13231 1.0213489,0.74906713 11.804793 0 1 1.153031,-0.52434 1.0213489,0.74906713 11.804793 0 1 0.006,0.001 z" />
+      </g>
+    </g>
+    <path
+       id="path4413-8-8-0"
+       style="font-variation-settings:normal;vector-effect:none;fill:#ffe778;fill-opacity:1;stroke:none;stroke-width:0.0547294;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="m 108.34526,27.645148 a 1.1154682,0.95015259 0 0 1 1.01951,1.02271 1.1154682,0.95015259 0 0 1 -0.22145,0.496382 l 0.16039,0.395427 c 0.0639,0.157573 -0.0253,0.32574 -0.20001,0.377156 -0.17469,0.05146 -0.36685,-0.03399 -0.43077,-0.191557 l -0.0987,-0.243361 a 1.1154682,0.95015259 0 0 1 -0.052,0.01193 l -0.019,0.279454 c -0.0113,0.166427 -0.16887,0.293114 -0.3534,0.284042 -0.18453,-0.0091 -0.32399,-0.150331 -0.31272,-0.31676 l 0.019,-0.280641 a 1.1154682,0.95015259 0 0 1 -0.0262,-0.0088 l -0.14759,0.238938 c -0.0911,0.14754 -0.29608,0.207376 -0.45968,0.134046 -0.1636,-0.07328 -0.22201,-0.251089 -0.13091,-0.398629 l 0.21568,-0.349211 a 1.1154682,0.95015259 0 0 1 -0.16659,-0.580111 l -0.44421,-0.03032 c -0.16762,-0.01148 -0.28892,-0.165613 -0.27198,-0.345717 0.0169,-0.180103 0.16553,-0.315954 0.33315,-0.304505 l 0.70601,0.04818 c 0.013,8.52e-4 0.0256,0.0025 0.0381,0.0055 a 1.1154682,0.95015259 0 0 1 0.83992,-0.244511 1.1154682,0.95015259 0 0 1 0.003,1.07e-4 z"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\LeftJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <g
+       id="g4672-2-4-7"
+       transform="matrix(0.02196034,0,0,0.06635841,98.671954,26.819448)"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\LeftJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099">
+      <g
+         id="g4495-4-3-9-8"
+         transform="translate(-0.51592471,-20.108334)">
+        <circle
+           style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#e25454;fill-opacity:1;stroke:none;stroke-width:0.506;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+           id="path4417-0-7-6-9"
+           cx="265.90625"
+           cy="-8.4666643"
+           r="25.628374" />
+        <circle
+           style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.43809;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+           id="circle4419-4-2-5-67"
+           cx="265.90625"
+           cy="-8.4666643"
+           r="22.188791" />
+        <circle
+           style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#e25454;fill-opacity:1;stroke:none;stroke-width:0.391075;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+           id="circle4421-6-0-1-4"
+           cx="265.90625"
+           cy="-8.4666643"
+           r="19.807541" />
+        <circle
+           style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.338589;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+           id="circle4423-7-8-9-1"
+           cx="265.90625"
+           cy="-8.4666643"
+           r="17.149172" />
+        <circle
+           style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#e25454;fill-opacity:1;stroke:none;stroke-width:0.286598;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+           id="circle4425-5-2-8-2"
+           cx="265.90625"
+           cy="-8.4666643"
+           r="14.515874" />
+        <circle
+           style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.248134;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+           id="circle4427-6-7-4-0"
+           cx="265.90625"
+           cy="-8.4666643"
+           r="12.567699" />
+      </g>
+      <g
+         id="g4487-1-2-2-8"
+         transform="matrix(0.41038055,-0.13947624,0.13947624,0.41038055,150.70782,-13.332266)">
+        <rect
+           style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#6b4e1c;fill-opacity:1;stroke:none;stroke-width:0.349999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+           id="rect4436-3-2-8-4"
+           width="82.88028"
+           height="6.1739259"
+           x="265.10464"
+           y="47.146343"
+           rx="0"
+           ry="0" />
+        <path
+           id="path4434-61-2-3-7"
+           style="fill:#797979;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 273.57916,39.158333 -19.37969,10.527522 -2.05156,0.501261 0.56431,0.306443 -0.56431,0.306441 2.05156,0.501261 19.37969,10.527522 -3.69951,-6.694165 c -0.21473,-0.509159 -0.48421,-4.641059 -0.48421,-4.641059 l 0.48421,-4.641061 z"
+           sodipodi:nodetypes="ccccccccccc" />
+        <path
+           id="rect4438-5-5-6-5"
+           style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#a7a7a7;fill-opacity:1;stroke:none;stroke-width:1.32283;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+           d="m 1034,148 -73.24609,39.78906 -7.75391,1.89453 2.13281,1.15821 -0.14062,0.0762 h 63.20121 c -2e-4,-0.002 -0.01,-0.0762 -0.01,-0.0762 l 1.8301,-17.54102 z"
+           transform="scale(0.26458333)" />
+        <path
+           id="path4429-0-7-2-7"
+           style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#797979;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+           d="m 360.09791,39.422916 -19.37969,10.527522 -2.05156,0.501261 0.56431,0.306443 -0.56431,0.306441 2.05156,0.501261 19.37969,10.527522 -3.69951,-6.694165 6.08076,1.486215 -6.56497,-6.127274 6.56497,-6.127276 -6.08076,1.486215 z" />
+        <path
+           id="path4460-6-1-5-8"
+           style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#a7a7a7;fill-opacity:1;stroke:none;stroke-width:1.32283;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+           d="m 1361,149 -73.2461,39.78906 -2.9258,0.71485 h 62.8653 L 1370,168.68359 l -22.9824,5.61719 z"
+           transform="scale(0.26458333)" />
+      </g>
+      <path
+         id="path4509-3-6-6-9"
+         style="font-variation-settings:normal;vector-effect:none;fill:#fffffe;fill-opacity:1;stroke:none;stroke-width:0.349999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+         d="m 264.87949,-39.813194 a 11.131776,11.131776 0 0 0 -9.45835,11.00501 11.131776,11.131776 0 0 0 11.13213,11.13214 11.131776,11.131776 0 0 0 10.28001,-6.86212 11.131776,11.131776 0 0 1 -1.6738,0.12661 11.131776,11.131776 0 0 1 -11.13213,-11.13162 11.131776,11.131776 0 0 1 0.85214,-4.27002 z" />
+    </g>
+    <rect
+       style="font-variation-settings:normal;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.0392017;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="rect4409-1-9-4-2-7-6"
+       width="4.229692"
+       height="1.4759804"
+       x="-87.850281"
+       y="109.87924"
+       rx="0.75917584"
+       ry="0.50183511"
+       transform="matrix(-0.88430355,0.46691244,0.30071214,0.95371495,0,0)"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\RightJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <rect
+       style="font-variation-settings:normal;vector-effect:none;fill:#26284f;fill-opacity:1;stroke:#000000;stroke-width:0.0470453;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="rect2224-0-7-0-6-3-6"
+       width="2.0018711"
+       height="4.188849"
+       x="-47.824589"
+       y="113.79061"
+       ry="0.77696532"
+       rx="1.0009356"
+       transform="matrix(-0.76097442,0.64878189,0.60881632,0.79331122,0,0)"
+       inkscape:transform-center-x="-0.85443159"
+       inkscape:transform-center-y="1.0956398"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\RightJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <rect
+       style="font-variation-settings:normal;vector-effect:none;fill:#26284f;fill-opacity:1;stroke:#000000;stroke-width:0.0471136;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="rect4407-8-0-4-0-9-8"
+       width="1.9559008"
+       height="4.2997561"
+       x="-72.936058"
+       y="107.36256"
+       ry="0.79753685"
+       rx="0.97795039"
+       transform="matrix(-0.86850274,0.49568436,0.41394533,0.91030174,0,0)"
+       inkscape:transform-center-x="-0.59975421"
+       inkscape:transform-center-y="1.2935107"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\RightJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <rect
+       style="font-variation-settings:normal;vector-effect:none;fill:#26284f;fill-opacity:1;stroke:#000000;stroke-width:0.0475294;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="rect4403-6-8-8-7-5-0"
+       width="1.9138207"
+       height="4.4722037"
+       x="-122.07573"
+       y="-42.904274"
+       ry="0.82952315"
+       rx="0.95691037"
+       transform="matrix(-0.63719789,-0.77070023,-0.62247876,0.78263669,0,0)"
+       inkscape:transform-center-x="0.91715527"
+       inkscape:transform-center-y="1.1693602"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\RightJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <path
+       style="font-variation-settings:normal;vector-effect:none;fill:#26284f;fill-opacity:1;stroke:#000000;stroke-width:0.0433299;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="m 106.67643,58.84679 -0.31119,1.899448 h -3.88771 L 102.0675,58.84679 Z"
+       id="path2226-5-9-6-6-4-2-3"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\RightJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <rect
+       style="font-variation-settings:normal;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.0468282;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="rect4411-3-5-7-1-6-2"
+       width="4.9009762"
+       height="1.8176563"
+       x="-120.29006"
+       y="-8.0252905"
+       rx="0.87966287"
+       ry="0.61800534"
+       transform="matrix(-0.80217973,-0.59708264,-0.69688093,0.71718684,0,0)"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\RightJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <rect
+       style="font-variation-settings:normal;vector-effect:none;fill:#26284f;fill-opacity:1;stroke:#000000;stroke-width:0.0470143;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="rect4405-0-4-2-2-9-6"
+       width="2.0286734"
+       height="4.1280456"
+       x="-107.77054"
+       y="-53.576756"
+       ry="0.76568723"
+       rx="1.0143367"
+       transform="matrix(-0.52688519,-0.84993646,-0.85011041,0.5266045,0,0)"
+       inkscape:transform-center-x="1.1586778"
+       inkscape:transform-center-y="0.73062387"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\RightJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <rect
+       style="font-variation-settings:normal;vector-effect:none;fill:#f0a51c;fill-opacity:1;stroke:#593e0b;stroke-width:0.0265148;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="rect4353-1-1-9-8"
+       width="2.1415515"
+       height="4.7613673"
+       x="104.64166"
+       y="42.842506"
+       ry="0.94406432"
+       rx="1.0707757"
+       transform="matrix(0.99710929,0.07598063,0.02286102,0.99973865,0,0)"
+       inkscape:transform-center-x="0.052226172"
+       inkscape:transform-center-y="1.7745355"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\RightJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <ellipse
+       style="font-variation-settings:normal;vector-effect:none;fill:#542907;fill-opacity:1;stroke:none;stroke-width:0.0334631;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="path2286-9-5-1-2"
+       cx="-116.84855"
+       cy="-31.841946"
+       rx="1.2815746"
+       ry="0.76374602"
+       transform="matrix(-0.7841281,-0.62059901,-0.48887812,0.8723521,0,0)"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\RightJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <ellipse
+       style="font-variation-settings:normal;vector-effect:none;fill:#542907;fill-opacity:1;stroke:none;stroke-width:0.0438077;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="ellipse2292-94-2-1-8"
+       cx="-95.619896"
+       cy="46.640331"
+       rx="1.8119856"
+       ry="0.92578059"
+       transform="matrix(-0.99991209,0.01325962,0.20429186,0.97891002,0,0)"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\RightJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <ellipse
+       style="fill:#ffe778;fill-opacity:1;stroke:none;stroke-width:0.0484426;stroke-opacity:1;stop-color:#000000"
+       id="path833-2-1-53-3"
+       cx="-104.30703"
+       cy="47.060703"
+       rx="3.6132805"
+       ry="3.1961584"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\RightJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099"
+       transform="scale(-1,1)" />
+    <path
+       sodipodi:type="spiral"
+       style="fill:none;fill-rule:evenodd;stroke:#542907;stroke-width:0.465;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path2688-6-1-6-6"
+       sodipodi:cx="28.531021"
+       sodipodi:cy="91.807083"
+       sodipodi:expansion="4.2149301"
+       sodipodi:revolution="4.4274802"
+       sodipodi:radius="3.8179569"
+       sodipodi:argument="-28.392118"
+       sodipodi:t0="0.91447198"
+       transform="matrix(-0.16519701,0.01883716,0.01447986,0.21490843,110.53217,26.15265)"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\RightJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099"
+       d="m 25.958411,91.315316 c 0.04133,-1.673907 1.595211,-2.874824 3.205657,-2.819926 0.987026,0.03365 1.923095,0.503686 2.574189,1.240357" />
+    <g
+       id="g7630-6-9-8-4"
+       transform="matrix(-0.86851931,0.46896188,0.48147695,0.72084046,110.8943,33.016256)"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\RightJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099">
+      <rect
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#f0a51c;fill-opacity:1;stroke:#593e0b;stroke-width:0.0286576;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+         id="rect4359-3-5-1-3"
+         width="2.1733632"
+         height="5.4806542"
+         x="-20.951344"
+         y="16.067087"
+         ry="1.0866816"
+         rx="1.0866816"
+         transform="matrix(-0.97930365,-0.20239655,-0.20239655,0.97930365,0,0)"
+         inkscape:transform-center-x="0.32251548"
+         inkscape:transform-center-y="2.0279946" />
+      <g
+         id="g7318-0-9-3-1"
+         transform="matrix(1.003702,-0.18346865,0.2077311,1.117675,7.2052273,2.3713782)">
+        <path
+           id="path7314-6-9-21-6"
+           style="font-variation-settings:normal;vector-effect:none;fill:#f0a51c;fill-opacity:1;stroke:#593e0b;stroke-width:0.0347143;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+           d="m 4.0362258,19.77711 a 1.0213489,0.74906713 17.014881 0 1 0.751506,1.0134 1.0213489,0.74906713 17.014881 0 1 -0.0538,0.12153 1.0213489,0.74906713 17.014881 0 0 -0.780736,-0.88461 1.0213489,0.74906713 17.014881 0 0 -1.142046,0.29608 1.0213489,0.74906713 17.014881 0 1 0.02332,-0.13074 1.0213489,0.74906713 17.014881 0 1 1.195882,-0.41746 1.0213489,0.74906713 17.014881 0 1 0.0059,0.002 z" />
+        <path
+           id="path7316-2-7-7-0"
+           style="font-variation-settings:normal;vector-effect:none;fill:#f0a51c;fill-opacity:1;stroke:#593e0b;stroke-width:0.0347143;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+           d="m 4.0367388,19.55148 a 1.0213489,0.74906713 11.804793 0 1 0.840427,0.94097 1.0213489,0.74906713 11.804793 0 1 -0.04254,0.12592 1.0213489,0.74906713 11.804793 0 0 -0.857841,-0.81006 1.0213489,0.74906713 11.804793 0 0 -1.110441,0.39856 1.0213489,0.74906713 11.804793 0 1 0.01135,-0.13231 1.0213489,0.74906713 11.804793 0 1 1.153031,-0.52434 1.0213489,0.74906713 11.804793 0 1 0.006,0.001 z" />
+      </g>
+    </g>
+    <path
+       id="path4415-4-6-7-1"
+       style="font-variation-settings:normal;vector-effect:none;fill:#ffe778;fill-opacity:1;stroke:none;stroke-width:0.0547294;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="m 109.4796,57.320074 a -1.1154682,0.95015259 0 0 0 -0.85495,1.126835 -1.1154682,0.95015259 0 0 0 0.29527,0.467679 l -0.0987,0.409821 c -0.0394,0.163309 0.0747,0.320182 0.25581,0.351836 0.18107,0.0317 0.35857,-0.07428 0.39792,-0.237591 l 0.0607,-0.252214 a -1.1154682,0.95015259 0 0 0 0.0534,0.006 l 0.0614,0.274989 c 0.0365,0.163772 0.21214,0.271951 0.39373,0.24254 0.18159,-0.02941 0.29832,-0.1849 0.26177,-0.348671 l -0.0616,-0.276166 a -1.1154682,0.95015259 0 0 0 0.0246,-0.01168 l 0.18277,0.220588 c 0.11283,0.136211 0.3252,0.172864 0.47623,0.08206 0.15103,-0.09076 0.18184,-0.273522 0.069,-0.409733 l -0.2671,-0.322393 a -1.1154682,0.95015259 0 0 0 0.0767,-0.593628 l 0.43583,-0.0792 c 0.16446,-0.02993 0.26123,-0.196174 0.21697,-0.372877 -0.0443,-0.176704 -0.2123,-0.294966 -0.37675,-0.265071 l -0.69269,0.125878 c -0.0128,0.0023 -0.025,0.0053 -0.037,0.0097 a -1.1154682,0.95015259 0 0 0 -0.87009,-0.14952 -1.1154682,0.95015259 0 0 0 -0.003,4.67e-4 z"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\RightJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <rect
+       style="font-variation-settings:normal;vector-effect:none;fill:#f0a51c;fill-opacity:1;stroke:#593e0b;stroke-width:0.0264499;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="rect2212-36-1-3-2"
+       width="4.4259977"
+       height="7.6821008"
+       x="-106.57196"
+       y="51.109348"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\RightJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099"
+       transform="scale(-1,1)" />
+    <ellipse
+       style="font-variation-settings:normal;vector-effect:none;fill:#542907;fill-opacity:1;stroke:none;stroke-width:0.055345;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="ellipse2288-5-1-1-4"
+       cx="-107.8221"
+       cy="58.812786"
+       rx="2.2011817"
+       ry="1.2163757"
+       transform="matrix(-0.99118916,0.13245396,-0.02871652,0.9995876,0,0)"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\RightJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <path
+       sodipodi:type="spiral"
+       style="fill:none;fill-rule:evenodd;stroke:#542907;stroke-width:0.465;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path2701-46-9-6-9"
+       sodipodi:cx="28.531021"
+       sodipodi:cy="91.807083"
+       sodipodi:expansion="4.2149301"
+       sodipodi:revolution="4.4274802"
+       sodipodi:radius="3.8179569"
+       sodipodi:argument="-28.392118"
+       sodipodi:t0="0.91447198"
+       transform="matrix(0.16519701,0.01883716,-0.01447986,0.21490843,101.93822,26.15265)"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\RightJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099"
+       d="m 25.958411,91.315316 c 0.04133,-1.673907 1.595211,-2.874824 3.205657,-2.819926 0.987026,0.03365 1.923095,0.503686 2.574189,1.240357" />
+    <path
+       sodipodi:type="spiral"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583"
+       id="path2334-8-1-3-1"
+       sodipodi:cx="26.994225"
+       sodipodi:cy="100.89424"
+       sodipodi:expansion="4.2149301"
+       sodipodi:revolution="4.4274802"
+       sodipodi:radius="8.4232311"
+       sodipodi:argument="-27.786943"
+       sodipodi:t0="0.91447192"
+       transform="matrix(0.14495643,0.04808646,0.04698852,-0.14834353,97.053124,62.034888)"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\RightJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099"
+       d="m 22.943716,96.773032 c 2.175944,-2.985264 6.502612,-3.213884 9.355697,-1.092967 1.748632,1.299893 2.857076,3.327622 3.113801,5.481445" />
+    <path
+       id="path2336-6-7-11-5"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.0305678"
+       d="m 106.2209,47.389475 c 0.24428,0.243316 0.30057,0.593545 0.32991,0.841682 -0.0604,0.132297 -0.33898,0.22363 -0.63249,0.192999"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\RightJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <g
+       id="g2399-3-2-9-8"
+       transform="matrix(-0.10645909,0,0,0.12230168,105.64458,33.433783)"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\RightJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099">
+      <path
+         id="path2342-7-1-9-1"
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffe778;fill-opacity:1;stroke:#86793f;stroke-width:0.156677;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+         d="m -13.951821,105.35092 a 5.2534147,4.7758318 0 0 0 -4.904058,3.21554 5.2534147,4.7758318 0 0 0 4.965435,3.21554 5.2534147,4.7758318 0 0 0 4.9649993,-3.21554 5.2534147,4.7758318 0 0 0 -4.9649993,-3.21554 5.2534147,4.7758318 0 0 0 -0.06138,0 z" />
+      <path
+         id="path2377-76-9-0-7"
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.137936;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+         d="m -13.948452,105.9288 a 4.9640065,3.9175273 0 0 0 -4.633896,2.63765 4.9640065,3.9175273 0 0 0 4.691892,2.63766 4.9640065,3.9175273 0 0 0 4.6914799,-2.63766 4.9640065,3.9175273 0 0 0 -4.6914799,-2.63765 4.9640065,3.9175273 0 0 0 -0.058,0 z" />
+      <path
+         id="path2379-8-8-7-6"
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#665424;fill-opacity:1;stroke:none;stroke-width:0.702992;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+         d="m -52.71875,400.36133 a 18.761599,14.806402 0 0 0 -10.990234,2.93359 11.696428,18.925219 0 0 0 -0.84375,7.0625 11.696428,18.925219 0 0 0 0.830078,7 18.761599,14.806402 0 0 0 11.222656,2.94141 18.761599,14.806402 0 0 0 10.390625,-2.47852 11.696428,18.925219 0 0 0 0.949219,-7.46289 11.696428,18.925219 0 0 0 -0.964844,-7.52734 18.761599,14.806402 0 0 0 -10.375,-2.46875 18.761599,14.806402 0 0 0 -0.21875,0 z"
+         transform="scale(0.26458333)" />
+      <path
+         id="ellipse2381-2-5-0-6"
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.621044;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+         d="m -52.71875,400.36133 a 18.761599,14.806402 0 0 0 -9.214844,2.00781 10.332989,16.71913 0 0 0 -1.255859,7.98828 10.332989,16.71913 0 0 0 1.232422,7.92188 18.761599,14.806402 0 0 0 9.457031,2.01953 18.761599,14.806402 0 0 0 8.615234,-1.6543 10.332989,16.71913 0 0 0 1.361328,-8.28711 10.332989,16.71913 0 0 0 -1.382812,-8.35156 18.761599,14.806402 0 0 0 -8.59375,-1.64453 18.761599,14.806402 0 0 0 -0.21875,0 z"
+         transform="scale(0.26458333)" />
+    </g>
+    <g
+       id="g2409-5-0-3-7"
+       transform="matrix(-0.12149382,0,0,0.12212303,103.73702,33.468926)"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\RightJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099">
+      <path
+         id="path2401-8-1-9-5"
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffe778;fill-opacity:1;stroke:#86793f;stroke-width:0.156677;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+         d="m -13.951821,105.35092 a 5.2534147,4.7758318 0 0 0 -4.904058,3.21554 5.2534147,4.7758318 0 0 0 4.965435,3.21554 5.2534147,4.7758318 0 0 0 4.9649993,-3.21554 5.2534147,4.7758318 0 0 0 -4.9649993,-3.21554 5.2534147,4.7758318 0 0 0 -0.06138,0 z" />
+      <path
+         id="path2403-69-5-5-6"
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.137936;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+         d="m -13.948452,105.9288 a 4.9640065,3.9175273 0 0 0 -4.633896,2.63765 4.9640065,3.9175273 0 0 0 4.691892,2.63766 4.9640065,3.9175273 0 0 0 4.6914799,-2.63766 4.9640065,3.9175273 0 0 0 -4.6914799,-2.63765 4.9640065,3.9175273 0 0 0 -0.058,0 z" />
+      <path
+         id="path2405-6-3-4-7"
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#665424;fill-opacity:1;stroke:none;stroke-width:0.702992;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+         d="m -52.71875,400.36133 a 18.761599,14.806402 0 0 0 -10.990234,2.93359 11.696428,18.925219 0 0 0 -0.84375,7.0625 11.696428,18.925219 0 0 0 0.830078,7 18.761599,14.806402 0 0 0 11.222656,2.94141 18.761599,14.806402 0 0 0 10.390625,-2.47852 11.696428,18.925219 0 0 0 0.949219,-7.46289 11.696428,18.925219 0 0 0 -0.964844,-7.52734 18.761599,14.806402 0 0 0 -10.375,-2.46875 18.761599,14.806402 0 0 0 -0.21875,0 z"
+         transform="scale(0.26458333)" />
+      <path
+         id="path2407-3-1-01-4"
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.621044;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+         d="m -52.71875,400.36133 a 18.761599,14.806402 0 0 0 -9.214844,2.00781 10.332989,16.71913 0 0 0 -1.255859,7.98828 10.332989,16.71913 0 0 0 1.232422,7.92188 18.761599,14.806402 0 0 0 9.457031,2.01953 18.761599,14.806402 0 0 0 8.615234,-1.6543 10.332989,16.71913 0 0 0 1.361328,-8.28711 10.332989,16.71913 0 0 0 -1.382812,-8.35156 18.761599,14.806402 0 0 0 -8.59375,-1.64453 18.761599,14.806402 0 0 0 -0.21875,0 z"
+         transform="scale(0.26458333)" />
+    </g>
+    <rect
+       style="font-variation-settings:normal;vector-effect:none;fill:#cdcdcd;fill-opacity:0.435484;stroke:#8e705b;stroke-width:0.0505207;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="rect2413-6-8-6-1"
+       width="1.3551325"
+       height="1.3059595"
+       x="-107.80965"
+       y="46.047596"
+       rx="0.18324597"
+       ry="0.19465059"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\RightJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099"
+       inkscape:transform-center-x="-3.9468096"
+       inkscape:transform-center-y="0.27351283"
+       transform="scale(-1,1)" />
+    <rect
+       style="font-variation-settings:normal;vector-effect:none;fill:#cdcdcd;fill-opacity:0.435484;stroke:#8e705b;stroke-width:0.0504747;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="rect2415-0-0-0-4"
+       width="1.3551325"
+       height="1.3059595"
+       x="-106.11147"
+       y="46.043888"
+       rx="0.18324597"
+       ry="0.19465059"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\RightJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099"
+       inkscape:transform-center-x="-2.2486437"
+       inkscape:transform-center-y="0.26980494"
+       transform="scale(-1,1)" />
+    <path
+       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#8e705b;stroke-width:0.0472302;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="m 106.43557,46.236229 -0.28771,-0.0098"
+       id="path2417-9-5-8-1"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\RightJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099"
+       inkscape:transform-center-x="-3.1064473"
+       inkscape:transform-center-y="-0.19573463" />
+    <ellipse
+       style="font-variation-settings:normal;vector-effect:none;fill:#542907;fill-opacity:1;stroke:none;stroke-width:0.048216;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="ellipse4296-6-8-7-8"
+       cx="105.61676"
+       cy="-61.592113"
+       rx="1.7610252"
+       ry="1.1539435"
+       transform="matrix(0.98758565,-0.15708143,0.02412919,-0.99970885,0,0)"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\RightJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <ellipse
+       style="font-variation-settings:normal;vector-effect:none;fill:#542907;fill-opacity:1;stroke:none;stroke-width:0.0316603;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="ellipse4298-2-5-83-7"
+       cx="31.280724"
+       cy="-119.2703"
+       rx="1.1422864"
+       ry="0.76704282"
+       transform="matrix(0.29297373,-0.95612049,-0.76919637,-0.63901248,0,0)"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\RightJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <ellipse
+       style="font-variation-settings:normal;vector-effect:none;fill:#542907;fill-opacity:1;stroke:none;stroke-width:0.0308631;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="ellipse4300-7-2-4-7"
+       cx="-91.214394"
+       cy="163.67691"
+       rx="0.99789453"
+       ry="0.83437419"
+       transform="matrix(0.66354697,-0.74813463,0.9907737,-0.13552669,0,0)"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\RightJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <path
+       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#8e705b;stroke-width:0.0472302;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="m 104.73903,46.382914 -2.11317,0.01422 -0.3341,0.291699"
+       id="path4302-09-5-95-8"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\RightJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099"
+       inkscape:transform-center-x="-0.3301272"
+       inkscape:transform-center-y="0.10880987" />
+    <path
+       style="font-variation-settings:normal;vector-effect:none;fill:#ffe778;fill-opacity:1;stroke:#ba8e18;stroke-width:0.0465715;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="path835-6-5-6-7"
+       sodipodi:type="arc"
+       sodipodi:cx="-107.43662"
+       sodipodi:cy="39.37384"
+       sodipodi:rx="0.68948257"
+       sodipodi:ry="0.68534893"
+       sodipodi:start="4.2197252"
+       sodipodi:end="2.2020403"
+       sodipodi:arc-type="arc"
+       sodipodi:open="true"
+       transform="matrix(-0.99733596,-0.07294513,-0.10029679,0.99495756,0,0)"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\RightJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099"
+       d="m -107.76273,38.769996 a 0.68948257,0.68534893 0 0 1 0.87847,0.193663 0.68948257,0.68534893 0 0 1 -0.0623,0.892274 0.68948257,0.68534893 0 0 1 -0.89696,0.07118" />
+    <g
+       id="g7304-5-1-9-3"
+       transform="matrix(-1.0000358,0,0,0.85182766,122.46298,37.261983)"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\RightJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099">
+      <g
+         id="g7293-9-0-8-4">
+        <path
+           id="path2631-6-0-2-7-5"
+           style="font-variation-settings:normal;vector-effect:none;fill:#f0a51c;fill-opacity:1;stroke:#593e0b;stroke-width:0.0484735;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+           d="m 18.054046,15.444449 a 1.1011509,0.97218172 0 0 0 -1.094143,0.972165 1.1011509,0.97218172 0 0 0 0.02088,0.188143 1.1011509,0.97218172 0 0 1 1.080318,-0.783945 1.1011509,0.97218172 0 0 1 1.08032,0.784029 1.1011509,0.97218172 0 0 0 0.0208,-0.188227 1.1011509,0.97218172 0 0 0 -1.101122,-0.972165 1.1011509,0.97218172 0 0 0 -0.0071,0 z" />
+        <path
+           id="path2629-5-5-6-1-3"
+           style="font-variation-settings:normal;vector-effect:none;fill:#f0a51c;fill-opacity:1;stroke:#593e0b;stroke-width:0.0484735;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+           d="m 18.054046,15.172238 a 1.1011509,0.97218172 0 0 0 -1.094143,0.972176 1.1011509,0.97218172 0 0 0 0.02088,0.188132 1.1011509,0.97218172 0 0 1 1.080318,-0.783945 1.1011509,0.97218172 0 0 1 1.08032,0.784034 1.1011509,0.97218172 0 0 0 0.0208,-0.188221 1.1011509,0.97218172 0 0 0 -1.101122,-0.972176 1.1011509,0.97218172 0 0 0 -0.0071,0 z" />
+      </g>
+      <ellipse
+         style="font-variation-settings:normal;vector-effect:none;fill:#ffe778;fill-opacity:1;stroke:none;stroke-width:0.0392119;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+         id="path2633-7-8-0-3-6"
+         cx="18.051495"
+         cy="16.0506"
+         rx="0.98127455"
+         ry="0.42835826" />
+      <rect
+         style="font-variation-settings:normal;vector-effect:none;fill:#ffe778;fill-opacity:1;stroke:none;stroke-width:0.0701816;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+         id="rect2210-2-0-8-6"
+         width="1.4865679"
+         height="2.322763"
+         x="17.360041"
+         y="14.763518" />
+      <path
+         id="path2583-1-1-1-7-0"
+         style="font-variation-settings:normal;vector-effect:none;fill:#ffe778;fill-opacity:1;stroke:none;stroke-width:0.0360543;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+         d="m 16.961125,16.012486 c -0.05231,0.08619 0.06657,0.165599 0.06653,0.258865 8e-6,0.393173 0.467922,0.711894 1.045108,0.711883 0.577162,-10e-6 1.045039,-0.318726 1.045047,-0.711883 2e-6,-0.09326 -0.0269,-0.185616 -0.07917,-0.271813 z"
+         sodipodi:nodetypes="ccsscc" />
+      <g
+         id="g7289-5-7-5-7">
+        <path
+           id="path2627-6-2-4-9-1"
+           style="font-variation-settings:normal;vector-effect:none;fill:#f0a51c;fill-opacity:1;stroke:#593e0b;stroke-width:0.0484735;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+           d="m 18.023927,17.297125 c -0.290242,0 -0.591317,-0.03704 -0.786931,-0.200306 -0.21241,-0.177276 -0.307213,-0.493605 -0.307211,-0.771864 1.8e-5,-0.06317 0.007,-0.126173 0.02088,-0.188143 0.101836,0.455567 0.554366,0.78395 1.080318,0.78395 0.525983,-10e-6 0.978523,-0.328436 1.080319,-0.784028 0.01385,0.06198 0.02081,0.125027 0.0208,0.188221 -4e-6,0.287529 -0.06609,0.376264 -0.353574,0.645598 -0.182031,0.170537 -0.465086,0.326562 -0.747548,0.326572 -0.0024,6e-6 -0.0047,6e-6 -0.007,0 z"
+           sodipodi:nodetypes="ssccsccscss" />
+        <path
+           id="path2605-9-9-1-0-4"
+           style="font-variation-settings:normal;vector-effect:none;fill:#f0a51c;fill-opacity:1;stroke:#593e0b;stroke-width:0.0484735;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+           d="m 18.054046,17.062249 a 1.1011509,0.97218172 0 0 1 -1.094143,-0.972171 1.1011509,0.97218172 0 0 1 0.02088,-0.188138 1.1011509,0.97218172 0 0 0 1.080318,0.78394 1.1011509,0.97218172 0 0 0 1.08032,-0.784029 1.1011509,0.97218172 0 0 1 0.0208,0.188227 1.1011509,0.97218172 0 0 1 -1.101122,0.972171 1.1011509,0.97218172 0 0 1 -0.0071,0 z" />
+      </g>
+    </g>
+    <rect
+       style="font-variation-settings:normal;vector-effect:none;fill:#f0a51c;fill-opacity:1;stroke:#593e0b;stroke-width:0.0265679;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="rect4334-7-9-1-8"
+       width="2.1059422"
+       height="4.861321"
+       x="-112.08376"
+       y="-19.726263"
+       ry="0.96388268"
+       rx="1.0529711"
+       transform="matrix(-0.80830767,-0.58876032,-0.69095063,0.72290195,0,0)"
+       inkscape:transform-center-x="1.0563928"
+       inkscape:transform-center-y="1.1478107"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\RightJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <g
+       id="g7624-1-7-1-4"
+       transform="matrix(-1.0000322,0.00231141,0.00271357,0.85182452,120.23469,36.359157)"
+       inkscape:transform-center-x="-0.70490772"
+       inkscape:transform-center-y="1.4517374"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\RightJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099">
+      <rect
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#f0a51c;fill-opacity:1;stroke:#593e0b;stroke-width:0.0286576;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+         id="rect4361-1-0-1-1"
+         width="2.1733632"
+         height="5.4806542"
+         x="25.55978"
+         y="10.728729"
+         ry="1.0866816"
+         rx="1.0866816"
+         transform="rotate(21.712993)" />
+      <g
+         id="g7312-9-9-7-4"
+         transform="matrix(1.013639,0.11668106,-0.12664991,1.1297386,17.69476,0.9036441)">
+        <path
+           id="path7306-2-2-8-9"
+           style="font-variation-settings:normal;vector-effect:none;fill:#f0a51c;fill-opacity:1;stroke:#593e0b;stroke-width:0.0347143;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+           d="m 4.0362258,19.77711 a 1.0213489,0.74906713 17.014881 0 1 0.751506,1.0134 1.0213489,0.74906713 17.014881 0 1 -0.0538,0.12153 1.0213489,0.74906713 17.014881 0 0 -0.780736,-0.88461 1.0213489,0.74906713 17.014881 0 0 -1.142046,0.29608 1.0213489,0.74906713 17.014881 0 1 0.02332,-0.13074 1.0213489,0.74906713 17.014881 0 1 1.195882,-0.41746 1.0213489,0.74906713 17.014881 0 1 0.0059,0.002 z" />
+        <path
+           id="path7308-2-2-3-8"
+           style="font-variation-settings:normal;vector-effect:none;fill:#f0a51c;fill-opacity:1;stroke:#593e0b;stroke-width:0.0347143;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+           d="m 4.0367388,19.55148 a 1.0213489,0.74906713 11.804793 0 1 0.840427,0.94097 1.0213489,0.74906713 11.804793 0 1 -0.04254,0.12592 1.0213489,0.74906713 11.804793 0 0 -0.857841,-0.81006 1.0213489,0.74906713 11.804793 0 0 -1.110441,0.39856 1.0213489,0.74906713 11.804793 0 1 0.01135,-0.13231 1.0213489,0.74906713 11.804793 0 1 1.153031,-0.52434 1.0213489,0.74906713 11.804793 0 1 0.006,0.001 z" />
+      </g>
+    </g>
+    <path
+       id="path4413-8-8-0-0"
+       style="font-variation-settings:normal;vector-effect:none;fill:#ffe778;fill-opacity:1;stroke:none;stroke-width:0.0547294;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="m 101.49124,56.645967 a -1.1154682,0.95015259 0 0 0 -1.01951,1.02271 -1.1154682,0.95015259 0 0 0 0.22145,0.496382 l -0.16039,0.395427 c -0.0639,0.157573 0.0253,0.32574 0.20001,0.377156 0.17469,0.05146 0.36685,-0.03399 0.43077,-0.191557 l 0.0987,-0.243361 a -1.1154682,0.95015259 0 0 0 0.052,0.01193 l 0.019,0.279454 c 0.0113,0.166427 0.16887,0.293114 0.3534,0.284042 0.18453,-0.0091 0.32399,-0.150331 0.31272,-0.31676 l -0.019,-0.280641 a -1.1154682,0.95015259 0 0 0 0.0262,-0.0088 l 0.14759,0.238938 c 0.0911,0.14754 0.29608,0.207376 0.45968,0.134046 0.1636,-0.07328 0.22201,-0.251089 0.13091,-0.398629 l -0.21568,-0.349211 a -1.1154682,0.95015259 0 0 0 0.16659,-0.580111 l 0.44421,-0.03032 c 0.16762,-0.01148 0.28892,-0.165613 0.27198,-0.345717 -0.0169,-0.180103 -0.16553,-0.315954 -0.33315,-0.304505 l -0.70601,0.04818 c -0.013,8.52e-4 -0.0256,0.0025 -0.0381,0.0055 a -1.1154682,0.95015259 0 0 0 -0.83992,-0.244511 -1.1154682,0.95015259 0 0 0 -0.003,1.07e-4 z"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\RightJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <g
+       id="g4672-2-4-7-6"
+       transform="matrix(0.02196034,0,0,0.06635841,99.10153,55.867514)"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\RightJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099">
+      <g
+         id="g4495-4-3-9-8-4"
+         transform="translate(-0.51592471,-20.108334)">
+        <circle
+           style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#e25454;fill-opacity:1;stroke:none;stroke-width:0.506;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+           id="path4417-0-7-6-9-1"
+           cx="265.90625"
+           cy="-8.4666643"
+           r="25.628374" />
+        <circle
+           style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.43809;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+           id="circle4419-4-2-5-67-4"
+           cx="265.90625"
+           cy="-8.4666643"
+           r="22.188791" />
+        <circle
+           style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#e25454;fill-opacity:1;stroke:none;stroke-width:0.391075;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+           id="circle4421-6-0-1-4-8"
+           cx="265.90625"
+           cy="-8.4666643"
+           r="19.807541" />
+        <circle
+           style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.338589;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+           id="circle4423-7-8-9-1-8"
+           cx="265.90625"
+           cy="-8.4666643"
+           r="17.149172" />
+        <circle
+           style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#e25454;fill-opacity:1;stroke:none;stroke-width:0.286598;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+           id="circle4425-5-2-8-2-6"
+           cx="265.90625"
+           cy="-8.4666643"
+           r="14.515874" />
+        <circle
+           style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.248134;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+           id="circle4427-6-7-4-0-3"
+           cx="265.90625"
+           cy="-8.4666643"
+           r="12.567699" />
+      </g>
+      <g
+         id="g4487-1-2-2-8-8"
+         transform="matrix(0.41038055,-0.13947624,0.13947624,0.41038055,150.70782,-13.332266)">
+        <rect
+           style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#6b4e1c;fill-opacity:1;stroke:none;stroke-width:0.349999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+           id="rect4436-3-2-8-4-3"
+           width="82.88028"
+           height="6.1739259"
+           x="265.10464"
+           y="47.146343"
+           rx="0"
+           ry="0" />
+        <path
+           id="path4434-61-2-3-7-5"
+           style="fill:#797979;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 273.57916,39.158333 -19.37969,10.527522 -2.05156,0.501261 0.56431,0.306443 -0.56431,0.306441 2.05156,0.501261 19.37969,10.527522 -3.69951,-6.694165 c -0.21473,-0.509159 -0.48421,-4.641059 -0.48421,-4.641059 l 0.48421,-4.641061 z"
+           sodipodi:nodetypes="ccccccccccc" />
+        <path
+           id="rect4438-5-5-6-5-5"
+           style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#a7a7a7;fill-opacity:1;stroke:none;stroke-width:1.32283;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+           d="m 1034,148 -73.24609,39.78906 -7.75391,1.89453 2.13281,1.15821 -0.14062,0.0762 h 63.20121 c -2e-4,-0.002 -0.01,-0.0762 -0.01,-0.0762 l 1.8301,-17.54102 z"
+           transform="scale(0.26458333)" />
+        <path
+           id="path4429-0-7-2-7-2"
+           style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#797979;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+           d="m 360.09791,39.422916 -19.37969,10.527522 -2.05156,0.501261 0.56431,0.306443 -0.56431,0.306441 2.05156,0.501261 19.37969,10.527522 -3.69951,-6.694165 6.08076,1.486215 -6.56497,-6.127274 6.56497,-6.127276 -6.08076,1.486215 z" />
+        <path
+           id="path4460-6-1-5-8-5"
+           style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#a7a7a7;fill-opacity:1;stroke:none;stroke-width:1.32283;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+           d="m 1361,149 -73.2461,39.78906 -2.9258,0.71485 h 62.8653 L 1370,168.68359 l -22.9824,5.61719 z"
+           transform="scale(0.26458333)" />
+      </g>
+      <path
+         id="path4509-3-6-6-9-6"
+         style="font-variation-settings:normal;vector-effect:none;fill:#fffffe;fill-opacity:1;stroke:none;stroke-width:0.349999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+         d="m 264.87949,-39.813194 a 11.131776,11.131776 0 0 0 -9.45835,11.00501 11.131776,11.131776 0 0 0 11.13213,11.13214 11.131776,11.131776 0 0 0 10.28001,-6.86212 11.131776,11.131776 0 0 1 -1.6738,0.12661 11.131776,11.131776 0 0 1 -11.13213,-11.13162 11.131776,11.131776 0 0 1 0.85214,-4.27002 z" />
+    </g>
+    <ellipse
+       style="font-variation-settings:normal;vector-effect:none;fill:#542907;fill-opacity:1;stroke:none;stroke-width:0.0453026;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="ellipse2292-7-4-6-7-8"
+       cx="120.06785"
+       cy="73.909729"
+       rx="1.8738258"
+       ry="0.957376"
+       transform="matrix(0.99991209,0.01325962,-0.20429186,0.97891002,0,0)"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\DownJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <ellipse
+       style="font-variation-settings:normal;vector-effect:none;fill:#542907;fill-opacity:1;stroke:none;stroke-width:0.023499;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="ellipse2290-1-5-7-9"
+       cx="131.5262"
+       cy="-85.422874"
+       rx="0.83345765"
+       ry="0.5791322"
+       transform="matrix(0.30202154,0.9533011,-0.81559409,0.57862447,0,0)"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\DownJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <rect
+       style="font-variation-settings:normal;vector-effect:none;fill:#26284f;fill-opacity:1;stroke:#000000;stroke-width:0.0364674;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="rect10459-2-2-6-8"
+       width="1.8746558"
+       height="3.4426174"
+       x="59.91214"
+       y="118.80753"
+       ry="0.63855112"
+       rx="0.93732792"
+       transform="matrix(0.94936534,-0.31417423,0.40761337,0.91315461,0,0)"
+       inkscape:transform-center-x="-0.45601739"
+       inkscape:transform-center-y="1.0462935"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\DownJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <rect
+       style="font-variation-settings:normal;vector-effect:none;fill:#26284f;fill-opacity:1;stroke:#000000;stroke-width:0.0394786;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="rect2249-0-4-1-3-4"
+       width="2.1528494"
+       height="3.5132589"
+       x="-102.02873"
+       y="90.46756"
+       ry="0.65165406"
+       rx="1.0764247"
+       transform="matrix(-0.99991267,0.01321552,0.0394393,0.99922197,0,0)"
+       inkscape:transform-center-x="-0.057594367"
+       inkscape:transform-center-y="1.1646968"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\DownJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <rect
+       style="font-variation-settings:normal;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.0456373;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="rect10461-6-3-5-0"
+       width="3.095345"
+       height="2.7334437"
+       x="-113.90177"
+       y="84.522377"
+       rx="0.55557501"
+       ry="0.92937422"
+       transform="matrix(-0.20514251,-0.97873211,0.98658468,-0.16325034,0,0)"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\DownJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <rect
+       style="font-variation-settings:normal;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.0385874;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="rect2282-2-3-2-2-6"
+       width="2.6704295"
+       height="2.2651136"
+       x="-92.49054"
+       y="-111.93596"
+       rx="0.4793081"
+       ry="0.77014142"
+       transform="matrix(0.07222145,-0.99738862,-0.99942244,-0.03398201,0,0)"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\DownJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <rect
+       style="font-variation-settings:normal;vector-effect:none;fill:#26284f;fill-opacity:1;stroke:#000000;stroke-width:0.0470462;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="rect10463-1-9-4-7"
+       width="2.1060491"
+       height="5.1001267"
+       x="105.02853"
+       y="87.423752"
+       ry="0.94599289"
+       rx="1.0530245"
+       transform="matrix(0.99938876,0.03495876,0.01711398,0.99985355,0,0)"
+       inkscape:transform-center-x="-0.017599669"
+       inkscape:transform-center-y="1.6916731"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\DownJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <rect
+       style="font-variation-settings:normal;vector-effect:none;fill:#26284f;fill-opacity:1;stroke:#000000;stroke-width:0.039662;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="rect2251-6-4-1-2-2"
+       width="2.105715"
+       height="3.6253583"
+       x="-124.3188"
+       y="79.239891"
+       ry="0.67244661"
+       rx="1.0528575"
+       transform="matrix(-0.99354589,-0.11343085,-0.22330543,0.97474852,0,0)"
+       inkscape:transform-center-x="0.25734503"
+       inkscape:transform-center-y="1.1738677"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\DownJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <path
+       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#8e705b;stroke-width:0.0477625;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="m 101.90343,76.475662 0.13929,-0.497386"
+       id="path7235-7-5-7-3"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\DownJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <ellipse
+       style="font-variation-settings:normal;vector-effect:none;fill:#ffe778;fill-opacity:1;stroke:none;stroke-width:0.0500958;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="ellipse837-3-1-1-9"
+       cx="102.1065"
+       cy="76.791435"
+       rx="0.70061183"
+       ry="0.78040344"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\DownJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <path
+       id="path2629-8-1-8-6-3"
+       style="font-variation-settings:normal;vector-effect:none;fill:#f0a51c;fill-opacity:1;stroke:#593e0b;stroke-width:0.0538508;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="m 105.80792,80.048623 a 1.3254626,0.99679126 0 0 0 -1.31703,0.996785 1.3254626,0.99679126 0 0 0 0.0251,0.192894 1.3254626,0.99679126 0 0 1 1.30039,-0.803789 1.3254626,0.99679126 0 0 1 1.30039,0.80388 1.3254626,0.99679126 0 0 0 0.025,-0.192985 1.3254626,0.99679126 0 0 0 -1.32543,-0.996785 1.3254626,0.99679126 0 0 0 -0.008,0 z"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\DownJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <path
+       id="path2631-2-7-9-3-7"
+       style="font-variation-settings:normal;vector-effect:none;fill:#f0a51c;fill-opacity:1;stroke:#593e0b;stroke-width:0.0538508;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="m 105.80792,80.327724 a 1.3254626,0.99679126 0 0 0 -1.31703,0.996775 1.3254626,0.99679126 0 0 0 0.0251,0.192905 1.3254626,0.99679126 0 0 1 1.30039,-0.803789 1.3254626,0.99679126 0 0 1 1.30039,0.803875 1.3254626,0.99679126 0 0 0 0.025,-0.192991 1.3254626,0.99679126 0 0 0 -1.32543,-0.996775 1.3254626,0.99679126 0 0 0 -0.008,0 z"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\DownJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <rect
+       style="font-variation-settings:normal;vector-effect:none;fill:#ffe778;fill-opacity:1;stroke:none;stroke-width:0.0669858;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="rect2210-14-5-1-6-5"
+       width="1.537357"
+       height="2.0461202"
+       x="104.99679"
+       y="79.578148"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\DownJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <ellipse
+       style="fill:#ffe778;fill-opacity:1;stroke:none;stroke-width:0.0500958;stroke-opacity:1;stop-color:#000000"
+       id="path833-9-4-3-9-5"
+       cx="105.81921"
+       cy="76.706108"
+       rx="3.7365963"
+       ry="3.3052385"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\DownJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <path
+       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#8e705b;stroke-width:0.0605334;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="m 110.00043,76.530138 -0.22905,-0.48584"
+       id="path2454-4-6-8-0"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\DownJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <ellipse
+       style="font-variation-settings:normal;vector-effect:none;fill:#ffe778;fill-opacity:1;stroke:none;stroke-width:0.0500958;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="path835-8-1-5-6-2"
+       cx="109.65598"
+       cy="76.854317"
+       rx="0.70061183"
+       ry="0.78040344"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\DownJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <g
+       id="g7624-6-5-1-5-0-2"
+       transform="matrix(-0.75016233,0.24112098,0.26072674,0.81115867,111.86035,62.882409)"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\DownJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099">
+      <rect
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#f0a51c;fill-opacity:1;stroke:#593e0b;stroke-width:0.0286576;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+         id="rect4361-8-4-9-4-9-8"
+         width="2.1733632"
+         height="5.4806542"
+         x="25.55978"
+         y="10.728729"
+         ry="1.0866816"
+         rx="1.0866816"
+         transform="rotate(21.712993)" />
+      <g
+         id="g7312-6-9-8-6-3-8"
+         transform="matrix(1.013639,0.11668106,-0.12664991,1.1297386,17.69476,0.9036441)">
+        <path
+           id="path7306-8-0-5-9-2-7"
+           style="font-variation-settings:normal;vector-effect:none;fill:#f0a51c;fill-opacity:1;stroke:#593e0b;stroke-width:0.0347143;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+           d="m 4.0362258,19.77711 a 1.0213489,0.74906713 17.014881 0 1 0.751506,1.0134 1.0213489,0.74906713 17.014881 0 1 -0.0538,0.12153 1.0213489,0.74906713 17.014881 0 0 -0.780736,-0.88461 1.0213489,0.74906713 17.014881 0 0 -1.142046,0.29608 1.0213489,0.74906713 17.014881 0 1 0.02332,-0.13074 1.0213489,0.74906713 17.014881 0 1 1.195882,-0.41746 1.0213489,0.74906713 17.014881 0 1 0.0059,0.002 z" />
+        <path
+           id="path7308-6-3-1-8-6-9"
+           style="font-variation-settings:normal;vector-effect:none;fill:#f0a51c;fill-opacity:1;stroke:#593e0b;stroke-width:0.0347143;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+           d="m 4.0367388,19.55148 a 1.0213489,0.74906713 11.804793 0 1 0.840427,0.94097 1.0213489,0.74906713 11.804793 0 1 -0.04254,0.12592 1.0213489,0.74906713 11.804793 0 0 -0.857841,-0.81006 1.0213489,0.74906713 11.804793 0 0 -1.110441,0.39856 1.0213489,0.74906713 11.804793 0 1 0.01135,-0.13231 1.0213489,0.74906713 11.804793 0 1 1.153031,-0.52434 1.0213489,0.74906713 11.804793 0 1 0.006,0.001 z" />
+      </g>
+    </g>
+    <rect
+       style="font-variation-settings:normal;vector-effect:none;fill:#f0a51c;fill-opacity:1;stroke:#593e0b;stroke-width:0.0293045;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="rect2212-6-6-3-7-9"
+       width="5.2547946"
+       height="7.9424772"
+       x="103.05772"
+       y="80.869911"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\DownJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <path
+       style="font-variation-settings:normal;vector-effect:none;fill:#26284f;fill-opacity:1;stroke:#000000;stroke-width:0.0470143;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="m 102.95955,88.78216 0.82112,1.935815 h 3.64296 l 0.93695,-1.935815 z"
+       id="path2226-2-0-6-6-5"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\DownJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <ellipse
+       style="font-variation-settings:normal;vector-effect:none;fill:#542907;fill-opacity:1;stroke:none;stroke-width:0.066048;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="ellipse2288-4-9-8-8-3"
+       cx="118.48949"
+       cy="45.779472"
+       rx="3.0199502"
+       ry="1.2626508"
+       transform="matrix(0.96946217,0.24524092,-0.16280262,0.98665866,0,0)"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\DownJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <ellipse
+       style="font-variation-settings:normal;vector-effect:none;fill:#542907;fill-opacity:1;stroke:none;stroke-width:0.0448842;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="path2286-2-8-8-8-2"
+       cx="45.33725"
+       cy="119.28844"
+       rx="1.7718548"
+       ry="0.99385875"
+       transform="matrix(0.82870258,-0.55968922,0.54893485,0.83586514,0,0)"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\DownJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <path
+       sodipodi:type="spiral"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583"
+       id="path2334-9-8-1-6-3"
+       sodipodi:cx="26.994225"
+       sodipodi:cy="100.89424"
+       sodipodi:expansion="4.2149301"
+       sodipodi:revolution="4.4274802"
+       sodipodi:radius="8.4232311"
+       sodipodi:argument="-27.786943"
+       sodipodi:t0="0.91447192"
+       transform="matrix(-0.21525259,0.04972758,-0.06977545,-0.15340626,118.76045,91.98621)"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\DownJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099"
+       d="m 22.943716,96.773032 c 2.175944,-2.985264 6.502612,-3.213884 9.355697,-1.092967 1.748632,1.299893 2.857076,3.327622 3.113801,5.481445" />
+    <path
+       id="path2336-5-7-8-2-5"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.0316111"
+       d="m 105.4537,76.818457 c -0.25262,0.251628 -0.31084,0.613802 -0.34118,0.870416 0.0625,0.136805 0.35055,0.23125 0.65408,0.199582"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\DownJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <g
+       id="g2399-8-2-8-6-3"
+       transform="matrix(0.14798995,0,0,0.12605742,106.29679,62.815221)"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\DownJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099">
+      <path
+         id="path2342-5-1-8-1-2"
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffe778;fill-opacity:1;stroke:#86793f;stroke-width:0.156677;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+         d="m -13.951821,105.35092 a 5.2534147,4.7758318 0 0 0 -4.904058,3.21554 5.2534147,4.7758318 0 0 0 4.965435,3.21554 5.2534147,4.7758318 0 0 0 4.9649993,-3.21554 5.2534147,4.7758318 0 0 0 -4.9649993,-3.21554 5.2534147,4.7758318 0 0 0 -0.06138,0 z" />
+      <path
+         id="path2377-75-4-6-8-7"
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.137936;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+         d="m -13.948452,105.9288 a 4.9640065,3.9175273 0 0 0 -4.633896,2.63765 4.9640065,3.9175273 0 0 0 4.691892,2.63766 4.9640065,3.9175273 0 0 0 4.6914799,-2.63766 4.9640065,3.9175273 0 0 0 -4.6914799,-2.63765 4.9640065,3.9175273 0 0 0 -0.058,0 z" />
+      <path
+         id="path2379-0-4-4-8-8"
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#665424;fill-opacity:1;stroke:none;stroke-width:0.702992;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+         d="m -52.71875,400.36133 a 18.761599,14.806402 0 0 0 -10.990234,2.93359 11.696428,18.925219 0 0 0 -0.84375,7.0625 11.696428,18.925219 0 0 0 0.830078,7 18.761599,14.806402 0 0 0 11.222656,2.94141 18.761599,14.806402 0 0 0 10.390625,-2.47852 11.696428,18.925219 0 0 0 0.949219,-7.46289 11.696428,18.925219 0 0 0 -0.964844,-7.52734 18.761599,14.806402 0 0 0 -10.375,-2.46875 18.761599,14.806402 0 0 0 -0.21875,0 z"
+         transform="scale(0.26458333)" />
+      <path
+         id="ellipse2381-5-6-4-6-2"
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.621044;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+         d="m -52.71875,400.36133 a 18.761599,14.806402 0 0 0 -9.214844,2.00781 10.332989,16.71913 0 0 0 -1.255859,7.98828 10.332989,16.71913 0 0 0 1.232422,7.92188 18.761599,14.806402 0 0 0 9.457031,2.01953 18.761599,14.806402 0 0 0 8.615234,-1.6543 10.332989,16.71913 0 0 0 1.361328,-8.28711 10.332989,16.71913 0 0 0 -1.382812,-8.35156 18.761599,14.806402 0 0 0 -8.59375,-1.64453 18.761599,14.806402 0 0 0 -0.21875,0 z"
+         transform="scale(0.26458333)" />
+    </g>
+    <g
+       id="g2409-6-3-3-8-8"
+       transform="matrix(0.14798995,0,0,0.12605742,108.80519,62.86103)"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\DownJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099">
+      <path
+         id="path2401-67-8-4-6-8"
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffe778;fill-opacity:1;stroke:#86793f;stroke-width:0.156677;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+         d="m -13.951821,105.35092 a 5.2534147,4.7758318 0 0 0 -4.904058,3.21554 5.2534147,4.7758318 0 0 0 4.965435,3.21554 5.2534147,4.7758318 0 0 0 4.9649993,-3.21554 5.2534147,4.7758318 0 0 0 -4.9649993,-3.21554 5.2534147,4.7758318 0 0 0 -0.06138,0 z" />
+      <path
+         id="path2403-6-2-5-3-0"
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.137936;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+         d="m -13.948452,105.9288 a 4.9640065,3.9175273 0 0 0 -4.633896,2.63765 4.9640065,3.9175273 0 0 0 4.691892,2.63766 4.9640065,3.9175273 0 0 0 4.6914799,-2.63766 4.9640065,3.9175273 0 0 0 -4.6914799,-2.63765 4.9640065,3.9175273 0 0 0 -0.058,0 z" />
+      <path
+         id="path2405-1-6-9-8-6"
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#665424;fill-opacity:1;stroke:none;stroke-width:0.702992;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+         d="m -52.71875,400.36133 a 18.761599,14.806402 0 0 0 -10.990234,2.93359 11.696428,18.925219 0 0 0 -0.84375,7.0625 11.696428,18.925219 0 0 0 0.830078,7 18.761599,14.806402 0 0 0 11.222656,2.94141 18.761599,14.806402 0 0 0 10.390625,-2.47852 11.696428,18.925219 0 0 0 0.949219,-7.46289 11.696428,18.925219 0 0 0 -0.964844,-7.52734 18.761599,14.806402 0 0 0 -10.375,-2.46875 18.761599,14.806402 0 0 0 -0.21875,0 z"
+         transform="scale(0.26458333)" />
+      <path
+         id="path2407-9-0-8-1-5"
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.621044;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+         d="m -52.71875,400.36133 a 18.761599,14.806402 0 0 0 -9.214844,2.00781 10.332989,16.71913 0 0 0 -1.255859,7.98828 10.332989,16.71913 0 0 0 1.232422,7.92188 18.761599,14.806402 0 0 0 9.457031,2.01953 18.761599,14.806402 0 0 0 8.615234,-1.6543 10.332989,16.71913 0 0 0 1.361328,-8.28711 10.332989,16.71913 0 0 0 -1.382812,-8.35156 18.761599,14.806402 0 0 0 -8.59375,-1.64453 18.761599,14.806402 0 0 0 -0.21875,0 z"
+         transform="scale(0.26458333)" />
+    </g>
+    <path
+       sodipodi:type="spiral"
+       style="fill:none;fill-rule:evenodd;stroke:#542907;stroke-width:0.465;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path2688-40-0-3-8-0"
+       sodipodi:cx="28.531021"
+       sodipodi:cy="91.807083"
+       sodipodi:expansion="4.2149301"
+       sodipodi:revolution="4.4274802"
+       sodipodi:radius="3.8179569"
+       sodipodi:argument="-28.392118"
+       sodipodi:t0="0.91447198"
+       transform="matrix(0.25323774,0.01890718,-0.02219681,0.21570718,98.935483,55.810933)"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\DownJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099"
+       d="m 25.958411,91.315316 c 0.04133,-1.673907 1.595211,-2.874824 3.205657,-2.819926 0.987026,0.03365 1.923095,0.503686 2.574189,1.240357" />
+    <rect
+       style="font-variation-settings:normal;vector-effect:none;fill:#cdcdcd;fill-opacity:0.435484;stroke:#8e705b;stroke-width:0.0605334;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="rect2413-7-8-3-4-0"
+       width="1.8919219"
+       height="1.3429447"
+       x="103.25962"
+       y="75.858932"
+       rx="0.25583261"
+       ry="0.20016319"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\DownJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <path
+       sodipodi:type="spiral"
+       style="fill:none;fill-rule:evenodd;stroke:#542907;stroke-width:0.465;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path2701-7-2-0-6-8"
+       sodipodi:cx="28.531021"
+       sodipodi:cy="91.807083"
+       sodipodi:expansion="4.2149301"
+       sodipodi:revolution="4.4274802"
+       sodipodi:radius="3.8179569"
+       sodipodi:argument="-28.392118"
+       sodipodi:t0="0.91447198"
+       transform="matrix(-0.25323773,0.01890718,0.02219681,0.21570717,112.1095,55.810932)"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\DownJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099"
+       d="m 25.958411,91.315316 c 0.04133,-1.673907 1.595211,-2.874824 3.205657,-2.819926 0.987026,0.03365 1.923095,0.503686 2.574189,1.240357" />
+    <rect
+       style="font-variation-settings:normal;vector-effect:none;fill:#cdcdcd;fill-opacity:0.435484;stroke:#8e705b;stroke-width:0.0604783;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="rect2415-6-6-6-9-2"
+       width="1.8919219"
+       height="1.3429447"
+       x="105.86369"
+       y="75.869759"
+       rx="0.25583261"
+       ry="0.20016319"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\DownJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <path
+       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#8e705b;stroke-width:0.0605334;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="m 105.18047,76.051369 0.66489,-0.007"
+       id="path2417-5-5-5-7-3"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\DownJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <path
+       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#8e705b;stroke-width:0.0605334;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="m 107.7751,76.145502 1.99598,-0.111305"
+       id="path2419-4-4-0-2"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\DownJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <ellipse
+       style="font-variation-settings:normal;vector-effect:none;fill:#ffe778;fill-opacity:1;stroke:none;stroke-width:0.0435619;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="path2633-2-2-7-6-9"
+       cx="105.80484"
+       cy="80.949219"
+       rx="1.1811665"
+       ry="0.43920159"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\DownJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <g
+       id="g10428-4-6-9-3"
+       transform="matrix(1.0000358,0,0,0.85182766,88.976014,8.1209478)"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\DownJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099">
+      <g
+         id="g4495-0-5-0-9-3"
+         transform="matrix(0.05295245,0,0,0.05295245,2.5971284,89.893066)">
+        <circle
+           style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#e25454;fill-opacity:1;stroke:none;stroke-width:0.506;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+           id="path4417-1-3-5-7-4"
+           cx="265.90625"
+           cy="-8.4666643"
+           r="25.628374" />
+        <circle
+           style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.43809;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+           id="circle4419-7-6-9-3-0"
+           cx="265.90625"
+           cy="-8.4666643"
+           r="22.188791" />
+        <circle
+           style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#e25454;fill-opacity:1;stroke:none;stroke-width:0.391075;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+           id="circle4421-8-7-5-5-5"
+           cx="265.90625"
+           cy="-8.4666643"
+           r="19.807541" />
+        <circle
+           style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.338589;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+           id="circle4423-5-9-5-3-5"
+           cx="265.90625"
+           cy="-8.4666643"
+           r="17.149172" />
+        <circle
+           style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#e25454;fill-opacity:1;stroke:none;stroke-width:0.286598;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+           id="circle4425-9-3-6-3-9"
+           cx="265.90625"
+           cy="-8.4666643"
+           r="14.515874" />
+        <circle
+           style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.248134;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+           id="circle4427-5-5-3-3-8"
+           cx="265.90625"
+           cy="-8.4666643"
+           r="12.567699" />
+      </g>
+      <g
+         id="g4487-8-7-9-5-7"
+         transform="matrix(0.02173066,-0.00738561,0.00738561,0.02173066,10.604795,90.251875)">
+        <rect
+           style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#6b4e1c;fill-opacity:1;stroke:none;stroke-width:0.349999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+           id="rect4436-2-5-0-7-9"
+           width="82.88028"
+           height="6.1739259"
+           x="265.10464"
+           y="47.146343"
+           rx="0"
+           ry="0" />
+        <path
+           id="path4434-6-3-3-2-4"
+           style="fill:#797979;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 273.57916,39.158333 -19.37969,10.527522 -2.05156,0.501261 0.56431,0.306443 -0.56431,0.306441 2.05156,0.501261 19.37969,10.527522 -3.69951,-6.694165 c -0.21473,-0.509159 -0.48421,-4.641059 -0.48421,-4.641059 l 0.48421,-4.641061 z"
+           sodipodi:nodetypes="ccccccccccc" />
+        <path
+           id="rect4438-2-8-5-0-8"
+           style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#a7a7a7;fill-opacity:1;stroke:none;stroke-width:1.32283;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+           d="m 1034,148 -73.24609,39.78906 -7.75391,1.89453 2.13281,1.15821 -0.14062,0.0762 h 63.20121 c -2e-4,-0.002 -0.01,-0.0762 -0.01,-0.0762 l 1.8301,-17.54102 z"
+           transform="scale(0.26458333)" />
+        <path
+           id="path4429-5-7-0-0-6"
+           style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#797979;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+           d="m 360.09791,39.422916 -19.37969,10.527522 -2.05156,0.501261 0.56431,0.306443 -0.56431,0.306441 2.05156,0.501261 19.37969,10.527522 -3.69951,-6.694165 6.08076,1.486215 -6.56497,-6.127274 6.56497,-6.127276 -6.08076,1.486215 z" />
+        <path
+           id="path4460-1-4-0-9-8"
+           style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#a7a7a7;fill-opacity:1;stroke:none;stroke-width:1.32283;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+           d="m 1361,149 -73.2461,39.78906 -2.9258,0.71485 h 62.8653 L 1370,168.68359 l -22.9824,5.61719 z"
+           transform="scale(0.26458333)" />
+      </g>
+      <path
+         id="path4509-2-3-7-3-1"
+         style="font-variation-settings:normal;vector-effect:none;fill:#fffffe;fill-opacity:1;stroke:none;stroke-width:0.0185333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+         d="m 16.650475,88.849645 a 0.58945477,0.58945477 0 0 0 -0.50085,0.582742 0.58945477,0.58945477 0 0 0 0.58948,0.589475 0.58945477,0.58945477 0 0 0 0.54434,-0.363364 0.58945477,0.58945477 0 0 1 -0.0886,0.0067 0.58945477,0.58945477 0 0 1 -0.58947,-0.589448 0.58945477,0.58945477 0 0 1 0.0451,-0.226108 z" />
+    </g>
+    <path
+       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#8e705b;stroke-width:0.0477625;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="m 103.25669,76.081885 -1.21379,-0.11395"
+       id="path7237-1-8-6-0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\DownJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <path
+       id="path2583-5-9-7-4-7"
+       style="font-variation-settings:normal;vector-effect:none;fill:#ffe778;fill-opacity:1;stroke:none;stroke-width:0.040054;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="m 104.49236,80.910141 c -0.063,0.08837 0.0801,0.16979 0.0801,0.265417 1e-5,0.403126 0.56324,0.729914 1.258,0.729904 0.69474,-1.1e-5 1.25793,-0.326794 1.25794,-0.729904 0,-0.09562 -0.0324,-0.190314 -0.0953,-0.278694 z"
+       sodipodi:nodetypes="ccsscc"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\DownJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <rect
+       style="font-variation-settings:normal;vector-effect:none;fill:#f0a51c;fill-opacity:1;stroke:#593e0b;stroke-width:0.023486;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="rect4334-4-2-9-6-4-5"
+       width="1.7176197"
+       height="4.6577759"
+       x="-130.81818"
+       y="16.365791"
+       ry="0.92352456"
+       rx="0.85880983"
+       transform="matrix(-0.86016984,-0.5100077,-0.4849958,0.87451648,0,0)"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\DownJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <path
+       id="path2627-9-4-3-9-8"
+       style="font-variation-settings:normal;vector-effect:none;fill:#f0a51c;fill-opacity:1;stroke:#593e0b;stroke-width:0.0538508;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="m 105.77166,82.2273 c -0.34936,0 -0.71177,-0.03798 -0.94723,-0.205377 -0.25568,-0.181764 -0.36979,-0.506101 -0.36979,-0.791404 2e-5,-0.06476 0.008,-0.129367 0.0251,-0.192905 0.12258,0.467098 0.66729,0.803795 1.30039,0.803795 0.63312,-1.1e-5 1.17785,-0.33675 1.30038,-0.803876 0.0167,0.06355 0.0251,0.128193 0.025,0.192986 0,0.294807 -0.0795,0.385789 -0.4256,0.66194 -0.21911,0.174856 -0.55983,0.33483 -0.89983,0.334841 -0.003,5e-6 -0.006,5e-6 -0.008,0 z"
+       sodipodi:nodetypes="ssccsccscss"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\DownJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <rect
+       style="font-variation-settings:normal;vector-effect:none;fill:#f0a51c;fill-opacity:1;stroke:#593e0b;stroke-width:0.023486;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="rect10320-3-0-5-2"
+       width="1.7176197"
+       height="4.6577759"
+       x="100.93571"
+       y="92.308281"
+       ry="0.92352456"
+       rx="0.85880983"
+       transform="matrix(0.99366262,-0.11240375,0.08370834,0.9964903,0,0)"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\DownJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <path
+       id="path2605-4-2-9-8-7"
+       style="font-variation-settings:normal;vector-effect:none;fill:#f0a51c;fill-opacity:1;stroke:#593e0b;stroke-width:0.0538508;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="m 105.80792,81.986477 a 1.3254626,0.99679126 0 0 1 -1.31703,-0.996781 1.3254626,0.99679126 0 0 1 0.0251,-0.192899 1.3254626,0.99679126 0 0 0 1.30039,0.803783 1.3254626,0.99679126 0 0 0 1.30039,-0.803875 1.3254626,0.99679126 0 0 1 0.025,0.192991 1.3254626,0.99679126 0 0 1 -1.32543,0.996781 1.3254626,0.99679126 0 0 1 -0.008,0 z"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\DownJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <g
+       id="g10330-8-4-8-6"
+       transform="matrix(0.78518922,-0.0660359,0.07140534,0.84903363,91.829799,68.658481)"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\DownJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099">
+      <rect
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#f0a51c;fill-opacity:1;stroke:#593e0b;stroke-width:0.0286576;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+         id="rect10322-6-2-8-0"
+         width="2.1733632"
+         height="5.4806542"
+         x="25.55978"
+         y="10.728729"
+         ry="1.0866816"
+         rx="1.0866816"
+         transform="rotate(21.712993)" />
+      <g
+         id="g10328-8-8-1-8"
+         transform="matrix(1.013639,0.11668106,-0.12664991,1.1297386,17.69476,0.9036441)">
+        <path
+           id="path10324-7-1-7-1"
+           style="font-variation-settings:normal;vector-effect:none;fill:#f0a51c;fill-opacity:1;stroke:#593e0b;stroke-width:0.0347143;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+           d="m 4.0362258,19.77711 a 1.0213489,0.74906713 17.014881 0 1 0.751506,1.0134 1.0213489,0.74906713 17.014881 0 1 -0.0538,0.12153 1.0213489,0.74906713 17.014881 0 0 -0.780736,-0.88461 1.0213489,0.74906713 17.014881 0 0 -1.142046,0.29608 1.0213489,0.74906713 17.014881 0 1 0.02332,-0.13074 1.0213489,0.74906713 17.014881 0 1 1.195882,-0.41746 1.0213489,0.74906713 17.014881 0 1 0.0059,0.002 z" />
+        <path
+           id="path10326-5-3-2-8"
+           style="font-variation-settings:normal;vector-effect:none;fill:#f0a51c;fill-opacity:1;stroke:#593e0b;stroke-width:0.0347143;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+           d="m 4.0367388,19.55148 a 1.0213489,0.74906713 11.804793 0 1 0.840427,0.94097 1.0213489,0.74906713 11.804793 0 1 -0.04254,0.12592 1.0213489,0.74906713 11.804793 0 0 -0.857841,-0.81006 1.0213489,0.74906713 11.804793 0 0 -1.110441,0.39856 1.0213489,0.74906713 11.804793 0 1 0.01135,-0.13231 1.0213489,0.74906713 11.804793 0 1 1.153031,-0.52434 1.0213489,0.74906713 11.804793 0 1 0.006,0.001 z" />
+      </g>
+    </g>
+    <path
+       id="path10332-3-5-1-0"
+       style="font-variation-settings:normal;vector-effect:none;fill:#ffe778;fill-opacity:1;stroke:none;stroke-width:0.0485867;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="m 108.64053,87.688352 a 0.8789142,0.9503794 0 0 1 0.6154,1.165396 0.8789142,0.9503794 0 0 1 -0.25605,0.453275 l 0.0569,0.413918 c 0.0227,0.164942 -0.0751,0.31628 -0.21913,0.339424 -0.14406,0.02318 -0.27833,-0.09096 -0.30099,-0.255902 l -0.035,-0.254734 a 0.8789142,0.9503794 0 0 1 -0.0423,0.0036 l -0.0623,0.271769 c -0.0371,0.161853 -0.18071,0.261682 -0.32207,0.223814 -0.14137,-0.03785 -0.22532,-0.198618 -0.18824,-0.360473 l 0.0625,-0.272933 a 0.8789142,0.9503794 0 0 1 -0.0188,-0.01281 l -0.155,0.211758 c -0.0957,0.130762 -0.26462,0.157434 -0.37884,0.05968 -0.11421,-0.09771 -0.12917,-0.28168 -0.0335,-0.412441 l 0.2265,-0.309493 a 0.8789142,0.9503794 0 0 1 -0.0302,-0.596463 l -0.33886,-0.09949 c -0.12787,-0.03757 -0.19555,-0.208143 -0.15176,-0.382552 0.0438,-0.174408 0.18201,-0.284661 0.30987,-0.247111 l 0.53857,0.158118 c 0.01,0.0029 0.0194,0.0065 0.0286,0.01144 a 0.8789142,0.9503794 0 0 1 0.69214,-0.108632 0.8789142,0.9503794 0 0 1 0.003,6.19e-4 z"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\DownJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <ellipse
+       style="font-variation-settings:normal;vector-effect:none;fill:#542907;fill-opacity:1;stroke:none;stroke-width:0.0453026;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="ellipse12523-6"
+       cx="126.07022"
+       cy="109.38388"
+       rx="1.8738258"
+       ry="0.957376"
+       transform="matrix(0.99991209,0.01325962,-0.20429186,0.97891002,0,0)"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\UpJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <ellipse
+       style="font-variation-settings:normal;vector-effect:none;fill:#542907;fill-opacity:1;stroke:none;stroke-width:0.023499;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="ellipse12525-2"
+       cx="160.57983"
+       cy="-73.137291"
+       rx="0.83345765"
+       ry="0.5791322"
+       transform="matrix(0.30202154,0.9533011,-0.81559409,0.57862447,0,0)"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\UpJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <rect
+       style="font-variation-settings:normal;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.0444839;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="rect12527-8"
+       width="3.5560982"
+       height="2.260536"
+       x="-140.7614"
+       y="-91.04483"
+       rx="0.63827437"
+       ry="0.76858497"
+       transform="matrix(-0.09330505,-0.99563757,-0.99478665,0.10197808,0,0)"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\UpJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <rect
+       style="font-variation-settings:normal;vector-effect:none;fill:#26284f;fill-opacity:1;stroke:#000000;stroke-width:0.0470462;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="rect12529-3"
+       width="2.1060491"
+       height="5.1001267"
+       x="-114.01002"
+       y="122.16719"
+       ry="0.94599289"
+       rx="1.0530245"
+       transform="matrix(-0.99951731,-0.03106697,-0.08305688,0.99654481,0,0)"
+       inkscape:transform-center-x="0.12920084"
+       inkscape:transform-center-y="1.6868265"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\UpJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <rect
+       style="font-variation-settings:normal;vector-effect:none;fill:#26284f;fill-opacity:1;stroke:#000000;stroke-width:0.0353328;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="rect12531-7"
+       width="2.089505"
+       height="2.8994436"
+       x="-146.63686"
+       y="114.90053"
+       ry="0.53780097"
+       rx="1.0447525"
+       transform="matrix(-0.99321707,-0.11627486,-0.35824384,0.93362806,0,0)"
+       inkscape:transform-center-x="0.33345279"
+       inkscape:transform-center-y="0.89954275"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\UpJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <rect
+       style="font-variation-settings:normal;vector-effect:none;fill:#26284f;fill-opacity:1;stroke:#000000;stroke-width:0.0368537;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="rect12533-5"
+       width="2.1206954"
+       height="3.1080358"
+       x="117.31633"
+       y="120.91877"
+       ry="0.57649159"
+       rx="1.0603477"
+       transform="matrix(0.99936397,0.03566031,-0.10820173,0.99412896,0,0)"
+       inkscape:transform-center-x="0.12302716"
+       inkscape:transform-center-y="1.0248355"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\UpJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <rect
+       style="font-variation-settings:normal;vector-effect:none;fill:#26284f;fill-opacity:1;stroke:#000000;stroke-width:0.0416885;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="rect12535-2"
+       width="2.2003732"
+       height="3.8329968"
+       x="76.036667"
+       y="134.45642"
+       ry="0.71096027"
+       rx="1.1001866"
+       transform="matrix(0.99761333,-0.06904813,0.20721465,0.9782955,0,0)"
+       inkscape:transform-center-x="-0.25170456"
+       inkscape:transform-center-y="1.2450681"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\UpJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <path
+       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#8e705b;stroke-width:0.0477625;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="m 100.65821,111.28125 0.13929,-0.49739"
+       id="path12537-6"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\UpJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <ellipse
+       style="font-variation-settings:normal;vector-effect:none;fill:#ffe778;fill-opacity:1;stroke:none;stroke-width:0.0500958;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="ellipse12539-1"
+       cx="100.86128"
+       cy="111.59703"
+       rx="0.70061183"
+       ry="0.78040344"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\UpJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <path
+       id="path12541-0"
+       style="font-variation-settings:normal;vector-effect:none;fill:#f0a51c;fill-opacity:1;stroke:#593e0b;stroke-width:0.0538508;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="m 104.56269,114.58669 a 1.3254626,0.99679126 0 0 0 -1.31702,0.99678 1.3254626,0.99679126 0 0 0 0.0251,0.1929 1.3254626,0.99679126 0 0 1 1.30038,-0.80379 1.3254626,0.99679126 0 0 1 1.30039,0.80388 1.3254626,0.99679126 0 0 0 0.025,-0.19299 1.3254626,0.99679126 0 0 0 -1.32543,-0.99678 1.3254626,0.99679126 0 0 0 -0.008,0 z"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\UpJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <path
+       id="path12543-2"
+       style="font-variation-settings:normal;vector-effect:none;fill:#f0a51c;fill-opacity:1;stroke:#593e0b;stroke-width:0.0538508;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="m 104.56269,114.86579 a 1.3254626,0.99679126 0 0 0 -1.31702,0.99678 1.3254626,0.99679126 0 0 0 0.0251,0.1929 1.3254626,0.99679126 0 0 1 1.30038,-0.80379 1.3254626,0.99679126 0 0 1 1.30039,0.80388 1.3254626,0.99679126 0 0 0 0.025,-0.19299 1.3254626,0.99679126 0 0 0 -1.32543,-0.99678 1.3254626,0.99679126 0 0 0 -0.008,0 z"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\UpJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <rect
+       style="font-variation-settings:normal;vector-effect:none;fill:#ffe778;fill-opacity:1;stroke:none;stroke-width:0.0669858;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="rect12545-4"
+       width="1.537357"
+       height="2.0461202"
+       x="103.75157"
+       y="114.38373"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\UpJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <ellipse
+       style="fill:#ffe778;fill-opacity:1;stroke:none;stroke-width:0.0500958;stroke-opacity:1;stop-color:#000000"
+       id="ellipse12547-2"
+       cx="104.574"
+       cy="111.51169"
+       rx="3.7365963"
+       ry="3.3052385"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\UpJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <path
+       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#8e705b;stroke-width:0.0605334;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="m 108.7552,111.33572 -0.22904,-0.48584"
+       id="path12549-5"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\UpJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <ellipse
+       style="font-variation-settings:normal;vector-effect:none;fill:#ffe778;fill-opacity:1;stroke:none;stroke-width:0.0500958;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="ellipse12551-6"
+       cx="108.41076"
+       cy="111.6599"
+       rx="0.70061183"
+       ry="0.78040344"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\UpJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <rect
+       style="font-variation-settings:normal;vector-effect:none;fill:#f0a51c;fill-opacity:1;stroke:#593e0b;stroke-width:0.023486;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="rect12555-1"
+       width="1.7176197"
+       height="4.6577759"
+       x="93.47831"
+       y="128.67368"
+       ry="0.92352456"
+       rx="0.85880983"
+       transform="matrix(0.99106133,-0.13340708,0.10477795,0.99449564,0,0)"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\UpJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <g
+       id="g12567-4"
+       transform="translate(88.124053,2.3316194)"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\UpJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099">
+      <g
+         id="g12565-3"
+         transform="matrix(0.69904062,0.66682887,-0.70029951,0.73412809,87.493309,18.510552)">
+        <rect
+           style="font-variation-settings:normal;vector-effect:none;fill:#f0a51c;fill-opacity:1;stroke:#593e0b;stroke-width:0.0234981;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+           id="rect12557-7"
+           width="1.7322457"
+           height="4.6232023"
+           x="49.516113"
+           y="104.18246"
+           ry="0.91666955"
+           rx="0.86612284"
+           transform="matrix(0.94838536,0.31712017,-0.26571956,0.96405037,0,0)" />
+        <g
+           id="g12563-1"
+           transform="matrix(0.73566714,0.32651519,0.41065626,-0.87627963,7.9173137,136.77428)">
+          <path
+             id="path12559-2"
+             style="font-variation-settings:normal;vector-effect:none;fill:#f0a51c;fill-opacity:1;stroke:#593e0b;stroke-width:0.0347143;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+             d="m 4.0362258,19.77711 a 1.0213489,0.74906713 17.014881 0 1 0.751506,1.0134 1.0213489,0.74906713 17.014881 0 1 -0.0538,0.12153 1.0213489,0.74906713 17.014881 0 0 -0.780736,-0.88461 1.0213489,0.74906713 17.014881 0 0 -1.142046,0.29608 1.0213489,0.74906713 17.014881 0 1 0.02332,-0.13074 1.0213489,0.74906713 17.014881 0 1 1.195882,-0.41746 1.0213489,0.74906713 17.014881 0 1 0.0059,0.002 z" />
+          <path
+             id="path12561-7"
+             style="font-variation-settings:normal;vector-effect:none;fill:#f0a51c;fill-opacity:1;stroke:#593e0b;stroke-width:0.0347143;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+             d="m 4.0367388,19.55148 a 1.0213489,0.74906713 11.804793 0 1 0.840427,0.94097 1.0213489,0.74906713 11.804793 0 1 -0.04254,0.12592 1.0213489,0.74906713 11.804793 0 0 -0.857841,-0.81006 1.0213489,0.74906713 11.804793 0 0 -1.110441,0.39856 1.0213489,0.74906713 11.804793 0 1 0.01135,-0.13231 1.0213489,0.74906713 11.804793 0 1 1.153031,-0.52434 1.0213489,0.74906713 11.804793 0 1 0.006,0.001 z" />
+        </g>
+      </g>
+    </g>
+    <rect
+       style="font-variation-settings:normal;vector-effect:none;fill:#f0a51c;fill-opacity:1;stroke:#593e0b;stroke-width:0.0293045;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="rect12569-9"
+       width="5.2547946"
+       height="7.9424772"
+       x="101.81249"
+       y="115.67551"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\UpJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <path
+       style="font-variation-settings:normal;vector-effect:none;fill:#26284f;fill-opacity:1;stroke:#000000;stroke-width:0.0470143;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="m 101.71432,123.58775 0.82112,1.93581 h 3.64296 l 0.93696,-1.93581 z"
+       id="path12571-4"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\UpJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <ellipse
+       style="font-variation-settings:normal;vector-effect:none;fill:#542907;fill-opacity:1;stroke:none;stroke-width:0.066048;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="ellipse12585-3"
+       cx="122.9431"
+       cy="79.948723"
+       rx="3.0199502"
+       ry="1.2626508"
+       transform="matrix(0.96946217,0.24524092,-0.16280262,0.98665866,0,0)"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\UpJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <ellipse
+       style="font-variation-settings:normal;vector-effect:none;fill:#542907;fill-opacity:1;stroke:none;stroke-width:0.0448842;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="ellipse12587-0"
+       cx="25.188725"
+       cy="147.43736"
+       rx="1.7718548"
+       ry="0.99385875"
+       transform="matrix(0.82870258,-0.55968922,0.54893485,0.83586514,0,0)"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\UpJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <ellipse
+       style="font-variation-settings:normal;vector-effect:none;fill:#ffe778;fill-opacity:1;stroke:none;stroke-width:0.0435619;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="ellipse12589-5"
+       cx="104.55962"
+       cy="115.75481"
+       rx="1.1811665"
+       ry="0.43920159"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\UpJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <path
+       id="path12591-1"
+       style="font-variation-settings:normal;vector-effect:none;fill:#ffe778;fill-opacity:1;stroke:none;stroke-width:0.0327553;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="m 103.24714,115.71133 c -0.063,0.0591 0.0801,0.11355 0.0801,0.1775 0,0.2696 0.56324,0.48814 1.258,0.48813 0.69473,0 1.25792,-0.21855 1.25793,-0.48813 0,-0.0639 -0.0324,-0.12727 -0.0953,-0.18638 z"
+       sodipodi:nodetypes="ccsscc"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\UpJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <path
+       id="path12593-7"
+       style="font-variation-settings:normal;vector-effect:none;fill:#f0a51c;fill-opacity:1;stroke:#593e0b;stroke-width:0.0448319;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="m 104.5669,116.51544 c 0.3512,0 0.7155,-0.0262 0.95219,-0.14161 0.25702,-0.12532 0.37173,-0.34894 0.37173,-0.54565 -3e-5,-0.0447 -0.008,-0.0892 -0.0252,-0.13301 -0.12323,0.32206 -0.67079,0.5542 -1.30719,0.5542 -0.63644,-1e-5 -1.18401,-0.23218 -1.30719,-0.55426 -0.0168,0.0438 -0.0252,0.0884 -0.0252,0.13307 1e-5,0.20326 0.08,0.26598 0.42783,0.45639 0.22026,0.12056 0.56275,0.23087 0.90453,0.23087 0.003,0 0.006,0 0.008,0 z"
+       sodipodi:nodetypes="ssccsccscss"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\UpJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <path
+       id="path12595-5"
+       style="font-variation-settings:normal;vector-effect:none;fill:#f0a51c;fill-opacity:1;stroke:#593e0b;stroke-width:0.0448319;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="m 104.54992,116.30286 c -0.35119,0 -0.71549,-0.0262 -0.95218,-0.14161 -0.25702,-0.12532 -0.37173,-0.34894 -0.37173,-0.54565 2e-5,-0.0447 0.008,-0.0892 0.0252,-0.13301 0.12322,0.32206 0.67079,0.5542 1.30719,0.5542 0.63644,-1e-5 1.18401,-0.23218 1.30719,-0.55426 0.0168,0.0438 0.0252,0.0884 0.0252,0.13307 -1e-5,0.20326 -0.08,0.26598 -0.42783,0.45639 -0.22026,0.12056 -0.56276,0.23087 -0.90453,0.23087 -0.003,0 -0.006,0 -0.008,0 z"
+       sodipodi:nodetypes="ssccsccscss"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\UpJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <path
+       id="path12597-3"
+       style="font-variation-settings:normal;vector-effect:none;fill:#f0a51c;fill-opacity:1;stroke:#593e0b;stroke-width:0.0448319;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="m 104.58637,116.13681 a 1.3323937,0.68727287 0 0 1 -1.32392,-0.68727 1.3323937,0.68727287 0 0 1 0.0253,-0.13299 1.3323937,0.68727287 0 0 0 1.30719,0.55419 1.3323937,0.68727287 0 0 0 1.30719,-0.55426 1.3323937,0.68727287 0 0 1 0.0252,0.13306 1.3323937,0.68727287 0 0 1 -1.33236,0.68727 1.3323937,0.68727287 0 0 1 -0.008,0 z"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\UpJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <ellipse
+       style="font-variation-settings:normal;vector-effect:none;fill:#542907;fill-opacity:1;stroke:none;stroke-width:0.0667511;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="ellipse12599-7"
+       cx="102.41507"
+       cy="113.73141"
+       rx="2.1903956"
+       ry="1.7781167"
+       transform="matrix(0.99929857,-0.03744831,0.0089487,0.99995996,0,0)"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\UpJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <ellipse
+       style="font-variation-settings:normal;vector-effect:none;fill:#542907;fill-opacity:1;stroke:none;stroke-width:0.0667511;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="ellipse12601-7"
+       cx="105.21674"
+       cy="114.47115"
+       rx="2.1903956"
+       ry="1.7781167"
+       transform="matrix(0.99929857,-0.03744831,0.0089487,0.99995996,0,0)"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\UpJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <ellipse
+       style="font-variation-settings:normal;vector-effect:none;fill:#542907;fill-opacity:1;stroke:none;stroke-width:0.0698177;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="ellipse12603-0"
+       cx="101.7366"
+       cy="115.06455"
+       rx="2.1906974"
+       ry="1.9449766"
+       transform="matrix(0.99916091,-0.04095712,0.00818099,0.99996654,0,0)"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\UpJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <path
+       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#8e705b;stroke-width:0.08;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="m 108.01131,111.26961 0.51725,-0.43805"
+       id="path12605-5"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\UpJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <text
+       xml:space="preserve"
+       style="font-weight:900;font-size:0.44917px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Heavy';text-align:center;text-anchor:middle;stroke-width:0.0240626"
+       x="104.30577"
+       y="107.38374"
+       id="text12623-4"
+       transform="skewY(5.4615721)"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\UpJump.png"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099"><tspan
+         sodipodi:role="line"
+         id="tspan12607-7"
+         x="104.30577"
+         y="107.38374"
+         style="text-align:center;text-anchor:middle;stroke-width:0.0240626">Bullseye logo is</tspan><tspan
+         sodipodi:role="line"
+         x="104.30577"
+         y="107.94521"
+         style="text-align:center;text-anchor:middle;stroke-width:0.0240626"
+         id="tspan12609-0">copyright</tspan><tspan
+         sodipodi:role="line"
+         x="104.30577"
+         y="108.50667"
+         style="text-align:center;text-anchor:middle;stroke-width:0.0240626"
+         id="tspan12611-4">Bullseye Cola</tspan><tspan
+         sodipodi:role="line"
+         x="104.30577"
+         y="109.06813"
+         style="text-align:center;text-anchor:middle;stroke-width:0.0240626"
+         id="tspan12613-6">Incorporated</tspan><tspan
+         sodipodi:role="line"
+         x="104.30577"
+         y="109.62959"
+         style="text-align:center;text-anchor:middle;stroke-width:0.0240626"
+         id="tspan12615-5"> All Rights Reserved</tspan><tspan
+         sodipodi:role="line"
+         x="104.30577"
+         y="110.19106"
+         style="text-align:center;text-anchor:middle;stroke-width:0.0240626"
+         id="tspan12617-7">Copyright 2023</tspan><tspan
+         sodipodi:role="line"
+         x="104.30577"
+         y="110.75252"
+         style="text-align:center;text-anchor:middle;stroke-width:0.0240626"
+         id="tspan12619-2">Donut Steel</tspan><tspan
+         sodipodi:role="line"
+         x="104.30577"
+         y="111.31398"
+         style="text-align:center;text-anchor:middle;stroke-width:0.0240626"
+         id="tspan12621-3" /></text>
+    <rect
+       style="font-variation-settings:normal;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.0371899;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="rect12625-4"
+       width="2.2009652"
+       height="2.5527942"
+       x="-136.23476"
+       y="82.269058"
+       rx="0.39504522"
+       ry="0.86795318"
+       transform="matrix(-0.16418657,-0.9864293,0.99903068,-0.04401934,0,0)"
+       inkscape:export-filename="C:\Users\Silvio Mayolo\Documents\GameMakerStudio2\BullseyeCola\art\player\UpJump.png"
        inkscape:export-xdpi="97.097099"
        inkscape:export-ydpi="97.097099" />
   </g>

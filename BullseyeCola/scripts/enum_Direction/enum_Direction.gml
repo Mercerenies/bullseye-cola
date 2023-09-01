@@ -28,6 +28,24 @@ function direction_to_player_sprite(dir) {
   return spr_PlayerDown;
 }
 
+function direction_to_player_jump_sprite(dir) {
+  switch (eucmod(dir, 8)) {
+  case Direction.RIGHT:
+    return spr_PlayerRightJump;
+  case Direction.UP_RIGHT:
+  case Direction.UP:
+  case Direction.UP_LEFT:
+    return spr_PlayerUpJump;
+  case Direction.DOWN_RIGHT:
+  case Direction.DOWN:
+  case Direction.DOWN_LEFT:
+    return spr_PlayerDownJump;
+  case Direction.LEFT:
+    return spr_PlayerLeftJump;
+  }
+  return spr_PlayerDownJump;
+}
+
 function direction_x(dir) {
   switch (eucmod(dir, 8)) {
   case Direction.RIGHT:
