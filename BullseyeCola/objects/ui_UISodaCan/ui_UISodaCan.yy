@@ -1,15 +1,16 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "ui_UIPanel",
+  "name": "ui_UISodaCan",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "UI",
-    "path": "folders/UI.yy",
+    "name": "Sodas",
+    "path": "folders/Sodas.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -28,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_UIPanel",
-    "path": "sprites/spr_UIPanel/spr_UIPanel.yy",
+    "name": "spr_UISodaCan",
+    "path": "sprites/spr_UISodaCan/spr_UISodaCan.yy",
   },
   "spriteMaskId": null,
   "visible": true,
