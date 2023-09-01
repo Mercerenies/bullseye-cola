@@ -1,4 +1,9 @@
 
+/// @function soda_generate_highlights(relative_dir, sprite, spacing, count)
+/// @param {Real} relative_dir
+/// @param {Asset.GMSprite} sprite
+/// @param {Real} spacing
+/// @param {Real} count
 function soda_generate_highlights(relative_dir, sprite, spacing, count) {
   var highlights = [];
   highlights[count * 3 - 1] = 0; // Pre-allocate array

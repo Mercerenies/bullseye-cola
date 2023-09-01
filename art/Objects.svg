@@ -24,8 +24,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.979899"
-     inkscape:cx="-194.60005"
-     inkscape:cy="279.02739"
+     inkscape:cx="149.86197"
+     inkscape:cy="111.84714"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -615,7 +615,9 @@
        width="3.0000026"
        height="3.0000026"
        x="81.989761"
-       y="35.146282" />
+       y="35.146282"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
     <path
        style="fill:none;stroke:#aec4bd;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M -9.0613349,22.126572 H -16.242883"
