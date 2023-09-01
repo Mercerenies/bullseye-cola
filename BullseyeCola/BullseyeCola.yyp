@@ -96,6 +96,7 @@
     {"id":{"name":"struct_PlayerRotateChange","path":"scripts/struct_PlayerRotateChange/struct_PlayerRotateChange.yy",},},
     {"id":{"name":"spr_SolidObjectMask","path":"sprites/spr_SolidObjectMask/spr_SolidObjectMask.yy",},},
     {"id":{"name":"scr_Input","path":"scripts/scr_Input/scr_Input.yy",},},
+    {"id":{"name":"struct_PlayerDenyAction","path":"scripts/struct_PlayerDenyAction/struct_PlayerDenyAction.yy",},},
     {"id":{"name":"par_PhysicalObject","path":"objects/par_PhysicalObject/par_PhysicalObject.yy",},},
     {"id":{"name":"ctrl_PlayerMovementManager","path":"objects/ctrl_PlayerMovementManager/ctrl_PlayerMovementManager.yy",},},
     {"id":{"name":"spr_HelperWatermark","path":"sprites/spr_HelperWatermark/spr_HelperWatermark.yy",},},

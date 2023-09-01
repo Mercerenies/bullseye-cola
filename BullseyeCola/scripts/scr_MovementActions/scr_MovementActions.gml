@@ -12,8 +12,10 @@ function try_move_player(dir) {
       action = new ParallelAction([action, overlapping_object.on_move_onto(dir)]);
     }
     push_action(action);
+    return true;
   } else {
     push_action(new PlayerRotateAction(obj_Player.facing_direction, dir));
+    return false;
   }
 }
 
@@ -30,7 +32,9 @@ function shove_player_in(dir) {
       action = new ParallelAction([action, overlapping_object.on_move_onto(dir)]);
     }
     push_action(action);
+    return true;
   }
+  return false;
 }
 
 function can_move_to(dest_x, dest_y, dir) {
