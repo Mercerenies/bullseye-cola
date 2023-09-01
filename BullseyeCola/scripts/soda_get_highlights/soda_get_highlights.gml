@@ -3,8 +3,8 @@
 // where x and y are screen coordinates (i.e. multiples of GRID_SIZE)
 function soda_get_highlights(soda_number) {
   switch (soda_number) {
-  case 0:
-    break;
+  case 0: // Water
+    return [obj_Player.x, obj_Player.y];
   case 1:
     break;
   case 2: { // Hop Cola

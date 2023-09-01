@@ -56,7 +56,6 @@ function MoveInDirectionCode(relative_dir_) : Code() constructor {
 
 }
 
-
 function HopInDirectionCode(relative_dir_) : Code() constructor {
   relative_dir = relative_dir_;
 
@@ -65,6 +64,15 @@ function HopInDirectionCode(relative_dir_) : Code() constructor {
     if (!success) {
       push_action(new PlayerDenyAction(obj_Player.x, obj_Player.y));
     }
+  }
+
+}
+
+// Do the little "deny" hop.
+function DenialCode() : Code() constructor {
+
+  static execute = function(program) {
+    push_action(new PlayerDenyAction(obj_Player.x, obj_Player.y));
   }
 
 }

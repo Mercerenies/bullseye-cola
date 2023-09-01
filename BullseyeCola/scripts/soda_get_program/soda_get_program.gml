@@ -1,8 +1,10 @@
 
 function soda_get_program(soda_number) {
   switch (soda_number) {
-  case 0:
-    break;
+  case 0: // Water
+    return new Program([
+      new DenialCode(),
+    ]);
   case 1:
     break;
   case 2: // Hop Cola
