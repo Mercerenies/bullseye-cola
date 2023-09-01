@@ -7,9 +7,9 @@ function try_move_player(dir) {
   if (can_move_to(dest_x, dest_y, dir)) {
     undo_stack_begin_move();
     var action = new PlayerMoveAction(src_x, src_y, obj_Player.facing_direction, dest_x, dest_y, dir);
-    var pushable_object = instance_position(dest_x, dest_y, par_Solid);
-    if (instance_exists(pushable_object)) {
-      action = new ParallelAction([action, get_object_push_action(pushable_object, dir)]);
+    var overlapping_object = instance_position(dest_x, dest_y, par_Solid);
+    if (instance_exists(overlapping_object)) {
+      action = new ParallelAction([action, overlapping_object.on_move_onto(dir)]);
     }
     push_action(action);
   } else {
@@ -23,7 +23,7 @@ function can_move_to(dest_x, dest_y, dir) {
   }
 
   var solid_object = instance_position(dest_x, dest_y, par_Solid);
-  if ((instance_exists(solid_object)) && (!solid_object.can_push(dir))) {
+  if ((instance_exists(solid_object)) && (!solid_object.can_move_onto(dir))) {
     return false;
   }
 
