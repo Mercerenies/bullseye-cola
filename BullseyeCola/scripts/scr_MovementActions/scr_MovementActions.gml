@@ -2,8 +2,8 @@
 function try_move_player(dir) {
   var src_x = obj_Player.x;
   var src_y = obj_Player.y;
-  var dest_x = src_x + lengthdir_x(GRID_SIZE, dir * 90);
-  var dest_y = src_y + lengthdir_y(GRID_SIZE, dir * 90);
+  var dest_x = src_x + direction_x(dir);
+  var dest_y = src_y + direction_y(dir);
   if (can_move_to(dest_x, dest_y, dir)) {
     undo_stack_begin_move();
     var action = new PlayerMoveAction(src_x, src_y, obj_Player.facing_direction, dest_x, dest_y, dir);
@@ -33,8 +33,8 @@ function can_move_to(dest_x, dest_y, dir) {
 function get_object_push_action(target_object, dir) {
   var src_x = target_object.x;
   var src_y = target_object.y;
-  var dest_x = src_x + lengthdir_x(GRID_SIZE, dir * 90);
-  var dest_y = src_y + lengthdir_y(GRID_SIZE, dir * 90);
+  var dest_x = src_x + direction_x(dir);
+  var dest_y = src_y + direction_y(dir);
   return new ObjectPushAction(target_object, src_x, src_y, dest_x, dest_y);
 }
 

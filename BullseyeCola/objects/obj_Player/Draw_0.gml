@@ -2,7 +2,7 @@
 event_inherited();
 
 // Sprite Animations
-sprite_index = directionToPlayerSprite(facing_direction);
+sprite_index = direction_to_player_sprite(facing_direction);
 if (is_player_idle()) {
   animating = false;
 }
