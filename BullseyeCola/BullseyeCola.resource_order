@@ -43,6 +43,7 @@
     {"name":"fnt_HelperWatermark","order":5,"path":"fonts/fnt_HelperWatermark/fnt_HelperWatermark.yy",},
     {"name":"obj_Barrel","order":3,"path":"objects/obj_Barrel/obj_Barrel.yy",},
     {"name":"spr_SodaCanRoomInterface","order":8,"path":"sprites/spr_SodaCanRoomInterface/spr_SodaCanRoomInterface.yy",},
+    {"name":"soda_generate_highlights","order":9,"path":"scripts/soda_generate_highlights/soda_generate_highlights.yy",},
     {"name":"scr_ActionQueue","order":2,"path":"scripts/scr_ActionQueue/scr_ActionQueue.yy",},
     {"name":"ui_UIPanel","order":1,"path":"objects/ui_UIPanel/ui_UIPanel.yy",},
     {"name":"struct_SodaCanDestroyChange","order":7,"path":"scripts/struct_SodaCanDestroyChange/struct_SodaCanDestroyChange.yy",},

@@ -1,17 +1,15 @@
 
-// Returns an even-length array in the form [x, y, x, y, ...],
+// Returns an array in the form [x, y, sprite, x, y, sprite, ...],
 // where x and y are screen coordinates (i.e. multiples of GRID_SIZE)
+// and sprite is a valid sprite index.
 function soda_get_highlights(soda_number) {
   switch (soda_number) {
   case 0: // Water
-    return [obj_Player.x, obj_Player.y];
+    return soda_generate_highlights(0, spr_FloorTileHighlight, 0, 1);
   case 1:
     break;
-  case 2: { // Hop Cola
-    var xx = obj_Player.x + 2 * direction_x(obj_Player.facing_direction);
-    var yy = obj_Player.y + 2 * direction_y(obj_Player.facing_direction);
-    return [xx, yy];
-  }
+  case 2: // Hop Cola
+    return soda_generate_highlights(0, spr_FloorTileHighlight, 2, 1);
   case 3:
     break;
   case 4:
@@ -22,11 +20,8 @@ function soda_get_highlights(soda_number) {
     break;
   case 7:
     break;
-  case 8: { // Left Cola
-    var xx = obj_Player.x + direction_x(obj_Player.facing_direction + 1);
-    var yy = obj_Player.y + direction_y(obj_Player.facing_direction + 1);
-    return [xx, yy];
-  }
+  case 8: // Left Cola
+    return soda_generate_highlights(1, spr_FloorTileHighlight, 1, 1);
   case 9:
     break;
   case 10:
@@ -73,11 +68,8 @@ function soda_get_highlights(soda_number) {
     break;
   case 31:
     break;
-  case 32: { // Right Cola
-    var xx = obj_Player.x + direction_x(obj_Player.facing_direction - 1);
-    var yy = obj_Player.y + direction_y(obj_Player.facing_direction - 1);
-    return [xx, yy];
-  }
+  case 32: // Right Cola
+    return soda_generate_highlights(-1, spr_FloorTileHighlight, 1, 1);
   case 33:
     break;
   case 34:

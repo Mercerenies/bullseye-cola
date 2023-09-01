@@ -68,6 +68,7 @@
     {"id":{"name":"fnt_HelperWatermark","path":"fonts/fnt_HelperWatermark/fnt_HelperWatermark.yy",},},
     {"id":{"name":"obj_Barrel","path":"objects/obj_Barrel/obj_Barrel.yy",},},
     {"id":{"name":"spr_SodaCanRoomInterface","path":"sprites/spr_SodaCanRoomInterface/spr_SodaCanRoomInterface.yy",},},
+    {"id":{"name":"soda_generate_highlights","path":"scripts/soda_generate_highlights/soda_generate_highlights.yy",},},
     {"id":{"name":"scr_ActionQueue","path":"scripts/scr_ActionQueue/scr_ActionQueue.yy",},},
     {"id":{"name":"ui_UIPanel","path":"objects/ui_UIPanel/ui_UIPanel.yy",},},
     {"id":{"name":"struct_SodaCanDestroyChange","path":"scripts/struct_SodaCanDestroyChange/struct_SodaCanDestroyChange.yy",},},
