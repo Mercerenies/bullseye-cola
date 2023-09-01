@@ -9,10 +9,10 @@ animation_orientation = choose(-1, 1);
 
 // Pick-up actions
 
-can_move_onto = function(dir, is_hopping) {
+can_move_onto = function(dir, is_special_move) {
   return true;
 }
 
-on_move_onto = function(dir, is_hopping) {
+on_move_onto = function(dir, is_special_move) {
   return new SodaObjectCollectAction(self, x, y);
 }

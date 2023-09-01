@@ -72,9 +72,9 @@ function can_move_to(dest_x, dest_y, dir) {
   return true;
 }
 
-function can_be_moved_to(dest_x, dest_y, dir, hopping) {
+function can_be_moved_to(dest_x, dest_y, dir, is_special_move) {
   var solid_object = instance_position(dest_x + GRID_SIZE / 2, dest_y + GRID_SIZE / 2, par_Solid);
-  if ((instance_exists(solid_object)) && (!solid_object.can_move_onto(dir, hopping))) {
+  if ((instance_exists(solid_object)) && (!solid_object.can_move_onto(dir, is_special_move))) {
     return false;
   }
   return true;
