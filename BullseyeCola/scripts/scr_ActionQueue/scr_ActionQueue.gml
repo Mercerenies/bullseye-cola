@@ -78,6 +78,29 @@ function KickInDirectionCode(relative_dir_) : Code() constructor {
 
 }
 
+function BoomKickInDirectionCode(relative_dir_) : Code() constructor {
+  relative_dir = relative_dir_;
+
+  static execute = function(program) {
+    var dir = obj_Player.facing_direction + relative_dir;
+    var src_x = obj_Player.x;
+    var src_y = obj_Player.y;
+    var dest_x = src_x + direction_x(dir);
+    var dest_y = src_y + direction_y(dir);
+    var target = instance_position(dest_x + GRID_SIZE / 2, dest_y + GRID_SIZE / 2, par_Pushable);
+    if (instance_exists(target)) {
+      undo_stack_apply_change(new MakeObjectExplosiveChange(target, target.is_explosive));
+      carry_momentum(target, dir, true);
+    }
+    var kick_x = src_x + lengthdir_x(GRID_SIZE / 2, 45 * dir);
+    var kick_y = src_y + lengthdir_y(GRID_SIZE / 2, 45 * dir);
+    with (instance_create_layer(kick_x + GRID_SIZE / 2, kick_y + GRID_SIZE / 2, "Instances_UI", ui_KickIcon)) {
+      self.dir = dir;
+    }
+  }
+
+}
+
 function HopInDirectionCode(relative_dir_) : Code() constructor {
   relative_dir = relative_dir_;
 

@@ -22,8 +22,10 @@ function soda_get_program(soda_number) {
     return new Program([
       new ExplodeInPlaceCode(),
     ]);
-  case 5:
-    break;
+  case 5: // Boom Kick Cola
+    return new Program([
+      new BoomKickInDirectionCode(0),
+    ]);
   case 6:
     break;
   case 7:
