@@ -47,6 +47,10 @@
     - Blocks initiate motion if they step on it; player only initiates
       motion if he rushes onto it, not if he casually steps/hops
     - Rush-hopping preserves the hop but changes the direction
+  + Wall
+    - Impassible
+  + Wooden Wall (Sign?)
+    - Impassible; can be destroyed by an explosion
 * RECIPES
 ** ALL RECIPES
   Omitting Right recipes by symmetry
