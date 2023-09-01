@@ -13,10 +13,15 @@ function soda_get_program(soda_number) {
     return new Program([
       new HopInDirectionCode(0),
     ]);
-  case 3:
-    break;
-  case 4:
-    break;
+  case 3: // Hop Kick Cola
+    return new Program([
+      new HopInDirectionCode(0),
+      new KickInDirectionCode(0),
+    ]);
+  case 4: // Boom Cola
+    return new Program([
+      new ExplodeInPlaceCode(),
+    ]);
   case 5:
     break;
   case 6:
@@ -27,14 +32,19 @@ function soda_get_program(soda_number) {
     return new Program([
       new MoveInDirectionCode(1),
     ]);
-  case 9:
-    break;
+  case 9: // Left Kick Cola
+    return new Program([
+      new KickInDirectionCode(1),
+    ]);
   case 10: // Left Hop Cola
     return new Program([
       new HopInDirectionCode(1),
     ]);
-  case 11:
-    break;
+  case 11: // Left Hop Kick Cola
+    return new Program([
+      new HopInDirectionCode(1),
+      new KickInDirectionCode(1),
+    ]);
   case 12:
     break;
   case 13:
@@ -79,14 +89,19 @@ function soda_get_program(soda_number) {
     return new Program([
       new MoveInDirectionCode(-1),
     ]);
-  case 33:
-    break;
+  case 33: // Right Kick Cola
+    return new Program([
+      new KickInDirectionCode(-1),
+    ]);
   case 34: // Right Hop Cola
     return new Program([
       new HopInDirectionCode(-1),
     ]);
-  case 35:
-    break;
+  case 35: // Right Hop Kick Cola
+    return new Program([
+      new HopInDirectionCode(-1),
+      new KickInDirectionCode(-1),
+    ]);
   case 36:
     break;
   case 37:

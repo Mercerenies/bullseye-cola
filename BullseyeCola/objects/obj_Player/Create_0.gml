@@ -1,6 +1,10 @@
 
 event_inherited();
 
+on_explode = function() {
+  // TODO on_explode on player
+}
+
 sprite_index = spr_PlayerDown;
 image_index = 0;
 image_speed = 0;

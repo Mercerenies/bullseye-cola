@@ -10,10 +10,13 @@ function soda_get_highlights(soda_number) {
     return soda_generate_highlights(0, spr_FloorTileKickHighlight, 1, 1);
   case 2: // Hop Cola
     return soda_generate_highlights(0, spr_FloorTileHighlight, 2, 1);
-  case 3:
-    break;
-  case 4:
-    break;
+  case 3: // Hop Kick Cola
+    return array_concat(
+      soda_generate_highlights(0, spr_FloorTileHighlight, 2, 1),
+      soda_generate_highlights(0, spr_FloorTileKickHighlight, 3, 1),
+    );
+  case 4: // Boom Cola
+    return soda_generate_boom_highlights(0, 0);
   case 5:
     break;
   case 6:
@@ -22,12 +25,15 @@ function soda_get_highlights(soda_number) {
     break;
   case 8: // Left Cola
     return soda_generate_highlights(1, spr_FloorTileHighlight, 1, 1);
-  case 9:
-    break;
+  case 9: // Left Kick Cola
+    return soda_generate_highlights(1, spr_FloorTileKickHighlight, 1, 1);
   case 10: // Left Hop Cola
     return soda_generate_highlights(1, spr_FloorTileHighlight, 2, 1);
-  case 11:
-    break;
+  case 11: // Left Hop Kick Cola
+    return array_concat(
+      soda_generate_highlights(1, spr_FloorTileHighlight, 2, 1),
+      soda_generate_highlights(1, spr_FloorTileKickHighlight, 3, 1),
+    );
   case 12:
     break;
   case 13:
@@ -70,12 +76,15 @@ function soda_get_highlights(soda_number) {
     break;
   case 32: // Right Cola
     return soda_generate_highlights(-1, spr_FloorTileHighlight, 1, 1);
-  case 33:
-    break;
+  case 33: // Right Kick Cola
+    return soda_generate_highlights(-1, spr_FloorTileKickHighlight, 1, 1);
   case 34: // Right Hop Cola
     return soda_generate_highlights(-1, spr_FloorTileHighlight, 2, 1);
-  case 35:
-    break;
+  case 35: // Right Hop Kick Cola
+    return array_concat(
+      soda_generate_highlights(-1, spr_FloorTileHighlight, 2, 1),
+      soda_generate_highlights(-1, spr_FloorTileKickHighlight, 3, 1),
+    );
   case 36:
     break;
   case 37:

@@ -30,7 +30,7 @@ function Program(code_array_) constructor {
   }
 
   static is_finished = function() {
-    return index >= array_length(code_array);
+    return (index >= array_length(code_array)) || (!is_player_alive());
   }
 
 }
@@ -86,6 +86,14 @@ function HopInDirectionCode(relative_dir_) : Code() constructor {
     if (!success) {
       push_action(new PlayerDenyAction(obj_Player.x, obj_Player.y));
     }
+  }
+
+}
+
+function ExplodeInPlaceCode() : Code() constructor {
+
+  static execute = function(program) {
+    push_action(new ExplodeAction(obj_Player.x, obj_Player.y, false));
   }
 
 }

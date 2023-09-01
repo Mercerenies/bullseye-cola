@@ -7,6 +7,13 @@ soda_number = 0;
 tick = irandom(anim_period);
 animation_orientation = choose(-1, 1);
 
+on_explode = function() {
+  // Destroy
+  undo_stack_apply_change(new ObjectDestroyChange(self.id, x, y));
+  destroyed = true;
+  y -= 9999;
+}
+
 // Pick-up actions
 
 can_move_onto = function(dir, is_special_move) {

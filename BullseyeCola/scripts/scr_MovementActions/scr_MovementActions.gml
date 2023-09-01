@@ -121,3 +121,29 @@ function carry_momentum(object_id, dir, is_first_move) {
     return true;
   }
 }
+
+function explode_at(xx, yy) {
+  if (position_meeting(xx + GRID_SIZE / 2, yy + GRID_SIZE / 2, ui_ExplosionIcon)) {
+    // Prevent infinite loops by not repeating explosions on the same position.
+    return;
+  }
+  instance_create_layer(xx + GRID_SIZE / 2, yy + GRID_SIZE / 2, "Instances_UI", ui_ExplosionIcon);
+  var victim = instance_position(xx + GRID_SIZE / 2, yy + GRID_SIZE / 2, par_PhysicalObject);
+  if (instance_exists(victim)) {
+    victim.on_explode();
+  }
+  // TODO Effect on objects
+}
+
+function explode_nearby(xx, yy, include_self) {
+  for (var i = -1; i <= 1; i++) {
+    for (var j = -1; j <= 1; j++) {
+      var x1 = xx + i * GRID_SIZE;
+      var y1 = yy + j * GRID_SIZE;
+      if ((x1 == xx) && (y1 == yy) && (!include_self)) {
+        continue;
+      }
+      explode_at(x1, y1);
+    }
+  }
+}
