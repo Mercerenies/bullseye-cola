@@ -13,7 +13,7 @@ function PlayerMoveAction(src_x_, src_y_, src_dir_, dest_x_, dest_y_, dest_dir_)
   }
 
   static run_step = function() {
-    animation_time += 0.05;
+    animation_time += 1 / ANIMATION_LENGTH;
     obj_Player.x = lerp(src_x, dest_x, animation_time);
     obj_Player.y = lerp(src_y, dest_y, animation_time);
     obj_Player.facing_direction = dest_dir;

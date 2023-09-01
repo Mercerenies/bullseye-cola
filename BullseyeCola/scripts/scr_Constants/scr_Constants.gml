@@ -1,4 +1,4 @@
 
 #macro GRID_SIZE 48
-
 #macro FLOOR_LAYER_DEPTH 1000
+#macro ANIMATION_LENGTH 15

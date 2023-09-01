@@ -12,8 +12,8 @@ function ObjectFallAction(object_id_, src_x_, src_y_) : Action() constructor {
   }
 
   static run_step = function() {
-    animation_time += 0.1;
-    dest_y = src_y + 32;
+    animation_time += 1 / ANIMATION_LENGTH;
+    dest_y = src_y + 48;
     object_id.y = lerp(src_y, dest_y, animation_time);
     object_id.image_alpha = lerp(1, 0, animation_time);
   }

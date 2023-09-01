@@ -13,7 +13,7 @@ function ObjectPushAction(object_id_, src_x_, src_y_, dest_x_, dest_y_) : Action
   }
 
   static run_step = function() {
-    animation_time += 0.05;
+    animation_time += 1 / ANIMATION_LENGTH;
     object_id.x = lerp(src_x, dest_x, animation_time);
     object_id.y = lerp(src_y, dest_y, animation_time);
   }
