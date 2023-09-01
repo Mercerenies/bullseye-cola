@@ -24,8 +24,8 @@ function soda_get_highlights(soda_number) {
     return soda_generate_highlights(1, spr_FloorTileHighlight, 1, 1);
   case 9:
     break;
-  case 10:
-    break;
+  case 10: // Left Hop Cola
+    return soda_generate_highlights(1, spr_FloorTileHighlight, 2, 1);
   case 11:
     break;
   case 12:
@@ -72,8 +72,8 @@ function soda_get_highlights(soda_number) {
     return soda_generate_highlights(-1, spr_FloorTileHighlight, 1, 1);
   case 33:
     break;
-  case 34:
-    break;
+  case 34: // Right Hop Cola
+    return soda_generate_highlights(-1, spr_FloorTileHighlight, 2, 1);
   case 35:
     break;
   case 36:

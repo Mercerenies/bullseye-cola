@@ -27,8 +27,10 @@ function soda_get_program(soda_number) {
     ]);
   case 9:
     break;
-  case 10:
-    break;
+  case 10: // Left Hop Cola
+    return new Program([
+      new HopInDirectionCode(1),
+    ]);
   case 11:
     break;
   case 12:
@@ -77,8 +79,10 @@ function soda_get_program(soda_number) {
     ]);
   case 33:
     break;
-  case 34:
-    break;
+  case 34: // Right Hop Cola
+    return new Program([
+      new HopInDirectionCode(-1),
+    ]);
   case 35:
     break;
   case 36:
