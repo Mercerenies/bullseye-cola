@@ -26,8 +26,11 @@ function soda_get_program(soda_number) {
     return new Program([
       new BoomKickInDirectionCode(0),
     ]);
-  case 6:
-    break;
+  case 6: // Hop Boom Cola
+    return new Program([
+      new HopInDirectionCode(0),
+      new ExplodeInPlaceCode(),
+    ]);
   case 7:
     break;
   case 8: // Left Cola

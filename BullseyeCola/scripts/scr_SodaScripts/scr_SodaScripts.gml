@@ -14,14 +14,14 @@ function soda_get_name(soda) {
   if (soda & Soda.RIGHT) {
     prefix += "Right ";
   }
-  if (soda & Soda.BOOM) {
-    prefix += "Boom ";
+  if (soda & Soda.RUSH) {
+    prefix += "Rush ";
   }
   if (soda & Soda.HOP) {
     prefix += "Hop ";
   }
-  if (soda & Soda.RUSH) {
-    prefix += "Rush ";
+  if (soda & Soda.BOOM) {
+    prefix += "Boom ";
   }
   if (soda & Soda.KICK) {
     prefix += "Kick ";
