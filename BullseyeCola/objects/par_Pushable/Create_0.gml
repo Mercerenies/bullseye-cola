@@ -15,3 +15,5 @@ can_move_onto = function(move_dir, is_special_move) {
 on_move_onto = function(move_dir, is_special_move) {
   return get_object_push_action(self, move_dir);
 }
+
+is_explosive = false;

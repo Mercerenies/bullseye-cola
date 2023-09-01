@@ -26,9 +26,7 @@ function ObjectFallAction(object_id_, src_x_, src_y_) : Action() constructor {
   }
 
   static on_finish = function() {
-    object_id.y -= 9999; // Remove from collision consideration
-    object_id.visible = false;
-    object_id.destroyed = true;
+    destroy(object_id, false);
     object_id.image_alpha = 1;
   }
 

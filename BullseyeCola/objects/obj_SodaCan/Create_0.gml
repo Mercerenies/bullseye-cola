@@ -9,9 +9,7 @@ animation_orientation = choose(-1, 1);
 
 on_explode = function() {
   // Destroy
-  undo_stack_apply_change(new ObjectDestroyChange(self.id, x, y));
-  destroyed = true;
-  y -= 9999;
+  destroy(self);
 }
 
 // Pick-up actions

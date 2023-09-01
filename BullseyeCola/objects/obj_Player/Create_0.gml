@@ -2,7 +2,8 @@
 event_inherited();
 
 on_explode = function() {
-  // TODO on_explode on player
+  // Destroy
+  destroy(self);
 }
 
 sprite_index = spr_PlayerDown;

@@ -34,7 +34,7 @@
   + Spiked Floor
     - Kills the player on contact
     - Barrels can pass over it seamlessly
-  + Balance beam
+  + Balance beam [Cracked floor?]
     - Barrels and the player can slide along it
     - If either the player or a barrel stops on it, it breaks and they
       fall in
@@ -51,6 +51,8 @@
     - Impassible
   + Wooden Wall (Sign?)
     - Impassible; can be destroyed by an explosion
+  + Bomb Button
+    - Explodes when something runs over it.
 * RECIPES
 ** ALL RECIPES
   Omitting Right recipes by symmetry

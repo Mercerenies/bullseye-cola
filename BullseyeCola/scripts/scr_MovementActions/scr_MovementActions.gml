@@ -103,15 +103,18 @@ function check_if_should_fall(target_object) {
 // regardless of whether or not it passed its momentum onto something
 // else.
 function carry_momentum(object_id, dir, is_first_move) {
-  // TODO Bombs
-  // TODO Also, arrow panels
+  // TODO Arrow panels
   var src_x = object_id.x;
   var src_y = object_id.y;
   var dest_x = src_x + direction_x(dir);
   var dest_y = src_y + direction_y(dir);
   var obstacle = instance_position(dest_x + GRID_SIZE / 2, dest_y + GRID_SIZE / 2, par_Solid);
   if (instance_exists(obstacle)) {
-    if (object_is_ancestor(obstacle.object_index, par_Pushable)) {
+    if (object_id.is_explosive) {
+      // Explode
+      explode_nearby(object_id.x, object_id.y, true);
+      destroy(object_id);
+    } else if (object_is_ancestor(obstacle.object_index, par_Pushable)) {
       // Transfer momentum
       carry_momentum(obstacle, dir, true);
     }
@@ -119,6 +122,16 @@ function carry_momentum(object_id, dir, is_first_move) {
   } else {
     push_action(new ObjectSlideAction(object_id, src_x, src_y, dir, is_first_move));
     return true;
+  }
+}
+
+function destroy(object_id, log_undo=true) {
+  with (object_id) {
+    if (log_undo) {
+      undo_stack_apply_change(new ObjectDestroyChange(self, x, y));
+    }
+    y -= 9999;
+    destroyed = true;
   }
 }
 
@@ -132,7 +145,6 @@ function explode_at(xx, yy) {
   if (instance_exists(victim)) {
     victim.on_explode();
   }
-  // TODO Effect on objects
 }
 
 function explode_nearby(xx, yy, include_self) {
