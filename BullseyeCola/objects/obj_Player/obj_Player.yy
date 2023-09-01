@@ -14,8 +14,8 @@
     "path": "folders/Player.yy",
   },
   "parentObjectId": {
-    "name": "par_PhysicalObject",
-    "path": "objects/par_PhysicalObject/par_PhysicalObject.yy",
+    "name": "par_Solid",
+    "path": "objects/par_Solid/par_Solid.yy",
   },
   "persistent": false,
   "physicsAngularDamping": 0.1,
@@ -36,6 +36,9 @@
     "name": "spr_PlayerMask",
     "path": "sprites/spr_PlayerMask/spr_PlayerMask.yy",
   },
-  "spriteMaskId": null,
+  "spriteMaskId": {
+    "name": "spr_PlayerMask",
+    "path": "sprites/spr_PlayerMask/spr_PlayerMask.yy",
+  },
   "visible": true,
 }

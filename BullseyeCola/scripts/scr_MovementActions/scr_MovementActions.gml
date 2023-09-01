@@ -34,7 +34,7 @@ function shove_player_in(dir) {
 }
 
 function can_move_to(dest_x, dest_y, dir) {
-  if (!position_meeting(dest_x, dest_y, par_FloorTile)) {
+  if (!position_meeting(dest_x + GRID_SIZE / 2, dest_y + GRID_SIZE / 2, par_FloorTile)) {
     return false;
   }
   if (!can_be_moved_to(dest_x, dest_y, dir)) {
@@ -44,7 +44,7 @@ function can_move_to(dest_x, dest_y, dir) {
 }
 
 function can_be_moved_to(dest_x, dest_y, dir) {
-  var solid_object = instance_position(dest_x, dest_y, par_Solid);
+  var solid_object = instance_position(dest_x + GRID_SIZE / 2, dest_y + GRID_SIZE / 2, par_Solid);
   if ((instance_exists(solid_object)) && (!solid_object.can_move_onto(dir))) {
     return false;
   }

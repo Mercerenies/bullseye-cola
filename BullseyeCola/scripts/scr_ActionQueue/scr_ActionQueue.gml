@@ -40,6 +40,7 @@ function Code() constructor {
 
 }
 
+// TODO Little hop if invalid
 function MoveInDirectionCode(relative_dir_) : Code() constructor {
   relative_dir = relative_dir_;
 

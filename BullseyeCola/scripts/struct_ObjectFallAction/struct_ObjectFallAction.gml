@@ -1,5 +1,5 @@
 
-// Precondition: object_id_ is the ID of a par_Pushable object.
+// Precondition: object_id_ is the ID of a physical object.
 function ObjectFallAction(object_id_, src_x_, src_y_) : Action() constructor {
   object_id = object_id_;
   src_x = src_x_;
