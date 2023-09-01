@@ -17,8 +17,8 @@ function soda_get_highlights(soda_number) {
     );
   case 4: // Boom Cola
     return soda_generate_boom_highlights(0, 0);
-  case 5:
-    break;
+  case 5: // Boom Kick Cola
+    return soda_generate_highlights(0, spr_FloorTileBoomKickHighlight, 1, 1);
   case 6:
     break;
   case 7:

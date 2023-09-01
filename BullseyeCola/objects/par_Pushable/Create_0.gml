@@ -17,3 +17,8 @@ on_move_onto = function(move_dir, is_special_move) {
 }
 
 is_explosive = false;
+is_sliding = false;
+
+fire_particle_system = part_system_create_layer("Instances_UI", false);
+fire_particle_emitter = part_emitter_create(fire_particle_system);
+part_system_automatic_draw(fire_particle_system, false)

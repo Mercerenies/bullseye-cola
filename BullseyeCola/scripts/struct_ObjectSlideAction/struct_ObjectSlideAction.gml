@@ -14,6 +14,7 @@ function ObjectSlideAction(object_id_, src_x_, src_y_, dir_, is_first_move_) : A
     if (is_first_move) {
       undo_stack_apply_change(new ObjectMoveChange(object_id, src_x, src_y));
     }
+    object_id.is_sliding = true;
   }
 
   static run_step = function() {
@@ -27,6 +28,7 @@ function ObjectSlideAction(object_id_, src_x_, src_y_, dir_, is_first_move_) : A
   }
 
   static on_finish = function() {
+    object_id.is_sliding = false;
     var is_falling = check_if_should_fall(object_id);
     if (!is_falling) {
       carry_momentum(object_id, dir, false);
