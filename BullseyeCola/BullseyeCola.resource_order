@@ -77,6 +77,7 @@
     {"name":"struct_PlayerRotateChange","order":1,"path":"scripts/struct_PlayerRotateChange/struct_PlayerRotateChange.yy",},
     {"name":"spr_SolidObjectMask","order":5,"path":"sprites/spr_SolidObjectMask/spr_SolidObjectMask.yy",},
     {"name":"struct_PlayerDenyAction","order":8,"path":"scripts/struct_PlayerDenyAction/struct_PlayerDenyAction.yy",},
+    {"name":"struct_ObjectSlideAction","order":10,"path":"scripts/struct_ObjectSlideAction/struct_ObjectSlideAction.yy",},
     {"name":"par_PhysicalObject","order":4,"path":"objects/par_PhysicalObject/par_PhysicalObject.yy",},
     {"name":"ctrl_PlayerMovementManager","order":5,"path":"objects/ctrl_PlayerMovementManager/ctrl_PlayerMovementManager.yy",},
     {"name":"spr_HelperWatermark","order":2,"path":"sprites/spr_HelperWatermark/spr_HelperWatermark.yy",},

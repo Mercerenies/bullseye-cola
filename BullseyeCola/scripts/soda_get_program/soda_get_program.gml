@@ -5,8 +5,10 @@ function soda_get_program(soda_number) {
     return new Program([
       new DenialCode(),
     ]);
-  case 1:
-    break;
+  case 1: // Kick Cola
+    return new Program([
+      new KickInDirectionCode(0),
+    ]);
   case 2: // Hop Cola
     return new Program([
       new HopInDirectionCode(0),

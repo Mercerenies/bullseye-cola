@@ -89,10 +89,28 @@ function get_object_push_action(target_object, dir) {
 }
 
 // Check if the object is above a pit and should fall in. If so, start
-// doing so.
+// doing so. Returns true if we started falling as a result of this call.
 function check_if_should_fall(target_object) {
-  if (!position_meeting(target_object.x, target_object.y, par_FloorTile)) {
+  if (!position_meeting(target_object.x + GRID_SIZE / 2, target_object.y + GRID_SIZE / 2, par_FloorTile)) {
     // Fall in.
     push_action(new ObjectFallAction(target_object, target_object.x, target_object.y));
+    return true;
+  }
+  return false;
+}
+
+function carry_momentum(object_id, dir, is_first_move) {
+  // TODO Transfer momentum
+  // TODO Also, arrow panels
+  var src_x = object_id.x;
+  var src_y = object_id.y;
+  var dest_x = src_x + direction_x(dir);
+  var dest_y = src_y + direction_y(dir);
+  var obstacle = instance_position(dest_x + GRID_SIZE / 2, dest_y + GRID_SIZE / 2, par_Solid);
+  if (instance_exists(obstacle)) {
+    return false;
+  } else {
+    push_action(new ObjectSlideAction(object_id, src_x, src_y, dir, is_first_move));
+    return true;
   }
 }

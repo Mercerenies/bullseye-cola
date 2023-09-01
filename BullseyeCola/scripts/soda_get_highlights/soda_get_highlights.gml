@@ -6,8 +6,8 @@ function soda_get_highlights(soda_number) {
   switch (soda_number) {
   case 0: // Water
     return soda_generate_highlights(0, spr_FloorTileHighlight, 0, 1);
-  case 1:
-    break;
+  case 1: // Kick Cola
+    return []; // TODO
   case 2: // Hop Cola
     return soda_generate_highlights(0, spr_FloorTileHighlight, 2, 1);
   case 3:

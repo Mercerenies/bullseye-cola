@@ -56,6 +56,24 @@ function MoveInDirectionCode(relative_dir_) : Code() constructor {
 
 }
 
+function KickInDirectionCode(relative_dir_) : Code() constructor {
+  relative_dir = relative_dir_;
+
+  static execute = function(program) {
+    // TODO Animate this
+    var dir = obj_Player.facing_direction + relative_dir;
+    var src_x = obj_Player.x;
+    var src_y = obj_Player.y;
+    var dest_x = src_x + direction_x(dir);
+    var dest_y = src_y + direction_y(dir);
+    var target = instance_position(dest_x + GRID_SIZE / 2, dest_y + GRID_SIZE / 2, par_Pushable);
+    if (instance_exists(target)) {
+      carry_momentum(target, dir, true);
+    }
+  }
+
+}
+
 function HopInDirectionCode(relative_dir_) : Code() constructor {
   relative_dir = relative_dir_;
 

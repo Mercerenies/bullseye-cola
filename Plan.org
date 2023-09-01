@@ -41,6 +41,12 @@
   + Pressure plate
     - Can be weighed down by the player or any barrel type
     - Opens or closes doors
+  + Arrow panels
+    - Obviously :)
+    - Will affect both a rushing player and a sliding block
+    - Blocks initiate motion if they step on it; player only initiates
+      motion if he rushes onto it, not if he casually steps/hops
+    - Rush-hopping preserves the hop but changes the direction
 * RECIPES
 ** ALL RECIPES
   Omitting Right recipes by symmetry
