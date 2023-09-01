@@ -34,11 +34,13 @@ function place_soda_can(soda_can) {
   }
 }
 
-function collect_soda_can(soda_number) {
-  // TODO Undo
+function collect_soda_can(soda_number, log_undo=true) {
   var soda_can = instance_create_layer(-200, -200, "Instances_UI", ui_UISodaCan);
   soda_can.soda_number = soda_number;
   place_soda_can(soda_can);
+  if (log_undo) {
+    undo_stack_apply_change(new SodaCanCreateChange(soda_number, soda_can.x, soda_can.y));
+  }
   return soda_can;
 }
 

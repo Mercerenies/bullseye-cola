@@ -2,5 +2,5 @@
 undo_stack_create();
 
 // DEBUG CODE
-collect_soda_can(Soda.KICK);
-collect_soda_can(Soda.RIGHT);
+collect_soda_can(Soda.KICK, false);
+collect_soda_can(Soda.RIGHT, false);
