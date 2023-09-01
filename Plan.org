@@ -1,32 +1,46 @@
 
 * BASE DRINKS
   + Rush
-  + Spin Left
-  + Spin Right
+  + Left
+  + Right
   + Boom
   + Hop
   + Kick
 * NOTE ON SPINS
-  Spin Left and Spin Right work the same way, just in reverse. So I'll
-  only be adding Spin Left to the below interactions. If both Spin
-  Left and Spin Right are in a recipe, they cancel off. If they're the
-  only two in the recipe, you get Water.
+  Left and Right work the same way, just in reverse. So I'll only be
+  adding Spin Left to the below interactions. If both Spin Left and
+  Spin Right are in a recipe, they cancel off. If they're the only two
+  in the recipe, you get Water.
 * OBJECTS
   + Energy Drink
     - Pick up by walking over, and you can drink or mix it later.
-    - Other objects can overlap; cannot be picked up if there's a
-      block or something blocking it.
+    - Counts as a solid object and blocks barrels.
+    - Cannot be pushed.
     - Explosions destroy it.
-  + Block
+  + Wooden Barrel
     - Can be pushed if there's only one in a row
     - Can be kicked
     - Not explosive by default but can be made so with certain recipes
-    - Not affected by explosions
-  + Cracked Block
-    - Like a block, but destroyed on explosions
-  + Bomb
-    - Like a block but explosive by default
+  + Metal Barrel
+    - Like a wooden barrel, but immune to explosions
+  + Explosive Barrel
+    - Like a wooden barrel but explosive by default
     - Explodes if another explosion hits it, causing a chain reaction
+  + Pit
+    - Kills the player if he falls in
+    - Destroys barrels if they fall in
+  + Wooden Floor
+    - Regular floor, but is destroyed when an explosion hits it
+  + Spiked Floor
+    - Kills the player on contact
+    - Barrels can pass over it seamlessly
+  + Balance beam
+    - Barrels and the player can slide along it
+    - If either the player or a barrel stops on it, it breaks and they
+      fall in
+  + Pressure plate
+    - Can be weighed down by the player or any barrel type
+    - Opens or closes doors
 * RECIPES
 ** ALL RECIPES
   Omitting Right recipes by symmetry
