@@ -5,8 +5,10 @@ function soda_get_program(soda_number) {
     break;
   case 1:
     break;
-  case 2:
-    break;
+  case 2: // Hop Cola
+    return new Program([
+      new HopInDirectionCode(0),
+    ]);
   case 3:
     break;
   case 4:

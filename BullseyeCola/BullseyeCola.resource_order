@@ -61,6 +61,7 @@
     {"name":"spr_PlayerMask","order":4,"path":"sprites/spr_PlayerMask/spr_PlayerMask.yy",},
     {"name":"spr_FloorTileHighlight","order":1,"path":"sprites/spr_FloorTileHighlight/spr_FloorTileHighlight.yy",},
     {"name":"spr_PlayerUp","order":1,"path":"sprites/spr_PlayerUp/spr_PlayerUp.yy",},
+    {"name":"struct_PlayerHopAction","order":9,"path":"scripts/struct_PlayerHopAction/struct_PlayerHopAction.yy",},
     {"name":"ui_get_watermark_text","order":4,"path":"scripts/ui_get_watermark_text/ui_get_watermark_text.yy",},
     {"name":"funcs_UndoStack","order":3,"path":"scripts/funcs_UndoStack/funcs_UndoStack.yy",},
     {"name":"soda_get_highlights","order":8,"path":"scripts/soda_get_highlights/soda_get_highlights.yy",},

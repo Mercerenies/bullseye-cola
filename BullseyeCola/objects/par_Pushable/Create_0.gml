@@ -1,7 +1,10 @@
 
 event_inherited();
 
-can_move_onto = function(move_dir) {
+can_move_onto = function(move_dir, is_hopping) {
+  if (is_hopping) {
+    return false;
+  }
   var target_x = x + direction_x(move_dir);
   var target_y = y + direction_y(move_dir);
   // Can only push things with strength = 1. That is, you can't
@@ -9,6 +12,6 @@ can_move_onto = function(move_dir) {
   return !position_meeting(target_x + GRID_SIZE / 2, target_y + GRID_SIZE / 2, par_Solid);
 }
 
-on_move_onto = function(move_dir) {
+on_move_onto = function(move_dir, is_hopping) {
   return get_object_push_action(self, move_dir);
 }

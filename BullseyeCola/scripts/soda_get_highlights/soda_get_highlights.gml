@@ -7,8 +7,11 @@ function soda_get_highlights(soda_number) {
     break;
   case 1:
     break;
-  case 2:
-    break;
+  case 2: { // Hop Cola
+    var xx = obj_Player.x + 2 * direction_x(obj_Player.facing_direction);
+    var yy = obj_Player.y + 2 * direction_y(obj_Player.facing_direction);
+    return [xx, yy];
+  }
   case 3:
     break;
   case 4:

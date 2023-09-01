@@ -89,6 +89,7 @@
     {"id":{"name":"spr_PlayerMask","path":"sprites/spr_PlayerMask/spr_PlayerMask.yy",},},
     {"id":{"name":"spr_FloorTileHighlight","path":"sprites/spr_FloorTileHighlight/spr_FloorTileHighlight.yy",},},
     {"id":{"name":"spr_PlayerUp","path":"sprites/spr_PlayerUp/spr_PlayerUp.yy",},},
+    {"id":{"name":"struct_PlayerHopAction","path":"scripts/struct_PlayerHopAction/struct_PlayerHopAction.yy",},},
     {"id":{"name":"ui_get_watermark_text","path":"scripts/ui_get_watermark_text/ui_get_watermark_text.yy",},},
     {"id":{"name":"funcs_UndoStack","path":"scripts/funcs_UndoStack/funcs_UndoStack.yy",},},
     {"id":{"name":"soda_get_highlights","path":"scripts/soda_get_highlights/soda_get_highlights.yy",},},

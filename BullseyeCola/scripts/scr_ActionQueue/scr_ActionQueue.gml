@@ -55,3 +55,16 @@ function MoveInDirectionCode(relative_dir_) : Code() constructor {
   }
 
 }
+
+
+function HopInDirectionCode(relative_dir_) : Code() constructor {
+  relative_dir = relative_dir_;
+
+  static execute = function(program) {
+    var success = hop_player_in(relative_dir + obj_Player.facing_direction);
+    if (!success) {
+      push_action(new PlayerDenyAction(obj_Player.x, obj_Player.y));
+    }
+  }
+
+}
