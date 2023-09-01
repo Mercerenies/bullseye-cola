@@ -21,6 +21,7 @@
     {"name":"scr_MovementActions","order":1,"path":"scripts/scr_MovementActions/scr_MovementActions.yy",},
     {"name":"struct_TrivialAction","order":6,"path":"scripts/struct_TrivialAction/struct_TrivialAction.yy",},
     {"name":"struct_ParallelAction","order":4,"path":"scripts/struct_ParallelAction/struct_ParallelAction.yy",},
+    {"name":"spr_FloorTileKickHighlight","order":2,"path":"sprites/spr_FloorTileKickHighlight/spr_FloorTileKickHighlight.yy",},
     {"name":"utils_CommunityToolboxMisc","order":2,"path":"scripts/utils_CommunityToolboxMisc/utils_CommunityToolboxMisc.yy",},
     {"name":"struct_ObjectDestroyChange","order":3,"path":"scripts/struct_ObjectDestroyChange/struct_ObjectDestroyChange.yy",},
     {"name":"utils_CommunityToolboxArray","order":6,"path":"scripts/utils_CommunityToolboxArray/utils_CommunityToolboxArray.yy",},

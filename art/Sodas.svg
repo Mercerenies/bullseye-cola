@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="280.55367"
-     inkscape:cy="250.28062"
+     inkscape:zoom="2.8"
+     inkscape:cx="-10.575893"
+     inkscape:cy="182.57321"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -6967,9 +6967,12 @@
          style="font-variation-settings:normal;vector-effect:none;fill:#43ffc2;fill-opacity:1;stroke:none;stroke-width:0.0260533;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1">?</tspan></text>
     <g
        id="g16485-5"
-       transform="matrix(1.2449571,0,0,1.2449571,-76.396312,28.959325)">
+       transform="matrix(0.99130419,0.75314951,-0.75314951,0.99130419,-63.772,11.732588)"
+       style="fill:#662d91;fill-opacity:1"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
       <rect
-         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#43ffc2;fill-opacity:1;stroke:none;stroke-width:0.0257792;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#662d91;fill-opacity:1;stroke:none;stroke-width:0.0257792;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
          id="rect16446-6"
          width="2.4095981"
          height="6.2366071"
@@ -6977,7 +6980,7 @@
          y="11.502721"
          transform="rotate(-15.723152)" />
       <path
-         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#43ffc2;fill-opacity:1;stroke:none;stroke-width:0.0369829;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#662d91;fill-opacity:1;stroke:none;stroke-width:0.0369829;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
          id="path16450-7"
          sodipodi:type="arc"
          sodipodi:cx="22.388771"

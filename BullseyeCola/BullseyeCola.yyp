@@ -40,6 +40,7 @@
     {"id":{"name":"scr_MovementActions","path":"scripts/scr_MovementActions/scr_MovementActions.yy",},},
     {"id":{"name":"struct_TrivialAction","path":"scripts/struct_TrivialAction/struct_TrivialAction.yy",},},
     {"id":{"name":"struct_ParallelAction","path":"scripts/struct_ParallelAction/struct_ParallelAction.yy",},},
+    {"id":{"name":"spr_FloorTileKickHighlight","path":"sprites/spr_FloorTileKickHighlight/spr_FloorTileKickHighlight.yy",},},
     {"id":{"name":"struct_Action","path":"scripts/struct_Action/struct_Action.yy",},},
     {"id":{"name":"utils_CommunityToolboxMisc","path":"scripts/utils_CommunityToolboxMisc/utils_CommunityToolboxMisc.yy",},},
     {"id":{"name":"struct_ObjectDestroyChange","path":"scripts/struct_ObjectDestroyChange/struct_ObjectDestroyChange.yy",},},
