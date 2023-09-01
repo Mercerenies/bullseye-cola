@@ -46,6 +46,7 @@
     {"id":{"name":"struct_ObjectDestroyChange","path":"scripts/struct_ObjectDestroyChange/struct_ObjectDestroyChange.yy",},},
     {"id":{"name":"spr_PlayerLeft","path":"sprites/spr_PlayerLeft/spr_PlayerLeft.yy",},},
     {"id":{"name":"utils_CommunityToolboxArray","path":"scripts/utils_CommunityToolboxArray/utils_CommunityToolboxArray.yy",},},
+    {"id":{"name":"scr_Utility","path":"scripts/scr_Utility/scr_Utility.yy",},},
     {"id":{"name":"obj_BasicWall","path":"objects/obj_BasicWall/obj_BasicWall.yy",},},
     {"id":{"name":"scr_SodaScripts","path":"scripts/scr_SodaScripts/scr_SodaScripts.yy",},},
     {"id":{"name":"spr_SodaCan","path":"sprites/spr_SodaCan/spr_SodaCan.yy",},},

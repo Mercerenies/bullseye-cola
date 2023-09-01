@@ -99,8 +99,11 @@ function check_if_should_fall(target_object) {
   return false;
 }
 
+// Returns true if the object keeps moving. Returns false if it stops,
+// regardless of whether or not it passed its momentum onto something
+// else.
 function carry_momentum(object_id, dir, is_first_move) {
-  // TODO Transfer momentum
+  // TODO Bombs
   // TODO Also, arrow panels
   var src_x = object_id.x;
   var src_y = object_id.y;
@@ -108,6 +111,10 @@ function carry_momentum(object_id, dir, is_first_move) {
   var dest_y = src_y + direction_y(dir);
   var obstacle = instance_position(dest_x + GRID_SIZE / 2, dest_y + GRID_SIZE / 2, par_Solid);
   if (instance_exists(obstacle)) {
+    if (object_is_ancestor(obstacle.object_index, par_Pushable)) {
+      // Transfer momentum
+      carry_momentum(obstacle, dir, true);
+    }
     return false;
   } else {
     push_action(new ObjectSlideAction(object_id, src_x, src_y, dir, is_first_move));
