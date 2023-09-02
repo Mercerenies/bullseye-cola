@@ -37,7 +37,7 @@
     - Destroys barrels if they fall in
   + [X] Wooden Floor
     - Regular floor, but is destroyed when an explosion hits it
-  + [ ] Spiked Floor
+  + [X] Spiked Floor
     - Kills the player on contact
     - Barrels can pass over it seamlessly
   + [ ] Cracked floor
