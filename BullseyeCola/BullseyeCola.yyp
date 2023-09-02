@@ -71,6 +71,7 @@
     {"id":{"name":"struct_UndoStack","path":"scripts/struct_UndoStack/struct_UndoStack.yy",},},
     {"id":{"name":"utils_CommunityToolboxFile","path":"scripts/utils_CommunityToolboxFile/utils_CommunityToolboxFile.yy",},},
     {"id":{"name":"obj_Player","path":"objects/obj_Player/obj_Player.yy",},},
+    {"id":{"name":"spr_FloorTileInfinityHighlight","path":"sprites/spr_FloorTileInfinityHighlight/spr_FloorTileInfinityHighlight.yy",},},
     {"id":{"name":"utils_CommunityToolboxString","path":"scripts/utils_CommunityToolboxString/utils_CommunityToolboxString.yy",},},
     {"id":{"name":"utils_CommunityToolboxShader","path":"scripts/utils_CommunityToolboxShader/utils_CommunityToolboxShader.yy",},},
     {"id":{"name":"base_UndoableChange","path":"scripts/base_UndoableChange/base_UndoableChange.yy",},},

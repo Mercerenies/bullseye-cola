@@ -48,6 +48,7 @@
     {"name":"struct_UndoStack","order":5,"path":"scripts/struct_UndoStack/struct_UndoStack.yy",},
     {"name":"utils_CommunityToolboxFile","order":5,"path":"scripts/utils_CommunityToolboxFile/utils_CommunityToolboxFile.yy",},
     {"name":"obj_Player","order":2,"path":"objects/obj_Player/obj_Player.yy",},
+    {"name":"spr_FloorTileInfinityHighlight","order":6,"path":"sprites/spr_FloorTileInfinityHighlight/spr_FloorTileInfinityHighlight.yy",},
     {"name":"utils_CommunityToolboxShader","order":1,"path":"scripts/utils_CommunityToolboxShader/utils_CommunityToolboxShader.yy",},
     {"name":"base_UndoableChange","order":1,"path":"scripts/base_UndoableChange/base_UndoableChange.yy",},
     {"name":"spr_PlayerRightJump","order":7,"path":"sprites/spr_PlayerRightJump/spr_PlayerRightJump.yy",},
