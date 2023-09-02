@@ -17,7 +17,7 @@ if (is_player_idle()) {
       first_step = true;
     }
   } else if (input_undo()) {
-    undo_stack_undo();
+    perform_undo();
   } else if (is_player_alive()) {
     var dir = input_get_direction();
     if (!is_undefined(dir)) {

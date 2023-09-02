@@ -40,11 +40,11 @@
   + [X] Spiked Floor
     - Kills the player on contact
     - Barrels can pass over it seamlessly
-  + [ ] Cracked floor
+  + [X] Cracked floor
     - Falls, becoming a pit, when something goes over it
     - If the thing stops there, it falls in. If the thing is in
       motion, it doesn't fall in
-  + [X] +Pressure plate+
+  + [X] Pressure plate
     - Can be weighed down by the player or any barrel type
     - Opens or closes doors
   + [X] Arrow panels

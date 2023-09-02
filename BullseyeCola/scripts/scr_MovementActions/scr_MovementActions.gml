@@ -96,22 +96,34 @@ function get_object_push_action(target_object, dir) {
 
 // Check if the object is above a pit and should fall in. If so, start
 // doing so. Returns true if we started falling as a result of this call.
+//
+// Okay, so the above description isn't apt anymore. This function
+// kinda does everything... not ideal...
 function check_if_should_fall(target_object) {
   if (target_object.destroyed || target_object.destroying) {
     return false;
   }
+  // Winning the level
+  if (object_is_ancestor_fixed(target_object.object_index, obj_Player) && position_meeting(target_object.x + GRID_SIZE / 2, target_object.y + GRID_SIZE / 2, obj_StarFloorTile)) {
+    // Play rising victory animation.
+    push_action(new PlayerVictoryAction());
+    return true;
+  }
+  // Falling into a pit
   if (!position_meeting(target_object.x + GRID_SIZE / 2, target_object.y + GRID_SIZE / 2, par_FloorTile)) {
     // Fall in.
     push_action(new ObjectFallAction(target_object, target_object.x, target_object.y));
     target_object.destroying = true;
     return true;
   }
+  // Player hits spikes
   if (object_is_ancestor_fixed(target_object.object_index, obj_Player) && position_meeting(target_object.x + GRID_SIZE / 2, target_object.y + GRID_SIZE / 2, obj_SpikedFloorTile)) {
     // Play rising death animation.
     push_action(new ObjectRiseAction(target_object, target_object.x, target_object.y));
     target_object.destroying = true;
     return true;
   }
+  // Cracked floor collision
   var cracked_floor = instance_position(target_object.x + GRID_SIZE / 2, target_object.y + GRID_SIZE / 2, obj_CrackedFloorTile);
   if (instance_exists(cracked_floor)) {
     cracked_floor.crack();
