@@ -10,9 +10,9 @@ function ObjectFallAction(object_id_, src_x_, src_y_) : Action() constructor {
     undo_stack_apply_change(new ObjectDestroyChange(object_id, src_x, src_y));
     object_id.back_layer = true;
     object_id.destroying = true;
-    if (object_id.object_index == obj_Player) {
-      object_id.animating = false;
-    }
+    // Whether or not this is the player currently falling, stop them
+    // from walking in place while an object is falling.
+    obj_Player.animating = false;
   }
 
   static run_step = function() {
