@@ -55,7 +55,7 @@
     - Rush-hopping preserves the hop but changes the direction
   + [X] Wall
     - Impassible
-  + [ ] Wooden Wall (Sign?)
+  + [X] Wooden Wall (Sign?)
     - Impassible; can be destroyed by an explosion
   + [X] +Bomb Button+
     - Explodes when something runs over it.
