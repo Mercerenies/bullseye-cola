@@ -78,6 +78,14 @@ function WendCode() : Code() constructor {
 
 }
 
+function CheckFallCode() : Code() constructor {
+
+  static execute = function(program) {
+    check_if_should_fall(obj_Player.id);
+  }
+
+}
+
 function MoveInDirectionCode(relative_dir_, is_special_move_) : Code() constructor {
   relative_dir = relative_dir_;
   is_special_move = is_special_move_;

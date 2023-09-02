@@ -8,6 +8,7 @@ function ObjectRiseAction(object_id_, src_x_, src_y_) : Action() constructor {
 
   static on_start = function() {
     undo_stack_apply_change(new ObjectDestroyChange(object_id, src_x, src_y));
+    object_id.destroying = true;
     if (object_id.object_index == obj_Player) {
       object_id.animating = false;
     }

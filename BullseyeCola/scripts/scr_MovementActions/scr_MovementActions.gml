@@ -7,11 +7,14 @@ function try_move_player(dir) {
   if (can_move_to(dest_x, dest_y, dir)) {
     undo_stack_begin_move();
     var action = new PlayerMoveAction(src_x, src_y, obj_Player.facing_direction, dest_x, dest_y, dir);
+    var follow_action = new ObjectCheckFallAction(obj_Player.id);
     var overlapping_object = instance_position(dest_x + GRID_SIZE / 2, dest_y + GRID_SIZE / 2, par_Solid);
     if (instance_exists(overlapping_object)) {
       action = new ParallelAction([action, overlapping_object.on_move_onto(dir, false)]);
+      follow_action = new ParallelAction([follow_action, new ObjectCheckFallAction(overlapping_object)]);
     }
     push_action(action);
+    push_action(follow_action);
     return true;
   } else {
     push_action(new PlayerRotateAction(obj_Player.facing_direction, dir));
@@ -94,15 +97,24 @@ function get_object_push_action(target_object, dir) {
 // Check if the object is above a pit and should fall in. If so, start
 // doing so. Returns true if we started falling as a result of this call.
 function check_if_should_fall(target_object) {
+  if (target_object.destroyed || target_object.destroying) {
+    return false;
+  }
   if (!position_meeting(target_object.x + GRID_SIZE / 2, target_object.y + GRID_SIZE / 2, par_FloorTile)) {
     // Fall in.
     push_action(new ObjectFallAction(target_object, target_object.x, target_object.y));
+    target_object.destroying = true;
     return true;
   }
   if (object_is_ancestor_fixed(target_object.object_index, obj_Player) && position_meeting(target_object.x + GRID_SIZE / 2, target_object.y + GRID_SIZE / 2, obj_SpikedFloorTile)) {
     // Play rising death animation.
     push_action(new ObjectRiseAction(target_object, target_object.x, target_object.y));
+    target_object.destroying = true;
     return true;
+  }
+  var cracked_floor = instance_position(target_object.x + GRID_SIZE / 2, target_object.y + GRID_SIZE / 2, obj_CrackedFloorTile);
+  if (instance_exists(cracked_floor)) {
+    cracked_floor.crack();
   }
   return false;
 }
@@ -136,6 +148,7 @@ function carry_momentum(object_id, dir, is_first_move) {
     } else if (object_is_ancestor(obstacle.object_index, par_Pushable)) {
       // Transfer momentum
       carry_momentum(obstacle, dir, true);
+      check_if_should_fall(object_id);
     }
     return false;
   } else {

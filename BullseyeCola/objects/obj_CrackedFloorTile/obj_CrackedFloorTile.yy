@@ -1,21 +1,20 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "par_Pushable",
+  "name": "obj_CrackedFloorTile",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Solid Objects",
-    "path": "folders/Solid Objects.yy",
+    "name": "Background Tiles",
+    "path": "folders/Background Tiles.yy",
   },
   "parentObjectId": {
-    "name": "par_Solid",
-    "path": "objects/par_Solid/par_Solid.yy",
+    "name": "par_FloorTile",
+    "path": "objects/par_FloorTile/par_FloorTile.yy",
   },
   "persistent": false,
   "physicsAngularDamping": 0.1,
@@ -32,7 +31,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_CrackedFloorTile",
+    "path": "sprites/spr_CrackedFloorTile/spr_CrackedFloorTile.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }
