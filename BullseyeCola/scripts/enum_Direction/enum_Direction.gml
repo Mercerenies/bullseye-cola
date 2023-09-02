@@ -73,3 +73,21 @@ function direction_y(dir) {
   }
   return 0;
 }
+
+function normalize_direction_to_cardinal(dir) {
+  switch (eucmod(dir, 8)) {
+  case Direction.RIGHT:
+    return Direction.RIGHT;
+  case Direction.UP_RIGHT:
+  case Direction.UP:
+  case Direction.UP_LEFT:
+    return Direction.UP;
+  case Direction.DOWN_RIGHT:
+  case Direction.DOWN:
+  case Direction.DOWN_LEFT:
+    return Direction.DOWN;
+  case Direction.LEFT:
+    return Direction.LEFT;
+  }
+  return Direction.DOWN;
+}

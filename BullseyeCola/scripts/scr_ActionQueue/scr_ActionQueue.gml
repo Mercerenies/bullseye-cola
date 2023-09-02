@@ -189,6 +189,16 @@ function ObeyArrowCode() : Code() constructor {
 
 }
 
+function RotateCode(relative_dir_) : Code() constructor {
+  relative_dir = relative_dir_;
+
+  static execute = function(program) {
+    var new_dir = obj_Player.facing_direction + relative_dir;
+    push_action(new PlayerRotateAction(obj_Player.facing_direction, new_dir));
+  }
+
+}
+
 // Abstract base class.
 function Condition() constructor {
 
