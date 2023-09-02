@@ -79,13 +79,17 @@ function soda_get_highlights(soda_number) {
       soda_generate_highlights(0, spr_FloorTileKickHighlight, 3, 1),
       soda_generate_highlights(0, spr_FloorTileInfinityHighlight, 4, 1),
     );
-  case 20: // Rush Boom Kick Cola
+  case 20: // Rush Boom Cola
     return array_concat(
       soda_generate_boom_highlights(0, 1),
       soda_generate_highlights(0, spr_FloorTileInfinityHighlight, 1, 1),
     );
-  case 21:
-    break;
+  case 21: // Rush Boom Kick Cola
+    return array_concat(
+      soda_generate_highlights(0, spr_FloorTileHighlight, 1, 1),
+      soda_generate_highlights(0, spr_FloorTileInfinityHighlight, 2, 1),
+      soda_generate_highlights(0, spr_FloorTileBoomKickHighlight, 3, 1),
+    );
   case 22:
     break;
   case 23:
@@ -112,13 +116,17 @@ function soda_get_highlights(soda_number) {
       soda_generate_highlights(1, spr_FloorTileKickHighlight, 3, 1),
       soda_generate_highlights(1, spr_FloorTileInfinityHighlight, 4, 1),
     );
-  case 28: // Left Rush Boom Kick Cola
+  case 28: // Left Rush Boom Cola
     return array_concat(
       soda_generate_boom_highlights(1, 1),
       soda_generate_highlights(1, spr_FloorTileInfinityHighlight, 1, 1),
     );
-  case 29:
-    break;
+  case 29: // Left Rush Boom Kick Cola
+    return array_concat(
+      soda_generate_highlights(1, spr_FloorTileHighlight, 1, 1),
+      soda_generate_highlights(1, spr_FloorTileInfinityHighlight, 2, 1),
+      soda_generate_highlights(1, spr_FloorTileBoomKickHighlight, 3, 1),
+    );
   case 30:
     break;
   case 31:
@@ -173,13 +181,17 @@ function soda_get_highlights(soda_number) {
       soda_generate_highlights(-1, spr_FloorTileKickHighlight, 3, 1),
       soda_generate_highlights(-1, spr_FloorTileInfinityHighlight, 4, 1),
     );
-  case 52: // Right Rush Boom Kick Cola
+  case 52: // Right Rush Boom Cola
     return array_concat(
       soda_generate_boom_highlights(-1, 1),
       soda_generate_highlights(-1, spr_FloorTileInfinityHighlight, 1, 1),
     );
-  case 53:
-    break;
+  case 53: // Right Rush Boom Kick Cola
+    return array_concat(
+      soda_generate_highlights(-1, spr_FloorTileHighlight, 1, 1),
+      soda_generate_highlights(-1, spr_FloorTileInfinityHighlight, 2, 1),
+      soda_generate_highlights(-1, spr_FloorTileBoomKickHighlight, 3, 1),
+    );
   case 54:
     break;
   case 55:
