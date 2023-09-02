@@ -149,8 +149,18 @@ function soda_get_program(soda_number) {
       new WendCode(),
       new StopAnimatingCode(),
     ]);
-  case 23:
-    break;
+  case 23: // Rush Hop Boom Kick Cola
+    return new Program([
+      new ObeyArrowCode(),
+      new HopInDirectionCode(0, true),
+      new BoomKickInDirectionCode(0),
+      new WhileCode(new CanBeMovedToCondition(0, true)),
+        new HopInDirectionCode(0, true),
+        new BoomKickInDirectionCode(0),
+        new ObeyArrowCode(),
+      new WendCode(),
+      new StopAnimatingCode(),
+    ]);
   case 24: // Left Rush Cola
     return new Program([
       new RotateCode(1),
@@ -235,8 +245,19 @@ function soda_get_program(soda_number) {
       new WendCode(),
       new StopAnimatingCode(),
     ]);
-  case 31:
-    break;
+  case 31: // Left Rush Hop Boom Kick Cola
+    return new Program([
+      new RotateCode(1),
+      new ObeyArrowCode(),
+      new HopInDirectionCode(0, true),
+      new BoomKickInDirectionCode(0),
+      new WhileCode(new CanBeMovedToCondition(0, true)),
+        new HopInDirectionCode(0, true),
+        new BoomKickInDirectionCode(0),
+        new ObeyArrowCode(),
+      new WendCode(),
+      new StopAnimatingCode(),
+    ]);
   case 32: // Right Cola
     return new Program([
       new MoveInDirectionCode(-1, false),
@@ -357,8 +378,19 @@ function soda_get_program(soda_number) {
       new WendCode(),
       new StopAnimatingCode(),
     ]);
-  case 55:
-    break;
+  case 55: // Right Rush Hop Boom Kick Cola
+    return new Program([
+      new RotateCode(-1),
+      new ObeyArrowCode(),
+      new HopInDirectionCode(0, true),
+      new BoomKickInDirectionCode(0),
+      new WhileCode(new CanBeMovedToCondition(0, true)),
+        new HopInDirectionCode(0, true),
+        new BoomKickInDirectionCode(0),
+        new ObeyArrowCode(),
+      new WendCode(),
+      new StopAnimatingCode(),
+    ]);
   }
   return new Program([]);
 }
