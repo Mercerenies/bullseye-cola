@@ -40,14 +40,23 @@ function soda_get_highlights(soda_number) {
       soda_generate_highlights(1, spr_FloorTileHighlight, 2, 1),
       soda_generate_highlights(1, spr_FloorTileKickHighlight, 3, 1),
     );
-  case 12:
-    break;
-  case 13:
-    break;
-  case 14:
-    break;
-  case 15:
-    break;
+  case 12: // Left Boom Cola
+    return array_concat(
+      soda_generate_highlights(1, spr_FloorTileHighlight, 1, 1),
+      soda_generate_boom_highlights(1, 1),
+    );
+  case 13: // Left Boom Kick Cola
+    return soda_generate_highlights(1, spr_FloorTileBoomKickHighlight, 1, 1);
+  case 14: // Left Hop Boom Cola
+    return array_concat(
+      soda_generate_highlights(1, spr_FloorTileHighlight, 2, 1),
+      soda_generate_boom_highlights(1, 2),
+    );
+  case 15: // Left Hop Boom Kick Cola
+    return array_concat(
+      soda_generate_highlights(1, spr_FloorTileHighlight, 2, 1),
+      soda_generate_highlights(1, spr_FloorTileBoomKickHighlight, 3, 1),
+    );
   case 16:
     break;
   case 17:
@@ -91,14 +100,23 @@ function soda_get_highlights(soda_number) {
       soda_generate_highlights(-1, spr_FloorTileHighlight, 2, 1),
       soda_generate_highlights(-1, spr_FloorTileKickHighlight, 3, 1),
     );
-  case 36:
-    break;
-  case 37:
-    break;
-  case 38:
-    break;
-  case 39:
-    break;
+  case 36: // Right Boom Cola
+    return array_concat(
+      soda_generate_highlights(-1, spr_FloorTileHighlight, 1, 1),
+      soda_generate_boom_highlights(-1, 1),
+    );
+  case 37: // Right Boom Kick Cola
+    return soda_generate_highlights(-1, spr_FloorTileBoomKickHighlight, 1, 1);
+  case 38: // Right Hop Boom Cola
+    return array_concat(
+      soda_generate_highlights(-1, spr_FloorTileHighlight, 2, 1),
+      soda_generate_boom_highlights(-1, 2),
+    );
+  case 39: // Right Hop Boom Kick Cola
+    return array_concat(
+      soda_generate_highlights(-1, spr_FloorTileHighlight, 2, 1),
+      soda_generate_highlights(-1, spr_FloorTileBoomKickHighlight, 3, 1),
+    );
   case 48:
     break;
   case 49:
