@@ -103,9 +103,13 @@ function check_if_should_fall(target_object) {
 // regardless of whether or not it passed its momentum onto something
 // else.
 function carry_momentum(object_id, dir, is_first_move) {
-  // TODO Arrow panels
   var src_x = object_id.x;
   var src_y = object_id.y;
+  var arrow_panel = instance_position(src_x + GRID_SIZE / 2, src_y + GRID_SIZE / 2, obj_ArrowFloorTile);
+  if (instance_exists(arrow_panel)) {
+    dir = arrow_panel.image_index;
+  }
+
   var dest_x = src_x + direction_x(dir);
   var dest_y = src_y + direction_y(dir);
   var obstacle = instance_position(dest_x + GRID_SIZE / 2, dest_y + GRID_SIZE / 2, par_Solid);
