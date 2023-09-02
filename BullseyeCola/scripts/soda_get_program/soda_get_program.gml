@@ -38,7 +38,7 @@ function soda_get_program(soda_number) {
     ]);
   case 8: // Left Cola
     return new Program([
-      new MoveInDirectionCode(1),
+      new MoveInDirectionCode(1, false),
     ]);
   case 9: // Left Kick Cola
     return new Program([
@@ -55,7 +55,7 @@ function soda_get_program(soda_number) {
     ]);
   case 12: // Left Boom Cola
     return new Program([
-      new MoveInDirectionCode(1),
+      new MoveInDirectionCode(1, false),
       new ExplodeInPlaceCode(),
     ]);
   case 13: // Left Boom Kick Cola
@@ -72,8 +72,13 @@ function soda_get_program(soda_number) {
       new HopInDirectionCode(1),
       new BoomKickInDirectionCode(1),
     ]);
-  case 16:
-    break;
+  case 16: // Rush Cola
+    return new Program([
+      new DenialUnlessCode(new CanBeMovedToCondition(0, true)),
+      new WhileCode(new CanBeMovedToCondition(0, true)),
+        new MoveInDirectionCode(0, true),
+      new WendCode(),
+    ]);
   case 17:
     break;
   case 18:
@@ -106,7 +111,7 @@ function soda_get_program(soda_number) {
     break;
   case 32: // Right Cola
     return new Program([
-      new MoveInDirectionCode(-1),
+      new MoveInDirectionCode(-1, false),
     ]);
   case 33: // Right Kick Cola
     return new Program([
@@ -123,7 +128,7 @@ function soda_get_program(soda_number) {
     ]);
   case 36: // Right Boom Cola
     return new Program([
-      new MoveInDirectionCode(-1),
+      new MoveInDirectionCode(-1, false),
       new ExplodeInPlaceCode(),
     ]);
   case 37: // Right Boom Kick Cola

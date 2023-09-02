@@ -33,6 +33,18 @@ function Program(code_array_) constructor {
     return (index >= array_length(code_array)) || (!is_player_alive());
   }
 
+  static advance_to_wend = function() {
+    while ((!is_finished()) && (!is_instanceof(code_array[index], WendCode))) {
+      index += 1;
+    }
+  }
+
+  static regress_to_while = function() {
+    while ((index >= 0) && (!is_instanceof(code_array[index], WhileCode))) {
+      index -= 1;
+    }
+  }
+
 }
 
 // Abstract base class.
@@ -44,11 +56,34 @@ function Code() constructor {
 
 }
 
-function MoveInDirectionCode(relative_dir_) : Code() constructor {
-  relative_dir = relative_dir_;
+// DO NOT NEST WHILE LOOPS! PLEASE!
+function WhileCode(condition_) : Code() constructor {
+  condition = condition_;
 
   static execute = function(program) {
-    var success = shove_player_in(relative_dir + obj_Player.facing_direction);
+    if (!condition.test()) {
+      program.advance_to_wend();
+      program.index++;
+    }
+  }
+
+}
+
+function WendCode() : Code() constructor {
+
+  static execute = function(program) {
+    program.index--;
+    program.regress_to_while();
+  }
+
+}
+
+function MoveInDirectionCode(relative_dir_, is_special_move_) : Code() constructor {
+  relative_dir = relative_dir_;
+  is_special_move = is_special_move_;
+
+  static execute = function(program) {
+    var success = shove_player_in(relative_dir + obj_Player.facing_direction, is_special_move);
     if (!success) {
       push_action(new PlayerDenyAction(obj_Player.x, obj_Player.y));
     }
@@ -126,6 +161,44 @@ function DenialCode() : Code() constructor {
 
   static execute = function(program) {
     push_action(new PlayerDenyAction(obj_Player.x, obj_Player.y));
+  }
+
+}
+
+// Do the little "deny" hop unless some condition is true.
+function DenialUnlessCode(condition_) : Code() constructor {
+  condition = condition_;
+
+  static execute = function(program) {
+    if (!condition.test()) {
+      push_action(new PlayerDenyAction(obj_Player.x, obj_Player.y));
+    }
+  }
+
+}
+
+// Abstract base class.
+function Condition() constructor {
+
+  static test = function() {
+    // Abstract base method.
+    return false;
+  }
+
+}
+
+// Abstract base class.
+function CanBeMovedToCondition(relative_dir_, is_special_move_=true) : Condition() constructor {
+  relative_dir = relative_dir_;
+  is_special_move = is_special_move_;
+
+  static test = function() {
+    var dir = obj_Player.facing_direction + relative_dir;
+    var src_x = obj_Player.x;
+    var src_y = obj_Player.y;
+    var dest_x = src_x + direction_x(dir);
+    var dest_y = src_y + direction_y(dir);
+    return can_be_moved_to(dest_x, dest_y, dir, is_special_move);
   }
 
 }

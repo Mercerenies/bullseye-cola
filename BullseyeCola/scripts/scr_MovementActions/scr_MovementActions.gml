@@ -19,7 +19,7 @@ function try_move_player(dir) {
   }
 }
 
-function shove_player_in(dir) {
+function shove_player_in(dir, is_special_move) {
   var player_dir = obj_Player.facing_direction;
   var src_x = obj_Player.x;
   var src_y = obj_Player.y;
