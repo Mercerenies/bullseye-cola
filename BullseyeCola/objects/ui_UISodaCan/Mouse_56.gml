@@ -16,7 +16,7 @@ if (dragging) {
   } else {
     var overlapping_soda = instance_place(x, y, ui_UISodaCan);
     if (instance_exists(overlapping_soda)) {
-      if (is_player_idle() && is_player_alive()) {
+      if (is_player_idle() && is_player_alive() && !soda_is_subset(soda_number, overlapping_soda.soda_number) && !soda_is_subset(overlapping_soda.soda_number, soda_number)) {
         // Mix the sodas.
         undo_stack_begin_move();
         var old_soda_number = overlapping_soda.soda_number;

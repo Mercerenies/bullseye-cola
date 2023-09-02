@@ -1,0 +1,2 @@
+push_dia(new Dia(Mugshot.MAX, undefined, "These are our Left and Right Colas. They taste sort of... like a direction, I'm told."));
+push_dia(new Dia(Mugshot.EMPTY, undefined, "Drink a Left or Right Cola to move diagonally in that direction."));

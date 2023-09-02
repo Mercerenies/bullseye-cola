@@ -1,0 +1,3 @@
+push_dia(new Dia(Mugshot.MAX, undefined, "As part of your tour, we'd like to invite you to try several of our products."));
+push_dia(new Dia(Mugshot.MAX, undefined, "This, in particular, is called Hop Cola. When you drink it, you'll jump for joy!"));
+push_dia(new Dia(Mugshot.EMPTY, undefined, "Once you pick up a soda, use the mouse to drag and drop it onto the playing area in order to drink it."));

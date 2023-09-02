@@ -56,3 +56,7 @@ function mix_sodas(soda1, soda2) {
   }
   return new_soda;
 }
+
+function soda_is_subset(soda1, soda2) {
+  return (soda1 & soda2) == soda1;
+}
