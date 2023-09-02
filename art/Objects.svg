@@ -23,9 +23,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="149.86197"
-     inkscape:cy="111.84714"
+     inkscape:zoom="0.9899495"
+     inkscape:cx="53.990698"
+     inkscape:cy="-18.102459"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -710,6 +710,37 @@
        inkscape:transform-center-x="-0.23834654"
        inkscape:transform-center-y="0.049049587"
        transform="translate(-33.61825,39.808628)"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <rect
+       style="fill:#68581a;stroke-width:0.142389;stop-color:#000000;font-variation-settings:normal;opacity:1;vector-effect:none;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-opacity:1"
+       id="rect912"
+       width="12.428036"
+       height="12.561669"
+       x="43.965836"
+       y="5.4790254"
+       rx="0"
+       ry="0"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <rect
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#a08729;fill-opacity:1;stroke:none;stroke-width:0.156575;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+       id="rect931"
+       width="9.9752216"
+       height="3.325074"
+       x="38.839211"
+       y="-28.993877"
+       transform="rotate(45.222077)"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099" />
+    <rect
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#a08729;fill-opacity:1;stroke:none;stroke-width:0.156575;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+       id="rect933"
+       width="9.9752216"
+       height="3.325074"
+       x="-31.97839"
+       y="42.374836"
+       transform="matrix(-0.70436075,0.70984219,0.70984219,0.70436075,0,0)"
        inkscape:export-xdpi="97.097099"
        inkscape:export-ydpi="97.097099" />
   </g>

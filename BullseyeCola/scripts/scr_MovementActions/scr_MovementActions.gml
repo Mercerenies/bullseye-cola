@@ -156,6 +156,10 @@ function explode_at(xx, yy) {
   if (instance_exists(victim)) {
     victim.on_explode();
   }
+  var floor_victim = instance_position(xx + GRID_SIZE / 2, yy + GRID_SIZE / 2, par_FloorTile);
+  if (instance_exists(floor_victim)) {
+    floor_victim.on_explode();
+  }
 }
 
 function explode_nearby(xx, yy, include_self) {
