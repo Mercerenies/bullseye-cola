@@ -39,3 +39,11 @@ function input_get_direction() {
   }
   return undefined;
 }
+
+function input_get_mouse_released() {
+  return mouse_check_button_released(mb_left);
+}
+
+function input_get_f1() {
+  return keyboard_check_pressed(vk_f1);
+}

@@ -4,12 +4,19 @@
 // way, if I do something boneheaded and end up putting a softlock in
 // the game, there's still an escape.
 if (input_restart()) {
+  global.is_restarting_room = true;
   room_restart();
   exit;
 }
 
 if (is_player_idle()) {
-  if (input_undo()) {
+  if (input_get_f1()) {
+    with (ui_DialogueBox) {
+      dia_index = 0;
+      done = false;
+      first_step = true;
+    }
+  } else if (input_undo()) {
     undo_stack_undo();
   } else if (is_player_alive()) {
     var dir = input_get_direction();
