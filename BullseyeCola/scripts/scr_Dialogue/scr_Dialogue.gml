@@ -15,4 +15,5 @@ function push_dia(dia) {
 enum Mugshot {
   JERRY = 0,
   MAX = 1,
+  EMPTY = 2,
 }

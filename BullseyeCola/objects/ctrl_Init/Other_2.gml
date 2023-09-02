@@ -1,3 +1,6 @@
 
 global.is_restarting_room = false;
-room_goto_next();
+
+// DEBUG CODE
+room_goto(rm_Level1);
+//room_goto_next();
