@@ -11,47 +11,53 @@
   adding Spin Left to the below interactions. If both Spin Left and
   Spin Right are in a recipe, they cancel off. If they're the only two
   in the recipe, you get Water.
+* PLAN - SATURDAY MORNING
+  1. [ ] Remaining overworld objects
+  2. [ ] Dialogue system
+  3. [ ] Goal for the level (a square you have to get to)
+  4. [ ] Level design
 * OBJECTS
-  + Energy Drink
+  + [X] Energy Drink
     - Pick up by walking over, and you can drink or mix it later.
     - Counts as a solid object and blocks barrels.
     - Cannot be pushed.
     - Explosions destroy it.
-  + Wooden Barrel
+  + [X] Wooden Barrel
     - Can be pushed if there's only one in a row
     - Can be kicked
     - Not explosive by default but can be made so with certain recipes
-  + Metal Barrel
-    - Like a wooden barrel, but immune to explosions
-  + Explosive Barrel
+  + [X] Metal Barrel
+    - Like a wooden barrel, but immune to explosions; can still be
+      made explosive itself with a proper kick
+  + [X] Explosive Barrel
     - Like a wooden barrel but explosive by default
     - Explodes if another explosion hits it, causing a chain reaction
-  + Pit
+  + [X] Pit
     - Kills the player if he falls in
     - Destroys barrels if they fall in
-  + Wooden Floor
+  + [ ] Wooden Floor
     - Regular floor, but is destroyed when an explosion hits it
-  + Spiked Floor
+  + [ ] Spiked Floor
     - Kills the player on contact
     - Barrels can pass over it seamlessly
-  + Balance beam [Cracked floor?]
-    - Barrels and the player can slide along it
-    - If either the player or a barrel stops on it, it breaks and they
-      fall in
-  + Pressure plate
+  + [ ] Cracked floor
+    - Falls, becoming a pit, when something goes over it
+    - If the thing stops there, it falls in. If the thing is in
+      motion, it doesn't fall in
+  + [ ] Pressure plate
     - Can be weighed down by the player or any barrel type
     - Opens or closes doors
-  + Arrow panels
+  + [X] Arrow panels
     - Obviously :)
     - Will affect both a rushing player and a sliding block
     - Blocks initiate motion if they step on it; player only initiates
       motion if he rushes onto it, not if he casually steps/hops
     - Rush-hopping preserves the hop but changes the direction
-  + Wall
+  + [X] Wall
     - Impassible
-  + Wooden Wall (Sign?)
+  + [ ] Wooden Wall (Sign?)
     - Impassible; can be destroyed by an explosion
-  + Bomb Button
+  + [ ] Bomb Button
     - Explodes when something runs over it.
 * RECIPES
 ** ALL RECIPES
