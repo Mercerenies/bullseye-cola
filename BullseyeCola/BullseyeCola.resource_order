@@ -113,6 +113,7 @@
     {"name":"ui_get_watermark_text","order":4,"path":"scripts/ui_get_watermark_text/ui_get_watermark_text.yy",},
     {"name":"spr_PressurePlateTile","order":13,"path":"sprites/spr_PressurePlateTile/spr_PressurePlateTile.yy",},
     {"name":"funcs_UndoStack","order":3,"path":"scripts/funcs_UndoStack/funcs_UndoStack.yy",},
+    {"name":"rm_Level8","order":7,"path":"rooms/rm_Level8/rm_Level8.yy",},
     {"name":"soda_get_highlights","order":8,"path":"scripts/soda_get_highlights/soda_get_highlights.yy",},
     {"name":"spr_CrackedParticle","order":10,"path":"sprites/spr_CrackedParticle/spr_CrackedParticle.yy",},
     {"name":"spr_Particles","order":8,"path":"sprites/spr_Particles/spr_Particles.yy",},

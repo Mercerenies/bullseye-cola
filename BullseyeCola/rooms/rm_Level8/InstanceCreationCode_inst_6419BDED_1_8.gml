@@ -1,0 +1,3 @@
+push_dia(new Dia(Mugshot.MAX, undefined, "I have a statement from our legal team here... ahem..."));
+push_dia(new Dia(Mugshot.MAX, undefined, "\"The names 'Left' and 'Right' Cola should not be construed as endorsement of any political party. Bullseye Cola is and always has been a politically neutral corporation.\""));
+push_dia(new Dia(Mugshot.MAX, undefined, "Besides, we don't discriminate. We kick back to all our congressmen equally, regardless of political affiliation."));
