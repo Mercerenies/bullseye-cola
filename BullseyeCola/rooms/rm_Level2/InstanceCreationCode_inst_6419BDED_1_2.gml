@@ -1,0 +1,2 @@
+push_dia(new Dia(Mugshot.MAX, undefined, "Watch your step in this next room. We use this narrow bridge to keep out intruders!"));
+push_dia(new Dia(Mugshot.MAX, undefined, "And tax collectors. It's a well known scientific fact that tax collectors are afraid of heights."));
