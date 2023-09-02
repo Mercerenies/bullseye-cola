@@ -35,7 +35,7 @@
   + [X] Pit
     - Kills the player if he falls in
     - Destroys barrels if they fall in
-  + [ ] Wooden Floor
+  + [X] Wooden Floor
     - Regular floor, but is destroyed when an explosion hits it
   + [ ] Spiked Floor
     - Kills the player on contact
@@ -44,7 +44,7 @@
     - Falls, becoming a pit, when something goes over it
     - If the thing stops there, it falls in. If the thing is in
       motion, it doesn't fall in
-  + [ ] Pressure plate
+  + [X] +Pressure plate+
     - Can be weighed down by the player or any barrel type
     - Opens or closes doors
   + [X] Arrow panels
@@ -57,7 +57,7 @@
     - Impassible
   + [ ] Wooden Wall (Sign?)
     - Impassible; can be destroyed by an explosion
-  + [ ] Bomb Button
+  + [X] +Bomb Button+
     - Explodes when something runs over it.
 * RECIPES
 ** ALL RECIPES

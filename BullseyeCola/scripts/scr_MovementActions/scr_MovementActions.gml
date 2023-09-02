@@ -66,6 +66,9 @@ function can_move_to(dest_x, dest_y, dir) {
   if (!position_meeting(dest_x + GRID_SIZE / 2, dest_y + GRID_SIZE / 2, par_FloorTile)) {
     return false;
   }
+  if (position_meeting(dest_x + GRID_SIZE / 2, dest_y + GRID_SIZE / 2, obj_SpikedFloorTile)) {
+    return false;
+  }
   if (!can_be_moved_to(dest_x, dest_y, dir, false)) {
     return false;
   }
@@ -94,6 +97,11 @@ function check_if_should_fall(target_object) {
   if (!position_meeting(target_object.x + GRID_SIZE / 2, target_object.y + GRID_SIZE / 2, par_FloorTile)) {
     // Fall in.
     push_action(new ObjectFallAction(target_object, target_object.x, target_object.y));
+    return true;
+  }
+  if (object_is_ancestor_fixed(target_object.object_index, obj_Player) && position_meeting(target_object.x + GRID_SIZE / 2, target_object.y + GRID_SIZE / 2, obj_SpikedFloorTile)) {
+    // Play rising death animation.
+    push_action(new ObjectRiseAction(target_object, target_object.x, target_object.y));
     return true;
   }
   return false;
