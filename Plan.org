@@ -12,9 +12,9 @@
   Spin Right are in a recipe, they cancel off. If they're the only two
   in the recipe, you get Water.
 * PLAN - SATURDAY MORNING
-  1. [ ] Remaining overworld objects
-  2. [ ] Dialogue system
-  3. [ ] Goal for the level (a square you have to get to)
+  1. [X] Remaining overworld objects
+  2. [X] Dialogue system
+  3. [X] Goal for the level (a square you have to get to)
   4. [ ] Level design
 * OBJECTS
   + [X] Energy Drink
@@ -107,8 +107,10 @@
 * CONTROLS
   + WASD or Arrow Keys :: Move
   + Shift + [WASD or Arrow Keys] :: Turn in place
+  + Mouse :: Drag sodas
   + Backspace :: Undo
   + Escape :: Restart room (always works; even when not idle)
+  + F1 :: See help text again
 * CREDITS
   + Undo Stack
   + Community Toolbox
