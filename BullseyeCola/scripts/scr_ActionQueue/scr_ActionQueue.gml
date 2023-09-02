@@ -199,6 +199,14 @@ function RotateCode(relative_dir_) : Code() constructor {
 
 }
 
+function StopAnimatingCode() : Code() constructor {
+
+  static execute = function(program) {
+    push_action(new PlayerStopAnimatingAction());
+  }
+
+}
+
 // Abstract base class.
 function Condition() constructor {
 

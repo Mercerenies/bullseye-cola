@@ -7,7 +7,7 @@ function try_move_player(dir) {
   if (can_move_to(dest_x, dest_y, dir)) {
     undo_stack_begin_move();
     var action = new PlayerMoveAction(src_x, src_y, obj_Player.facing_direction, dest_x, dest_y, dir);
-    var overlapping_object = instance_position(dest_x, dest_y, par_Solid);
+    var overlapping_object = instance_position(dest_x + GRID_SIZE / 2, dest_y + GRID_SIZE / 2, par_Solid);
     if (instance_exists(overlapping_object)) {
       action = new ParallelAction([action, overlapping_object.on_move_onto(dir, false)]);
     }
@@ -27,7 +27,7 @@ function shove_player_in(dir, is_special_move) {
   var dest_y = src_y + direction_y(dir);
   if (can_be_moved_to(dest_x, dest_y, dir, false)) {
     var action = new PlayerMoveAction(src_x, src_y, player_dir, dest_x, dest_y, player_dir);
-    var overlapping_object = instance_position(dest_x, dest_y, par_Solid);
+    var overlapping_object = instance_position(dest_x + GRID_SIZE / 2, dest_y + GRID_SIZE / 2, par_Solid);
     if (instance_exists(overlapping_object)) {
       action = new ParallelAction([action, overlapping_object.on_move_onto(dir, false)]);
     }
@@ -54,7 +54,7 @@ function hop_player_in(dir) {
     dest_y = mid_y;
   }
   var action = new PlayerHopAction(src_x, src_y, player_dir, dest_x, dest_y);
-  var overlapping_object = instance_position(dest_x, dest_y, par_Solid);
+  var overlapping_object = instance_position(dest_x + GRID_SIZE / 2, dest_y + GRID_SIZE / 2, par_Solid);
   if (instance_exists(overlapping_object)) {
     action = new ParallelAction([action, overlapping_object.on_move_onto(dir, true)]);
   }

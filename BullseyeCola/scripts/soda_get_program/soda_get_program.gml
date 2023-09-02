@@ -80,11 +80,29 @@ function soda_get_program(soda_number) {
         new MoveInDirectionCode(0, true),
         new ObeyArrowCode(),
       new WendCode(),
+      new StopAnimatingCode(),
     ]);
-  case 17:
-    break;
-  case 18:
-    break;
+  case 17: // Rush Kick Cola
+    return new Program([
+      new ObeyArrowCode(),
+      new DenialUnlessCode(new CanBeMovedToCondition(0, true)),
+      new WhileCode(new CanBeMovedToCondition(0, true)),
+        new MoveInDirectionCode(0, true),
+        new ObeyArrowCode(),
+      new WendCode(),
+      new StopAnimatingCode(),
+      new KickInDirectionCode(0),
+    ]);
+  case 18: // Rush Hop Cola
+    return new Program([
+      new ObeyArrowCode(),
+      new DenialUnlessCode(new CanBeMovedToCondition(0, true)),
+      new WhileCode(new CanBeMovedToCondition(0, true)),
+        new HopInDirectionCode(0, true),
+        new ObeyArrowCode(),
+      new WendCode(),
+      new StopAnimatingCode(),
+    ]);
   case 19:
     break;
   case 20:
@@ -104,9 +122,20 @@ function soda_get_program(soda_number) {
         new MoveInDirectionCode(0, true),
         new ObeyArrowCode(),
       new WendCode(),
+      new StopAnimatingCode(),
     ]);
-  case 25:
-    break;
+  case 25: // Left Rush Kick Cola
+    return new Program([
+      new RotateCode(1),
+      new ObeyArrowCode(),
+      new DenialUnlessCode(new CanBeMovedToCondition(0, true)),
+      new WhileCode(new CanBeMovedToCondition(0, true)),
+        new MoveInDirectionCode(0, true),
+        new ObeyArrowCode(),
+      new WendCode(),
+      new StopAnimatingCode(),
+      new KickInDirectionCode(0),
+    ]);
   case 26:
     break;
   case 27:
@@ -164,9 +193,20 @@ function soda_get_program(soda_number) {
         new MoveInDirectionCode(0, true),
         new ObeyArrowCode(),
       new WendCode(),
+      new StopAnimatingCode(),
     ]);
-  case 49:
-    break;
+  case 49: // Right Rush Kick Cola
+    return new Program([
+      new RotateCode(-1),
+      new ObeyArrowCode(),
+      new DenialUnlessCode(new CanBeMovedToCondition(0, true)),
+      new WhileCode(new CanBeMovedToCondition(0, true)),
+        new MoveInDirectionCode(0, true),
+        new ObeyArrowCode(),
+      new WendCode(),
+      new StopAnimatingCode(),
+      new KickInDirectionCode(0),
+    ]);
   case 50:
     break;
   case 51:
