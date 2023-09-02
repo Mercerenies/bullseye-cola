@@ -36,6 +36,7 @@
     {"name":"struct_ExplodeAction","order":11,"path":"scripts/struct_ExplodeAction/struct_ExplodeAction.yy",},
     {"name":"spr_SodaCan","order":6,"path":"sprites/spr_SodaCan/spr_SodaCan.yy",},
     {"name":"struct_MakeObjectExplosiveChange","order":8,"path":"scripts/struct_MakeObjectExplosiveChange/struct_MakeObjectExplosiveChange.yy",},
+    {"name":"struct_PlayerTrampleAction","order":12,"path":"scripts/struct_PlayerTrampleAction/struct_PlayerTrampleAction.yy",},
     {"name":"spr_BombBarrel","order":14,"path":"sprites/spr_BombBarrel/spr_BombBarrel.yy",},
     {"name":"ui_KickIcon","order":9,"path":"objects/ui_KickIcon/ui_KickIcon.yy",},
     {"name":"obj_ArrowFloorTile","order":4,"path":"objects/obj_ArrowFloorTile/obj_ArrowFloorTile.yy",},

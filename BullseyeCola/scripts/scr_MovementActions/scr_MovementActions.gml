@@ -113,7 +113,14 @@ function carry_momentum(object_id, dir, is_first_move) {
   var dest_x = src_x + direction_x(dir);
   var dest_y = src_y + direction_y(dir);
   var obstacle = instance_position(dest_x + GRID_SIZE / 2, dest_y + GRID_SIZE / 2, par_Solid);
-  if (instance_exists(obstacle)) {
+  if (instance_exists(obstacle) && object_is_ancestor_fixed(obstacle.object_index, obj_Player)) {
+    // Kill the player and keep moving
+    push_action(new ParallelAction([
+      new ObjectSlideAction(object_id, src_x, src_y, dir, is_first_move),
+      new PlayerTrampleAction(),
+    ]));
+    return true;
+  } else if (instance_exists(obstacle)) {
     if (object_id.is_explosive) {
       // Explode
       explode_nearby(object_id.x, object_id.y, true);

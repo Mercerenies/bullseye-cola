@@ -14,3 +14,4 @@ animating = false;
 hopping = false;
 
 tick = 0;
+forced_layer = undefined;

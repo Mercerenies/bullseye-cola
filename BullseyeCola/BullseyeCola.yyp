@@ -57,6 +57,7 @@
     {"id":{"name":"struct_ExplodeAction","path":"scripts/struct_ExplodeAction/struct_ExplodeAction.yy",},},
     {"id":{"name":"spr_SodaCan","path":"sprites/spr_SodaCan/spr_SodaCan.yy",},},
     {"id":{"name":"struct_MakeObjectExplosiveChange","path":"scripts/struct_MakeObjectExplosiveChange/struct_MakeObjectExplosiveChange.yy",},},
+    {"id":{"name":"struct_PlayerTrampleAction","path":"scripts/struct_PlayerTrampleAction/struct_PlayerTrampleAction.yy",},},
     {"id":{"name":"spr_BombBarrel","path":"sprites/spr_BombBarrel/spr_BombBarrel.yy",},},
     {"id":{"name":"ui_KickIcon","path":"objects/ui_KickIcon/ui_KickIcon.yy",},},
     {"id":{"name":"obj_ArrowFloorTile","path":"objects/obj_ArrowFloorTile/obj_ArrowFloorTile.yy",},},
