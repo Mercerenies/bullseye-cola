@@ -177,6 +177,18 @@ function DenialUnlessCode(condition_) : Code() constructor {
 
 }
 
+// If the player is on an arrow, obey it.
+function ObeyArrowCode() : Code() constructor {
+
+  static execute = function(program) {
+    var arrow = instance_position(obj_Player.x + GRID_SIZE / 2, obj_Player.y + GRID_SIZE / 2, obj_ArrowFloorTile);
+    if (instance_exists(arrow)) {
+      push_action(new PlayerRotateAction(obj_Player.facing_direction, arrow.image_index));
+    }
+  }
+
+}
+
 // Abstract base class.
 function Condition() constructor {
 

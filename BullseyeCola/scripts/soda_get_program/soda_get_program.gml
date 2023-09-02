@@ -74,9 +74,11 @@ function soda_get_program(soda_number) {
     ]);
   case 16: // Rush Cola
     return new Program([
+      new ObeyArrowCode(),
       new DenialUnlessCode(new CanBeMovedToCondition(0, true)),
       new WhileCode(new CanBeMovedToCondition(0, true)),
         new MoveInDirectionCode(0, true),
+        new ObeyArrowCode(),
       new WendCode(),
     ]);
   case 17:
