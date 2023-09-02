@@ -136,8 +136,17 @@ function soda_get_program(soda_number) {
       new StopAnimatingCode(),
       new KickInDirectionCode(0),
     ]);
-  case 26:
-    break;
+  case 26: // Left Rush Hop Cola
+    return new Program([
+      new RotateCode(1),
+      new ObeyArrowCode(),
+      new DenialUnlessCode(new CanBeMovedToCondition(0, true)),
+      new WhileCode(new CanBeMovedToCondition(0, true)),
+        new HopInDirectionCode(0, true),
+        new ObeyArrowCode(),
+      new WendCode(),
+      new StopAnimatingCode(),
+    ]);
   case 27:
     break;
   case 28:
@@ -207,8 +216,17 @@ function soda_get_program(soda_number) {
       new StopAnimatingCode(),
       new KickInDirectionCode(0),
     ]);
-  case 50:
-    break;
+  case 50: // Right Rush Hop Cola
+    return new Program([
+      new RotateCode(-1),
+      new ObeyArrowCode(),
+      new DenialUnlessCode(new CanBeMovedToCondition(0, true)),
+      new WhileCode(new CanBeMovedToCondition(0, true)),
+        new HopInDirectionCode(0, true),
+        new ObeyArrowCode(),
+      new WendCode(),
+      new StopAnimatingCode(),
+    ]);
   case 51:
     break;
   case 52:

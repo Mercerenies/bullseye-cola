@@ -94,8 +94,11 @@ function soda_get_highlights(soda_number) {
       soda_generate_highlights(1, spr_FloorTileInfinityHighlight, 2, 1),
       soda_generate_highlights(1, spr_FloorTileKickHighlight, 3, 1),
     );
-  case 26:
-    break;
+  case 26: // Left Rush Hop Cola
+    return array_concat(
+      soda_generate_highlights(1, spr_FloorTileHighlight, 2, 1),
+      soda_generate_highlights(1, spr_FloorTileInfinityHighlight, 4, 1),
+    );
   case 27:
     break;
   case 28:
@@ -145,8 +148,11 @@ function soda_get_highlights(soda_number) {
       soda_generate_highlights(-1, spr_FloorTileInfinityHighlight, 2, 1),
       soda_generate_highlights(-1, spr_FloorTileKickHighlight, 3, 1),
     );
-  case 50:
-    break;
+  case 50: // Right Rush Hop Cola
+    return array_concat(
+      soda_generate_highlights(-1, spr_FloorTileHighlight, 2, 1),
+      soda_generate_highlights(-1, spr_FloorTileInfinityHighlight, 4, 1),
+    );
   case 51:
     break;
   case 52:
