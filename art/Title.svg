@@ -157,7 +157,7 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:43.0582px;font-family:Gabriola;-inkscape-font-specification:'Gabriola Bold';fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.448829;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Bullseye Cola</tspan></text>
     <text
        xml:space="preserve"
-       style="font-weight:bold;font-size:16.9333px;line-height:1.25;font-family:Caladea;-inkscape-font-specification:'Caladea Bold';stroke-width:0.264583"
+       style="font-weight:bold;font-size:16.9333px;line-height:1.25;font-family:Caladea;-inkscape-font-specification:'Caladea Bold';stroke-width:0.264583;fill:#7b7b7b;fill-opacity:1;"
        x="78.309967"
        y="165.70712"
        id="text12032"
@@ -167,6 +167,19 @@
          id="tspan12030"
          x="78.309967"
          y="165.70712"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;font-family:Gabriola;-inkscape-font-specification:'Gabriola Bold';stroke-width:0.264583">A Mercerenies Game</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;font-family:Gabriola;-inkscape-font-specification:'Gabriola Bold';stroke-width:0.264583;fill:#7b7b7b;fill-opacity:1;">A Mercerenies Game</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:16.9333px;line-height:1.25;font-family:Caladea;-inkscape-font-specification:'Caladea Bold';fill:#7b7b7b;fill-opacity:1;stroke-width:0.264583"
+       x="61.739258"
+       y="30.468742"
+       id="text12036"
+       inkscape:export-xdpi="97.097099"
+       inkscape:export-ydpi="97.097099"><tspan
+         sodipodi:role="line"
+         id="tspan12034"
+         x="61.739258"
+         y="30.468742"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;font-family:Gabriola;-inkscape-font-specification:'Gabriola Bold';fill:#6c6c6c;fill-opacity:1;stroke-width:0.264583">Choose a Level</tspan></text>
   </g>
 </svg>
