@@ -139,6 +139,7 @@
     {"name":"spr_FloorTileBoomHighlight","order":3,"path":"sprites/spr_FloorTileBoomHighlight/spr_FloorTileBoomHighlight.yy",},
     {"name":"struct_ObjectRiseAction","order":14,"path":"scripts/struct_ObjectRiseAction/struct_ObjectRiseAction.yy",},
     {"name":"rm_Level12","order":11,"path":"rooms/rm_Level12/rm_Level12.yy",},
+    {"name":"rm_Level23","order":22,"path":"rooms/rm_Level23/rm_Level23.yy",},
     {"name":"spr_SolidObjectMask","order":5,"path":"sprites/spr_SolidObjectMask/spr_SolidObjectMask.yy",},
     {"name":"rm_Template","order":3,"path":"rooms/rm_Template/rm_Template.yy",},
     {"name":"rm_Level4","order":3,"path":"rooms/rm_Level4/rm_Level4.yy",},

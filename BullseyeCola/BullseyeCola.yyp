@@ -169,6 +169,7 @@
     {"id":{"name":"spr_FloorTileBoomHighlight","path":"sprites/spr_FloorTileBoomHighlight/spr_FloorTileBoomHighlight.yy",},},
     {"id":{"name":"struct_ObjectRiseAction","path":"scripts/struct_ObjectRiseAction/struct_ObjectRiseAction.yy",},},
     {"id":{"name":"rm_Level12","path":"rooms/rm_Level12/rm_Level12.yy",},},
+    {"id":{"name":"rm_Level23","path":"rooms/rm_Level23/rm_Level23.yy",},},
     {"id":{"name":"spr_SolidObjectMask","path":"sprites/spr_SolidObjectMask/spr_SolidObjectMask.yy",},},
     {"id":{"name":"rm_Template","path":"rooms/rm_Template/rm_Template.yy",},},
     {"id":{"name":"rm_Level4","path":"rooms/rm_Level4/rm_Level4.yy",},},
@@ -228,6 +229,7 @@
     {"roomId":{"name":"rm_Level20","path":"rooms/rm_Level20/rm_Level20.yy",},},
     {"roomId":{"name":"rm_Level21","path":"rooms/rm_Level21/rm_Level21.yy",},},
     {"roomId":{"name":"rm_Level22","path":"rooms/rm_Level22/rm_Level22.yy",},},
+    {"roomId":{"name":"rm_Level23","path":"rooms/rm_Level23/rm_Level23.yy",},},
   ],
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
