@@ -12,6 +12,10 @@ function push_dia(dia) {
   array_push(ui_DialogueBox.dia, dia);
 }
 
+function push_epi(dia) {
+  array_push(ui_EpilogueDialogueBox.dia, dia);
+}
+
 enum Mugshot {
   JERRY = 0,
   MAX = 1,
