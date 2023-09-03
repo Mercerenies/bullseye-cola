@@ -22,7 +22,7 @@ image_alpha = approach(image_alpha, 1, 0.1);
 var target_text = dia[dia_index].text;
 display_text = string_copy(target_text, 1, string_length(display_text) + 1);
 
-if (input_get_mouse_released()) {
+if (input_get_mouse_released() || keyboard_check_released(vk_space) || keyboard_check_released(vk_enter)) {
   if (display_text != target_text) {
     display_text = target_text;
   } else if (dia_index == array_length(dia) - 1) {
