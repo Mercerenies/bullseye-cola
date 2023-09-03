@@ -1,0 +1,2 @@
+push_dia(new Dia(Mugshot.MAX, undefined, "This is an older portion of the factory, so watch your step."));
+push_dia(new Dia(Mugshot.MAX, undefined, "That cracked ground will crumble if you step on it."));

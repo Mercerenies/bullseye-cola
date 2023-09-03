@@ -1,0 +1,1 @@
+push_dia(new Dia(Mugshot.MAX, undefined, "This one is called Rush Cola. You won't be able to stop running once you drink it!"));
