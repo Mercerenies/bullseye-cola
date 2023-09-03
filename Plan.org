@@ -34,6 +34,7 @@
   13. [ ] Readme / thumbnail / afterword
       - Credits here too
       - Controls here too
+  14. [ ] Creation code check
 * OBJECTS
   + [X] Energy Drink
     - Pick up by walking over, and you can drink or mix it later.
