@@ -1,0 +1,2 @@
+push_dia(new Dia(Mugshot.MAX, undefined, "This is Boom Cola! Drink it, and you'll feel so good you'll explode with happiness!"));
+push_dia(new Dia(Mugshot.MAX, undefined, "With emphasis on the \"explode\"!"));
