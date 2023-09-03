@@ -1,0 +1,2 @@
+push_dia(new Dia(Mugshot.MAX, undefined, "I love this next room. It's such a satisfying shot."));
+push_dia(new Dia(Mugshot.MAX, undefined, "We have our intern put a new barrel here after every tour, just for this trick shot. There's not even anything in the barrel."));

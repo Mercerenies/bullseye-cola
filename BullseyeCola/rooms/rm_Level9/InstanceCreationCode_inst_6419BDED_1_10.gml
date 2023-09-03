@@ -1,3 +1,3 @@
 push_dia(new Dia(Mugshot.MAX, undefined, "I have a memo here from our legal team."));
-push_dia(new Dia(Mugshot.MAX, undefined, "It says \"kick back\" is not the appropriate term, and they'd prefer I call it a \"good faith charitable donation\" in the future."));
+push_dia(new Dia(Mugshot.MAX, undefined, "It says \"kick back\" is not the appropriate term, and they'd prefer I call it a \"good faith charitable donation with no string attached\" in the future."));
 push_dia(new Dia(Mugshot.MAX, undefined, "So to reiterate, we'll happily make a good faith charitable donation to all political parties, not for any particular incentive, but out of the kindness of our hearts."));

@@ -32,7 +32,7 @@ function soda_get_name(soda) {
 function place_soda_can(soda_can) {
   with (soda_can) {
     do {
-      x = random_range(UI_LEFT_THRESHOLD, UI_RIGHT_THRESHOLD);
+      x = random_range(UI_LEFT_THRESHOLD + 32, UI_RIGHT_THRESHOLD);
       y = random_range(UI_TOP_THRESHOLD, UI_BOTTOM_THRESHOLD);
     } until (!place_meeting(x, y, ui_UISodaCan));
   }
