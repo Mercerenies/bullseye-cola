@@ -19,6 +19,7 @@
     {"name":"Dialogue","order":12,"path":"folders/UI/Dialogue.yy",},
     {"name":"Utility Scripts","order":3,"path":"folders/Utility Scripts.yy",},
     {"name":"Menuing","order":10,"path":"folders/Menuing.yy",},
+    {"name":"Sounds","order":11,"path":"folders/Sounds.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"scr_Dialogue","order":2,"path":"scripts/scr_Dialogue/scr_Dialogue.yy",},

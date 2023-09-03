@@ -3,7 +3,7 @@ var player_level = load_game();
 
 for (var i = 0; i < 9; i++) {
   for (var j = 0; j < 4; j++) {
-    var index = i + j * 9;
+    var index = i + j * 9 + 1;
     if (index > player_level) {
       continue;
     }

@@ -17,4 +17,4 @@ push_epi(new Dia(Mugshot.MAX, undefined, "I was watching some old movies and had
 push_epi(new Dia(Mugshot.MAX, undefined, "So what do you say? Do you want to take over Bullseye Cola and this old robot rest?"));
 push_epi(new Dia(Mugshot.EMPTY, undefined, "Congratulations! You win the game!"));
 push_epi(new Dia(Mugshot.EMPTY, undefined, "Bullseye Cola\nGame, story, and graphics by Mercerenies"));
-push_epi(new Dia(Mugshot.EMPTY, undefined, "Undo Stack and Community Toolbox by Alice"));
+push_epi(new Dia(Mugshot.EMPTY, undefined, "Undo Stack and Community Toolbox by Alice\nBackground Music by Eric Matyas (Soundimage.org)"));

@@ -29,7 +29,7 @@
   8. [ ] SFX
   9. [ ] Spice up the level background
   10. [ ] Voice acting
-  11. [ ] More emotive mugshots?
+  11. [X] +More emotive mugshots?+
   12. [ ] Final room order check
   13. [ ] Readme / thumbnail / afterword
       - Credits here too
@@ -132,3 +132,4 @@
 * CREDITS
   + Undo Stack
   + Community Toolbox
+  + soundimage.org
