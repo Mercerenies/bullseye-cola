@@ -19,12 +19,12 @@
      - Done up to lvl 23
 * PLAN - SUNDAY MONRING
   1. [X] Level design
-  2. [ ] Epilogue
+  2. [X] Epilogue
      - Maybe an intro? Might not need one
   3. [ ] Menu
   4. [ ] Splash screen
-  5. [ ] Credits page
-  6. [ ] Save/load mechanics
+  5. [X] Credits page
+  6. [ ] Save/loagad mechanics
   7. [ ] BGM
   8. [ ] SFX
   9. [ ] Spice up the level background
@@ -32,6 +32,8 @@
   11. [ ] More emotive mugshots?
   12. [ ] Final room order check
   13. [ ] Readme / thumbnail / afterword
+      - Credits here too
+      - Controls here too
 * OBJECTS
   + [X] Energy Drink
     - Pick up by walking over, and you can drink or mix it later.
