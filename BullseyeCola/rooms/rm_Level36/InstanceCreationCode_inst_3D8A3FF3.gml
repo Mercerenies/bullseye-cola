@@ -1,0 +1,1 @@
+soda_number = Soda.RIGHT;

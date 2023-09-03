@@ -1,0 +1,3 @@
+push_dia(new Dia(Mugshot.MAX, undefined, "For safety reasons, there must always be a path through each of these rooms, no matter how convoluted it is."));
+push_dia(new Dia(Mugshot.MAX, undefined, "Evacuation plans are available on request. Actually, we just keep them next to Ted's office, since he's responsible for most of the fires in this building anyway."));
+push_dia(new Dia(Mugshot.MAX, undefined, "Best darn accountant in the world!"));
