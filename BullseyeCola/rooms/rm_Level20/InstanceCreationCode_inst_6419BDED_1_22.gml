@@ -1,0 +1,2 @@
+push_dia(new Dia(Mugshot.MAX, undefined, "Sometimes I like to take two or three sodas and mix 'em all together, just for good measure."));
+push_dia(new Dia(Mugshot.MAX, undefined, "It really brings out those hidden flavors!"));
