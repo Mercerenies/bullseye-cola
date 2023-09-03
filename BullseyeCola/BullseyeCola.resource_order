@@ -42,6 +42,7 @@
     {"name":"struct_ExplodeAction","order":11,"path":"scripts/struct_ExplodeAction/struct_ExplodeAction.yy",},
     {"name":"spr_SodaCan","order":6,"path":"sprites/spr_SodaCan/spr_SodaCan.yy",},
     {"name":"obj_PressurePlateTile","order":9,"path":"objects/obj_PressurePlateTile/obj_PressurePlateTile.yy",},
+    {"name":"rm_Level11","order":10,"path":"rooms/rm_Level11/rm_Level11.yy",},
     {"name":"struct_MakeObjectExplosiveChange","order":8,"path":"scripts/struct_MakeObjectExplosiveChange/struct_MakeObjectExplosiveChange.yy",},
     {"name":"struct_PlayerTrampleAction","order":12,"path":"scripts/struct_PlayerTrampleAction/struct_PlayerTrampleAction.yy",},
     {"name":"obj_DoorFloorTile","order":10,"path":"objects/obj_DoorFloorTile/obj_DoorFloorTile.yy",},
