@@ -77,6 +77,7 @@
     {"id":{"name":"fnt_DialogueText","path":"fonts/fnt_DialogueText/fnt_DialogueText.yy",},},
     {"id":{"name":"rm_Level36","path":"rooms/rm_Level36/rm_Level36.yy",},},
     {"id":{"name":"ui_KickIcon","path":"objects/ui_KickIcon/ui_KickIcon.yy",},},
+    {"id":{"name":"scr_SaveLoad","path":"scripts/scr_SaveLoad/scr_SaveLoad.yy",},},
     {"id":{"name":"spr_DialogueBox","path":"sprites/spr_DialogueBox/spr_DialogueBox.yy",},},
     {"id":{"name":"obj_ArrowFloorTile","path":"objects/obj_ArrowFloorTile/obj_ArrowFloorTile.yy",},},
     {"id":{"name":"spr_DoorFloorTile","path":"sprites/spr_DoorFloorTile/spr_DoorFloorTile.yy",},},

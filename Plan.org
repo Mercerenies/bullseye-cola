@@ -21,8 +21,8 @@
   1. [X] Level design
   2. [X] Epilogue
      - Maybe an intro? Might not need one
-  3. [ ] Menu
-  4. [ ] Splash screen
+  3. [X] Menu
+  4. [X] Splash screen
   5. [X] Credits page
   6. [ ] Save/loagad mechanics
   7. [ ] BGM
