@@ -25,7 +25,7 @@
   4. [X] Splash screen
   5. [X] Credits page
   6. [X] Save/load mechanics
-  7. [ ] BGM
+  7. [X] BGM
   8. [ ] SFX
   9. [ ] Spice up the level background
   10. [ ] Voice acting
