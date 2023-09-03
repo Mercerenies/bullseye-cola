@@ -145,6 +145,7 @@
     {"name":"struct_PlayerDenyAction","order":8,"path":"scripts/struct_PlayerDenyAction/struct_PlayerDenyAction.yy",},
     {"name":"spr_MetalBarrel","order":11,"path":"sprites/spr_MetalBarrel/spr_MetalBarrel.yy",},
     {"name":"struct_ObjectSlideAction","order":10,"path":"scripts/struct_ObjectSlideAction/struct_ObjectSlideAction.yy",},
+    {"name":"rm_Level22","order":21,"path":"rooms/rm_Level22/rm_Level22.yy",},
     {"name":"par_PhysicalObject","order":4,"path":"objects/par_PhysicalObject/par_PhysicalObject.yy",},
     {"name":"ctrl_PlayerMovementManager","order":5,"path":"objects/ctrl_PlayerMovementManager/ctrl_PlayerMovementManager.yy",},
     {"name":"perform_undo","order":11,"path":"scripts/perform_undo/perform_undo.yy",},

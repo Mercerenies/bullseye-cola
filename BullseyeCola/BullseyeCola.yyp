@@ -176,6 +176,7 @@
     {"id":{"name":"struct_PlayerDenyAction","path":"scripts/struct_PlayerDenyAction/struct_PlayerDenyAction.yy",},},
     {"id":{"name":"spr_MetalBarrel","path":"sprites/spr_MetalBarrel/spr_MetalBarrel.yy",},},
     {"id":{"name":"struct_ObjectSlideAction","path":"scripts/struct_ObjectSlideAction/struct_ObjectSlideAction.yy",},},
+    {"id":{"name":"rm_Level22","path":"rooms/rm_Level22/rm_Level22.yy",},},
     {"id":{"name":"par_PhysicalObject","path":"objects/par_PhysicalObject/par_PhysicalObject.yy",},},
     {"id":{"name":"ctrl_PlayerMovementManager","path":"objects/ctrl_PlayerMovementManager/ctrl_PlayerMovementManager.yy",},},
     {"id":{"name":"perform_undo","path":"scripts/perform_undo/perform_undo.yy",},},
@@ -224,8 +225,9 @@
     {"roomId":{"name":"rm_Level17","path":"rooms/rm_Level17/rm_Level17.yy",},},
     {"roomId":{"name":"rm_Level18","path":"rooms/rm_Level18/rm_Level18.yy",},},
     {"roomId":{"name":"rm_Level19","path":"rooms/rm_Level19/rm_Level19.yy",},},
-    {"roomId":{"name":"rm_Level21","path":"rooms/rm_Level21/rm_Level21.yy",},},
     {"roomId":{"name":"rm_Level20","path":"rooms/rm_Level20/rm_Level20.yy",},},
+    {"roomId":{"name":"rm_Level21","path":"rooms/rm_Level21/rm_Level21.yy",},},
+    {"roomId":{"name":"rm_Level22","path":"rooms/rm_Level22/rm_Level22.yy",},},
   ],
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
