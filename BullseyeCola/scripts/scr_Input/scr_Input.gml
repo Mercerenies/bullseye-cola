@@ -24,6 +24,10 @@ function input_undo() {
 }
 
 function input_restart() {
+  return keyboard_check(vk_control) && keyboard_check_pressed(ord("R"));
+}
+
+function input_level_select() {
   return keyboard_check_pressed(vk_escape);
 }
 

@@ -9,6 +9,12 @@ if (input_restart()) {
   exit;
 }
 
+if (input_level_select()) {
+  global.is_restarting_room = false;
+  room_goto(rm_LevelSelect);
+  exit;
+}
+
 if (is_player_idle()) {
   if (input_get_f1()) {
     with (ui_DialogueBox) {
