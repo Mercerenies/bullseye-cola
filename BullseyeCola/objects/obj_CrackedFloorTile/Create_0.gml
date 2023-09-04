@@ -10,5 +10,6 @@ cracking = 0;
 crack = function() {
   part_emitter_region(cracked_particle_system, cracked_particle_emitter, x, x + GRID_SIZE, y, y + GRID_SIZE, ps_shape_rectangle, ps_distr_linear);
   destroy(self);
+  audio_play_sound(snd_Crumble, 10, false);
   cracking = 3;
 }
