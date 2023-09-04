@@ -225,6 +225,7 @@
     {"id":{"name":"YouCanNeverBeTooCareful","path":"sounds/YouCanNeverBeTooCareful/YouCanNeverBeTooCareful.yy",},},
     {"id":{"name":"rm_Init","path":"rooms/rm_Init/rm_Init.yy",},},
     {"id":{"name":"par_FloorTile","path":"objects/par_FloorTile/par_FloorTile.yy",},},
+    {"id":{"name":"snd_Fall","path":"sounds/snd_Fall/snd_Fall.yy",},},
     {"id":{"name":"spr_PlayerMask","path":"sprites/spr_PlayerMask/spr_PlayerMask.yy",},},
     {"id":{"name":"spr_Init","path":"sprites/spr_Init/spr_Init.yy",},},
     {"id":{"name":"spr_FloorTileHighlight","path":"sprites/spr_FloorTileHighlight/spr_FloorTileHighlight.yy",},},
