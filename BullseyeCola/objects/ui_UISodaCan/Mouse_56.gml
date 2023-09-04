@@ -24,6 +24,7 @@ if (dragging) {
         overlapping_soda.soda_number = new_soda_number;
         undo_stack_apply_change(new SodaCanDestroyChange(soda_number, last_anchor_x, last_anchor_y));
         undo_stack_apply_change(new SodaCanTransmuteChange(overlapping_soda.x, overlapping_soda.y, old_soda_number, new_soda_number));
+        audio_play_sound(snd_Fizz, 10, false);
         instance_destroy();
       } else {
         // Revert

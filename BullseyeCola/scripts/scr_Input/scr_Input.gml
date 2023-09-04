@@ -20,7 +20,7 @@ function input_shift_modifier() {
 }
 
 function input_undo() {
-  return keyboard_check_pressed(vk_backspace);
+  return keyboard_check_pressed(vk_backspace) || (keyboard_check(vk_control) && keyboard_check_pressed(ord("Z")));
 }
 
 function input_restart() {
