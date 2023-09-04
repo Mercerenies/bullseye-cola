@@ -138,6 +138,7 @@
     {"name":"obj_WoodWall","order":16,"path":"objects/obj_WoodWall/obj_WoodWall.yy",},
     {"name":"struct_PlayerMoveAction","order":1,"path":"scripts/struct_PlayerMoveAction/struct_PlayerMoveAction.yy",},
     {"name":"snd_Push","order":11,"path":"sounds/snd_Push/snd_Push.yy",},
+    {"name":"snd_ExplodeOld","order":15,"path":"sounds/snd_ExplodeOld/snd_ExplodeOld.yy",},
     {"name":"obj_BasicFloorTile","order":3,"path":"objects/obj_BasicFloorTile/obj_BasicFloorTile.yy",},
     {"name":"ui_HelperWatermark","order":3,"path":"objects/ui_HelperWatermark/ui_HelperWatermark.yy",},
     {"name":"IBetTheyreReinforced","order":58,"path":"sounds/IBetTheyreReinforced/IBetTheyreReinforced.yy",},
