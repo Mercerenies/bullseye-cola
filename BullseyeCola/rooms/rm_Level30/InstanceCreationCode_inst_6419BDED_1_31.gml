@@ -1,2 +1,2 @@
-push_dia(new Dia(Mugshot.MAX, undefined, "This is an older portion of the factory, so watch your step."));
-push_dia(new Dia(Mugshot.MAX, undefined, "That cracked ground will crumble if you step on it."));
+push_dia(new Dia(Mugshot.MAX, ThisIsAnOlder, "This is an older portion of the factory, so watch your step."));
+push_dia(new Dia(Mugshot.MAX, ThatCrackedGroundWillCrumble, "That cracked ground will crumble if you step on it."));

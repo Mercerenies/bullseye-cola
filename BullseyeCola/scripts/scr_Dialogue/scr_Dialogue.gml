@@ -1,7 +1,7 @@
 
 function Dia(speaker_, audio_, text_, expression_ = "neutral") constructor {
   speaker = speaker_;
-  audio = audio_; // Voice acting; currently unused parameter
+  audio = audio_;
   text = text_;
   expression = expression_;
   
@@ -20,7 +20,14 @@ function Dia(speaker_, audio_, text_, expression_ = "neutral") constructor {
       break;
   }
 
-  static on_trigger = function() {}
+  static on_trigger = function() {
+    if (!is_undefined(audio)) {
+      if ((!is_undefined(global.voice)) && audio_is_playing(global.voice)) {
+        audio_stop_sound(global.voice);
+      }
+      global.voice = audio_play_sound(audio, 10, false);
+    }
+  }
 
 }
 

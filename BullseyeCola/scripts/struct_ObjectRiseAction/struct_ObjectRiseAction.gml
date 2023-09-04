@@ -7,6 +7,7 @@ function ObjectRiseAction(object_id_, src_x_, src_y_) : Action() constructor {
   animation_time = 0.0;
 
   static on_start = function() {
+    audio_play_sound(snd_Ow, 10, false);
     undo_stack_apply_change(new ObjectDestroyChange(object_id, src_x, src_y));
     object_id.destroying = true;
     if (object_id.object_index == obj_Player) {

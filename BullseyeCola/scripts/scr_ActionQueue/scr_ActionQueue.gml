@@ -56,6 +56,15 @@ function Code() constructor {
 
 }
 
+function PlaySoundCode(sound_id_) : Code() constructor {
+  sound_id = sound_id_;
+
+  static execute = function(program) {
+    audio_play_sound(sound_id, 10, false);
+  }
+
+}
+
 // DO NOT NEST WHILE LOOPS! PLEASE!
 function WhileCode(condition_) : Code() constructor {
   condition = condition_;
@@ -103,6 +112,7 @@ function KickInDirectionCode(relative_dir_) : Code() constructor {
   relative_dir = relative_dir_;
 
   static execute = function(program) {
+    audio_play_sound(snd_Kick, 10, false);
     var dir = obj_Player.facing_direction + relative_dir;
     var src_x = obj_Player.x;
     var src_y = obj_Player.y;
@@ -125,6 +135,7 @@ function BoomKickInDirectionCode(relative_dir_) : Code() constructor {
   relative_dir = relative_dir_;
 
   static execute = function(program) {
+    audio_play_sound(snd_Kick, 10, false);
     var dir = obj_Player.facing_direction + relative_dir;
     var src_x = obj_Player.x;
     var src_y = obj_Player.y;
@@ -191,6 +202,7 @@ function ObeyArrowCode() : Code() constructor {
   static execute = function(program) {
     var arrow = instance_position(obj_Player.x + GRID_SIZE / 2, obj_Player.y + GRID_SIZE / 2, obj_ArrowFloorTile);
     if (instance_exists(arrow)) {
+      audio_play_sound(snd_Arrow, 10, false);
       push_action(new PlayerRotateAction(obj_Player.facing_direction, arrow.image_index));
     }
   }

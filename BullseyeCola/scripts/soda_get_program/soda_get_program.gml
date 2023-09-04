@@ -42,6 +42,7 @@ function soda_get_program(soda_number) {
     ]);
   case 8: // Left Cola
     return new Program([
+      new PlaySoundCode(snd_Diagonal),
       new MoveInDirectionCode(1, false),
       new CheckFallCode(),
     ]);
@@ -62,6 +63,7 @@ function soda_get_program(soda_number) {
     ]);
   case 12: // Left Boom Cola
     return new Program([
+      new PlaySoundCode(snd_Diagonal),
       new MoveInDirectionCode(1, false),
       new CheckFallCode(),
       new ExplodeInPlaceCode(),
@@ -84,6 +86,7 @@ function soda_get_program(soda_number) {
     ]);
   case 16: // Rush Cola
     return new Program([
+      new PlaySoundCode(snd_Rush),
       new ObeyArrowCode(),
       new DenialUnlessCode(new CanBeMovedToCondition(0, true)),
       new WhileCode(new CanBeMovedToCondition(0, true)),
@@ -95,6 +98,7 @@ function soda_get_program(soda_number) {
     ]);
   case 17: // Rush Kick Cola
     return new Program([
+      new PlaySoundCode(snd_Rush),
       new ObeyArrowCode(),
       new DenialUnlessCode(new CanBeMovedToCondition(0, true)),
       new WhileCode(new CanBeMovedToCondition(0, true)),
@@ -132,6 +136,7 @@ function soda_get_program(soda_number) {
     ]);
   case 20: // Rush Boom Cola
     return new Program([
+      new PlaySoundCode(snd_Rush),
       new ObeyArrowCode(),
       new DenialUnlessCode(new CanBeMovedToCondition(0, true)),
       new WhileCode(new CanBeMovedToCondition(0, true)),
@@ -144,6 +149,7 @@ function soda_get_program(soda_number) {
     ]);
   case 21: // Rush Boom Kick Cola
     return new Program([
+      new PlaySoundCode(snd_Rush),
       new ObeyArrowCode(),
       new DenialUnlessCode(new CanBeMovedToCondition(0, true)),
       new WhileCode(new CanBeMovedToCondition(0, true)),
@@ -183,6 +189,7 @@ function soda_get_program(soda_number) {
     ]);
   case 24: // Left Rush Cola
     return new Program([
+      new PlaySoundCode(snd_Rush),
       new RotateCode(1),
       new ObeyArrowCode(),
       new DenialUnlessCode(new CanBeMovedToCondition(0, true)),
@@ -195,6 +202,7 @@ function soda_get_program(soda_number) {
     ]);
   case 25: // Left Rush Kick Cola
     return new Program([
+      new PlaySoundCode(snd_Rush),
       new RotateCode(1),
       new ObeyArrowCode(),
       new DenialUnlessCode(new CanBeMovedToCondition(0, true)),
@@ -234,6 +242,7 @@ function soda_get_program(soda_number) {
     ]);
   case 28: // Left Rush Boom Cola
     return new Program([
+      new PlaySoundCode(snd_Rush),
       new RotateCode(1),
       new ObeyArrowCode(),
       new DenialUnlessCode(new CanBeMovedToCondition(0, true)),
@@ -247,6 +256,7 @@ function soda_get_program(soda_number) {
     ]);
   case 29: // Left Rush Boom Kick Cola
     return new Program([
+      new PlaySoundCode(snd_Rush),
       new RotateCode(1),
       new ObeyArrowCode(),
       new DenialUnlessCode(new CanBeMovedToCondition(0, true)),
@@ -289,6 +299,7 @@ function soda_get_program(soda_number) {
     ]);
   case 32: // Right Cola
     return new Program([
+      new PlaySoundCode(snd_Diagonal),
       new MoveInDirectionCode(-1, false),
       new CheckFallCode(),
     ]);
@@ -309,6 +320,7 @@ function soda_get_program(soda_number) {
     ]);
   case 36: // Right Boom Cola
     return new Program([
+      new PlaySoundCode(snd_Diagonal),
       new MoveInDirectionCode(-1, false),
       new CheckFallCode(),
       new ExplodeInPlaceCode(),
@@ -331,6 +343,7 @@ function soda_get_program(soda_number) {
     ]);
   case 48: // Right Rush Cola
     return new Program([
+      new PlaySoundCode(snd_Rush),
       new RotateCode(-1),
       new ObeyArrowCode(),
       new DenialUnlessCode(new CanBeMovedToCondition(0, true)),
@@ -343,6 +356,7 @@ function soda_get_program(soda_number) {
     ]);
   case 49: // Right Rush Kick Cola
     return new Program([
+      new PlaySoundCode(snd_Rush),
       new RotateCode(-1),
       new ObeyArrowCode(),
       new DenialUnlessCode(new CanBeMovedToCondition(0, true)),
@@ -383,6 +397,7 @@ function soda_get_program(soda_number) {
     ]);
   case 52: // Right Rush Boom Cola
     return new Program([
+      new PlaySoundCode(snd_Rush),
       new RotateCode(-1),
       new ObeyArrowCode(),
       new DenialUnlessCode(new CanBeMovedToCondition(0, true)),
@@ -396,6 +411,7 @@ function soda_get_program(soda_number) {
     ]);
   case 53: // Right Rush Boom Kick Cola
     return new Program([
+      new PlaySoundCode(snd_Rush),
       new RotateCode(-1),
       new ObeyArrowCode(),
       new DenialUnlessCode(new CanBeMovedToCondition(0, true)),

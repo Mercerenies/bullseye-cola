@@ -140,6 +140,7 @@ function carry_momentum(object_id, dir, is_first_move) {
   var arrow_panel = instance_position(src_x + GRID_SIZE / 2, src_y + GRID_SIZE / 2, obj_ArrowFloorTile);
   if (instance_exists(arrow_panel)) {
     dir = arrow_panel.image_index;
+    audio_play_sound(snd_Arrow, 10, false);
   }
 
   var dest_x = src_x + direction_x(dir);
@@ -184,6 +185,12 @@ function explode_at(xx, yy) {
     // Prevent infinite loops by not repeating explosions on the same position.
     return;
   }
+
+  // Play sound
+  if (is_undefined(global.boom) || !audio_is_playing(global.boom)) {
+    global.boom = audio_play_sound(snd_Explode, 10, false);
+  }
+
   instance_create_layer(xx + GRID_SIZE / 2, yy + GRID_SIZE / 2, "Instances_UI", ui_ExplosionIcon);
   var victim = instance_position(xx + GRID_SIZE / 2, yy + GRID_SIZE / 2, par_PhysicalObject);
   if (instance_exists(victim)) {

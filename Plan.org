@@ -26,15 +26,15 @@
   5. [X] Credits page
   6. [X] Save/load mechanics
   7. [X] BGM
-  8. [ ] SFX
-  9. [ ] Spice up the level background
-  10. [ ] Voice acting
+  8. [X] SFX
+  9. [X] +Spice up the level background+
+  10. [X] Voice acting
   11. [X] +More emotive mugshots?+
-  12. [ ] Final room order check
+  12. [X] Final room order check
   13. [ ] Readme / thumbnail / afterword
       - Credits here too
       - Controls here too
-  14. [ ] Creation code check
+  14. [X] Creation code check
 * OBJECTS
   + [X] Energy Drink
     - Pick up by walking over, and you can drink or mix it later.
@@ -134,3 +134,4 @@
   + Undo Stack
   + Community Toolbox
   + soundimage.org
+  + QoL improvements by Alice

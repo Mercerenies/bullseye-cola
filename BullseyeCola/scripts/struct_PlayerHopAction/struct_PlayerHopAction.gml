@@ -10,6 +10,7 @@ function PlayerHopAction(src_x_, src_y_, facing_dir_, dest_x_, dest_y_) : Action
 
   static on_start = function() {
     undo_stack_apply_change(new PlayerMoveChange(src_x, src_y, facing_dir, dest_x, dest_y, facing_dir));
+    audio_play_sound(snd_Hop, 10, false);
     obj_Player.hopping = true;
   }
 

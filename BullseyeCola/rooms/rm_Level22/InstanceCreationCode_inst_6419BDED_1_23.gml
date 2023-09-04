@@ -1,2 +1,2 @@
-push_dia(new Dia(Mugshot.MAX, undefined, "These are arrow panels. If you kick a barrel onto them, it'll go in that direction."));
-push_dia(new Dia(Mugshot.MAX, undefined, "Our lawyers say we have to include at least one arrow panel based puzzle."));
+push_dia(new Dia(Mugshot.MAX, TheseAreArrowPanels, "These are arrow panels. If you kick a barrel onto them, it'll go in that direction."));
+push_dia(new Dia(Mugshot.MAX, OurLawyersSayWeHaveTo, "Our lawyers say we have to include at least one arrow panel based puzzle."));

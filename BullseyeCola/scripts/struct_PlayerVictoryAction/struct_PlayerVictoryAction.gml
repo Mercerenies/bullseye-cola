@@ -4,6 +4,7 @@ function PlayerVictoryAction() : Action() constructor {
   animation_time = 0.0;
 
   static on_start = function() {
+    audio_play_sound(snd_Yeah, 10, false);
     obj_Player.animating = false;
   }
 
