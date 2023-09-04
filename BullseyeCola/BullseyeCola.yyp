@@ -285,6 +285,7 @@
     {"id":{"name":"rm_Level12","path":"rooms/rm_Level12/rm_Level12.yy",},},
     {"id":{"name":"rm_Level23","path":"rooms/rm_Level23/rm_Level23.yy",},},
     {"id":{"name":"SorryIHadToDisappear","path":"sounds/SorryIHadToDisappear/SorryIHadToDisappear.yy",},},
+    {"id":{"name":"snd_CollectSoda","path":"sounds/snd_CollectSoda/snd_CollectSoda.yy",},},
     {"id":{"name":"spr_SolidObjectMask","path":"sprites/spr_SolidObjectMask/spr_SolidObjectMask.yy",},},
     {"id":{"name":"rm_Template","path":"rooms/rm_Template/rm_Template.yy",},},
     {"id":{"name":"YeahItWasAReallySoggy","path":"sounds/YeahItWasAReallySoggy/YeahItWasAReallySoggy.yy",},},

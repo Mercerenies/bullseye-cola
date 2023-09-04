@@ -250,6 +250,7 @@
     {"name":"rm_Level12","order":11,"path":"rooms/rm_Level12/rm_Level12.yy",},
     {"name":"rm_Level23","order":22,"path":"rooms/rm_Level23/rm_Level23.yy",},
     {"name":"SorryIHadToDisappear","order":51,"path":"sounds/SorryIHadToDisappear/SorryIHadToDisappear.yy",},
+    {"name":"snd_CollectSoda","order":13,"path":"sounds/snd_CollectSoda/snd_CollectSoda.yy",},
     {"name":"spr_SolidObjectMask","order":5,"path":"sprites/spr_SolidObjectMask/spr_SolidObjectMask.yy",},
     {"name":"rm_Template","order":3,"path":"rooms/rm_Template/rm_Template.yy",},
     {"name":"YeahItWasAReallySoggy","order":42,"path":"sounds/YeahItWasAReallySoggy/YeahItWasAReallySoggy.yy",},

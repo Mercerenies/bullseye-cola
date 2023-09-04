@@ -7,6 +7,7 @@ function SodaObjectCollectAction(object_id_, src_x_, src_y_) : Action() construc
   animation_time = 0.0;
 
   static on_start = function() {
+    audio_play_sound(snd_CollectSoda, 10, false);
     undo_stack_apply_change(new ObjectDestroyChange(object_id, src_x, src_y));
     collect_soda_can(object_id.soda_number);
   }
