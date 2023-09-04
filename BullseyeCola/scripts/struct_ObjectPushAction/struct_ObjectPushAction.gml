@@ -9,6 +9,7 @@ function ObjectPushAction(object_id_, src_x_, src_y_, dest_x_, dest_y_) : Action
   animation_time = 0.0;
 
   static on_start = function() {
+    audio_play_sound(snd_Push, 10, false);
     undo_stack_apply_change(new ObjectMoveChange(object_id, src_x, src_y));
   }
 

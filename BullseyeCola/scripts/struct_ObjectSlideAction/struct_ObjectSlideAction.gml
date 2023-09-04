@@ -11,6 +11,7 @@ function ObjectSlideAction(object_id_, src_x_, src_y_, dir_, is_first_move_) : A
   animation_time = 0.0;
 
   static on_start = function() {
+    audio_play_sound(snd_Push, 10, false);
     if (is_first_move) {
       undo_stack_apply_change(new ObjectMoveChange(object_id, src_x, src_y));
     }

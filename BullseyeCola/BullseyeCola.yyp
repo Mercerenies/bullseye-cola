@@ -163,6 +163,7 @@
     {"id":{"name":"struct_SodaCanDestroyChange","path":"scripts/struct_SodaCanDestroyChange/struct_SodaCanDestroyChange.yy",},},
     {"id":{"name":"obj_WoodWall","path":"objects/obj_WoodWall/obj_WoodWall.yy",},},
     {"id":{"name":"struct_PlayerMoveAction","path":"scripts/struct_PlayerMoveAction/struct_PlayerMoveAction.yy",},},
+    {"id":{"name":"snd_Push","path":"sounds/snd_Push/snd_Push.yy",},},
     {"id":{"name":"obj_BasicFloorTile","path":"objects/obj_BasicFloorTile/obj_BasicFloorTile.yy",},},
     {"id":{"name":"ui_HelperWatermark","path":"objects/ui_HelperWatermark/ui_HelperWatermark.yy",},},
     {"id":{"name":"IBetTheyreReinforced","path":"sounds/IBetTheyreReinforced/IBetTheyreReinforced.yy",},},
