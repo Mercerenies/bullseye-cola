@@ -246,6 +246,7 @@
     {"id":{"name":"rm_Epilogue","path":"rooms/rm_Epilogue/rm_Epilogue.yy",},},
     {"id":{"name":"rm_Level25","path":"rooms/rm_Level25/rm_Level25.yy",},},
     {"id":{"name":"ui_LevelSelector","path":"objects/ui_LevelSelector/ui_LevelSelector.yy",},},
+    {"id":{"name":"spr_UISodaCanOver","path":"sprites/spr_UISodaCanOver/spr_UISodaCanOver.yy",},},
     {"id":{"name":"spr_CrackedParticle","path":"sprites/spr_CrackedParticle/spr_CrackedParticle.yy",},},
     {"id":{"name":"IMayHaveToldASmallTiny","path":"sounds/IMayHaveToldASmallTiny/IMayHaveToldASmallTiny.yy",},},
     {"id":{"name":"spr_Particles","path":"sprites/spr_Particles/spr_Particles.yy",},},

@@ -213,6 +213,7 @@
     {"name":"rm_Epilogue","order":4,"path":"rooms/rm_Epilogue/rm_Epilogue.yy",},
     {"name":"rm_Level25","order":24,"path":"rooms/rm_Level25/rm_Level25.yy",},
     {"name":"ui_LevelSelector","order":3,"path":"objects/ui_LevelSelector/ui_LevelSelector.yy",},
+    {"name":"spr_UISodaCanOver","order":11,"path":"sprites/spr_UISodaCanOver/spr_UISodaCanOver.yy",},
     {"name":"spr_CrackedParticle","order":10,"path":"sprites/spr_CrackedParticle/spr_CrackedParticle.yy",},
     {"name":"IMayHaveToldASmallTiny","order":59,"path":"sounds/IMayHaveToldASmallTiny/IMayHaveToldASmallTiny.yy",},
     {"name":"spr_Particles","order":8,"path":"sprites/spr_Particles/spr_Particles.yy",},
