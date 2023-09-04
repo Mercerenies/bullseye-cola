@@ -16,6 +16,7 @@ push_epi(new Dia(Mugshot.MAX, SoIveBeenLooking, "So I've been looking for a repl
 push_epi(new Dia(Mugshot.MAX, IWasWatchingSomeOldMovies, "I was watching some old movies and had a brilliant idea! I'd give the factory to whoever won a golden ticket!"));
 push_epi(new Dia(Mugshot.MAX, SoWhatDoYouSay, "So what do you say? Do you want to take over Bullseye Cola and this old robot rest?"));
 push_epi(new Dia(Mugshot.EMPTY, undefined, "Congratulations! You win the game!"));
-push_epi(new Dia(Mugshot.EMPTY, undefined, "Bullseye Cola\nGame, story, and graphics by Mercerenies"));
+push_epi(new Dia(Mugshot.EMPTY, undefined, "Bullseye Cola\nGame, story, and most graphics by Mercerenies"));
+push_epi(new Dia(Mugshot.EMPTY, undefined, "Miscellaneous quality of life improvements and background graphics by Alice"));
 push_epi(new Dia(Mugshot.EMPTY, undefined, "Undo Stack and Community Toolbox by Alice\nBackground Music by Eric Matyas (Soundimage.org)"));
-push_epi(new Dia(Mugshot.EMPTY, undefined, "Miscellaneous quality of life improvements by Alice"));
+push_epi(new Dia(Mugshot.EMPTY, undefined, "Voice acting and some sound effects by Mercerenies\nOther sound effects were taken from freesound.org"));
