@@ -255,6 +255,7 @@
     {"id":{"name":"bg_SodaJoy4","path":"sprites/bg_SodaJoy4/bg_SodaJoy4.yy",},},
     {"id":{"name":"EvacuationPlansAreAvailable","path":"sounds/EvacuationPlansAreAvailable/EvacuationPlansAreAvailable.yy",},},
     {"id":{"name":"InWhatDisguise","path":"sounds/InWhatDisguise/InWhatDisguise.yy",},},
+    {"id":{"name":"spr_BullseyeColaTitle","path":"sprites/spr_BullseyeColaTitle/spr_BullseyeColaTitle.yy",},},
     {"id":{"name":"ButHesTheBestDarnAccountant","path":"sounds/ButHesTheBestDarnAccountant/ButHesTheBestDarnAccountant.yy",},},
     {"id":{"name":"struct_PlayerStopAnimatingAction","path":"scripts/struct_PlayerStopAnimatingAction/struct_PlayerStopAnimatingAction.yy",},},
     {"id":{"name":"HiImJerry","path":"sounds/HiImJerry/HiImJerry.yy",},},

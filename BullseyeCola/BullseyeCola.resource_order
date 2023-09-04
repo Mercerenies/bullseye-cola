@@ -222,6 +222,7 @@
     {"name":"bg_SodaJoy4","order":10,"path":"sprites/bg_SodaJoy4/bg_SodaJoy4.yy",},
     {"name":"EvacuationPlansAreAvailable","order":79,"path":"sounds/EvacuationPlansAreAvailable/EvacuationPlansAreAvailable.yy",},
     {"name":"InWhatDisguise","order":46,"path":"sounds/InWhatDisguise/InWhatDisguise.yy",},
+    {"name":"spr_BullseyeColaTitle","order":7,"path":"sprites/spr_BullseyeColaTitle/spr_BullseyeColaTitle.yy",},
     {"name":"ButHesTheBestDarnAccountant","order":37,"path":"sounds/ButHesTheBestDarnAccountant/ButHesTheBestDarnAccountant.yy",},
     {"name":"struct_PlayerStopAnimatingAction","order":13,"path":"scripts/struct_PlayerStopAnimatingAction/struct_PlayerStopAnimatingAction.yy",},
     {"name":"HiImJerry","order":76,"path":"sounds/HiImJerry/HiImJerry.yy",},
