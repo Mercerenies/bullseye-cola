@@ -13,6 +13,7 @@
     {"name":"Player","order":2,"path":"folders/Player.yy",},
     {"name":"Sprites","order":1,"path":"folders/Player/Sprites.yy",},
     {"name":"Main Game","order":2,"path":"folders/Rooms/Main Game.yy",},
+    {"name":"SodaJoy","order":12,"path":"folders/SodaJoy.yy",},
     {"name":"Sodas","order":7,"path":"folders/Sodas.yy",},
     {"name":"Solid Objects","order":6,"path":"folders/Solid Objects.yy",},
     {"name":"Sounds","order":11,"path":"folders/Sounds.yy",},
@@ -21,7 +22,6 @@
     {"name":"UI","order":8,"path":"folders/UI.yy",},
     {"name":"Dialogue","order":12,"path":"folders/UI/Dialogue.yy",},
     {"name":"Utility Scripts","order":3,"path":"folders/Utility Scripts.yy",},
-    {"name":"SodaJoy","order":12,"path":"folders/SodaJoy.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"scr_Dialogue","order":2,"path":"scripts/scr_Dialogue/scr_Dialogue.yy",},
@@ -199,6 +199,7 @@
     {"name":"HuhWheredMaxwellGo","order":35,"path":"sounds/HuhWheredMaxwellGo/HuhWheredMaxwellGo.yy",},
     {"name":"rm_Level26","order":25,"path":"rooms/rm_Level26/rm_Level26.yy",},
     {"name":"ui_get_watermark_text","order":4,"path":"scripts/ui_get_watermark_text/ui_get_watermark_text.yy",},
+    {"name":"spr_FloorFront","order":20,"path":"sprites/spr_FloorFront/spr_FloorFront.yy",},
     {"name":"snd_Rush","order":6,"path":"sounds/snd_Rush/snd_Rush.yy",},
     {"name":"rm_Level30","order":30,"path":"rooms/rm_Level30/rm_Level30.yy",},
     {"name":"spr_PressurePlateTile","order":13,"path":"sprites/spr_PressurePlateTile/spr_PressurePlateTile.yy",},
