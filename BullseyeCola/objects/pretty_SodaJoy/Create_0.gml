@@ -2,16 +2,16 @@ sodajoy_layer = layer_create(layer_get_depth("Background") - 10, "SodaJoy");
 bg_layer = layer_create(layer_get_depth("Background") - 5, "SodaJoy");
 
 var _bg_sprite = bg_SodaJoy1;
-var _color = merge_color(c_orange, c_white, 0.6);
+var _color = merge_color(c_orange, c_white, 0.75);
 if (level_number > 27) {
     _bg_sprite = bg_SodaJoy4;
-    _color = merge_color(c_fuchsia, c_white, 0.6);
+    _color = merge_color(c_fuchsia, c_white, 0.75);
 } else if (level_number > 18) {
     _bg_sprite = bg_SodaJoy3;
-    _color = merge_color(c_aqua, c_white, 0.6);
+    _color = merge_color(c_aqua, c_white, 0.75);
 } else if (level_number > 9) {
     _bg_sprite = bg_SodaJoy2;
-    _color = merge_color(c_lime, c_white, 0.6);
+    _color = merge_color(c_lime, c_white, 0.75);
 }
 instance_create_layer(0, 0, bg_layer, pretty_SodaJoyBackground, { sprite_index: _bg_sprite });
 
@@ -33,6 +33,10 @@ with (obj_StarFloorTile) {
 with (obj_PressurePlateTile) {
     image_blend = _color;
 }
+with (obj_SpikedFloorTile) {
+    image_blend = _color;
+}
+
 part_type_colour1(ctrl_Particles.cracked_block, _color);
 
 sodajoy_icons = [0];
