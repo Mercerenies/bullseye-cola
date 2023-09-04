@@ -160,6 +160,7 @@ function carry_momentum(object_id, dir, is_first_move) {
       destroy(object_id);
     } else if (object_is_ancestor(obstacle.object_index, par_Pushable)) {
       // Transfer momentum
+      audio_play_sound(snd_BarrelHit, 10, false);
       carry_momentum(obstacle, dir, true);
       check_if_should_fall(object_id);
     }

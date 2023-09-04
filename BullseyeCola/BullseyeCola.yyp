@@ -108,6 +108,7 @@
     {"id":{"name":"ThisInParticularIsCalledHop","path":"sounds/ThisInParticularIsCalledHop/ThisInParticularIsCalledHop.yy",},},
     {"id":{"name":"ui_UISodaCan","path":"objects/ui_UISodaCan/ui_UISodaCan.yy",},},
     {"id":{"name":"Alphish_UndoStack_HowTo","path":"notes/Alphish_UndoStack_HowTo/Alphish_UndoStack_HowTo.yy",},},
+    {"id":{"name":"snd_BarrelHit","path":"sounds/snd_BarrelHit/snd_BarrelHit.yy",},},
     {"id":{"name":"soda_get_program","path":"scripts/soda_get_program/soda_get_program.yy",},},
     {"id":{"name":"rm_Level16","path":"rooms/rm_Level16/rm_Level16.yy",},},
     {"id":{"name":"ui_Splash","path":"objects/ui_Splash/ui_Splash.yy",},},
